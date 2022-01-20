@@ -26,6 +26,7 @@ async function main$(_opts) {
   printPastGuesses(pastGuesses, dictionary);
 
   let patterns = computePatterns(pastGuesses);
+  console.log(patterns);
   let guesses = computeGuesses(dictionary, patterns, pastGuesses.length > 3);
   guesses = guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses);
   if (guesses.length === 0) guesses = computeGuesses(dictionary, patterns, true);
@@ -116,7 +117,7 @@ function getOpts(_opts) {
     _opts ||
     gprocs.args(
       "--help,--omitfile=omit.txt,--omit=,--wordfile=five-letter-words.txt",
-      "word1,word2,word3,word4,word5,word6"
+      "guess1,guess2,guess3,guess4,guess5,guess1"
     );
   if (opts.help) return help();
   for(let i of range(0, opts._files.length)) {
@@ -137,7 +138,7 @@ function getOpts(_opts) {
 function help() {
   console.log("\n");
   console.log("ELDROW - The Wordle Solver\n");
-  console.log("eldrow guess1=pattern guess2=pattern...\n");
+  console.log("USAGE: eldrow.js --help --omitfile=omit.txt --omit=WORD --wordfile=five-letter-words.txt guess1=BGYBG guess2=BGYBG...\n");
   console.log("  with no parameters, it will generate a first guess");
   console.log("  with parameters, it will generate a next guess");
   console.log("  enter guesses and results from Wordle as follows");
