@@ -34,7 +34,6 @@ class Histogram {
     for (let pos in range(0, 5)) {
       strings[pos] = this.data[pos].map((entry) => entry.key).join("");
     }
-    console.log(strings);
     return strings;
   }
   getPriority(pos, char) {

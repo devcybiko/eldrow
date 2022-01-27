@@ -14,6 +14,7 @@ const { Histogram } = require("./Histogram");
 async function main$(_opts) {
   let opts = getOpts(_opts);
   let pastGuesses = opts._files;
+  console.log(opts);
   let dictionary = new Dictionary(opts.wordfile, opts.omitfile);
   if (opts.omit) {
     dictionary.omitWords([opts.omit]);
@@ -22,18 +23,19 @@ async function main$(_opts) {
 
   let histogram = new Histogram(dictionary.getWords());
   dictionary.scoreWords(histogram);
-
   printPastGuesses(pastGuesses, dictionary);
 
   let patterns = computePatterns(pastGuesses);
-  console.log(patterns);
+  console.log("patterns", patterns);
   let guesses = computeGuesses(dictionary, patterns, pastGuesses.length > 3);
+  console.log("initial guesses", guesses);
   guesses = guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses);
+  console.log("revised guesses", guesses);
   if (guesses.length === 0) guesses = computeGuesses(dictionary, patterns, true);
   if (guesses.length === 0) die("I'M STUPMPED!");
   let bestGuesses = guesses.filter((guess) => guess.score === guesses[0].score);
-  console.log(bestGuesses);
-  console.log(bestGuesses[gmaths.random(0, bestGuesses.length - 1)].word);
+  console.log("bestguesses", bestGuesses);
+  console.log("random best guess", bestGuesses[gmaths.random(0, bestGuesses.length - 1)].word);
 }
 
 module.exports = { main$ };
@@ -74,7 +76,10 @@ function computePatterns(guesses) {
 
 function computeGuesses(dictionary, patterns, allowDups = true) {
   let list = [];
-  let score = 1e99;
+
+  let histogram = new Histogram(dictionary.getWords());
+  dictionary.scoreWords(histogram);
+
   for (let entry of dictionary.getScores()) {
     let word = entry.word;
     let uniqueLetters = {};
@@ -86,17 +91,21 @@ function computeGuesses(dictionary, patterns, allowDups = true) {
     if (pos === 4) {
       if (!includesAll(word, patterns.must)) continue;
       if (Object.keys(uniqueLetters).length === 5 || allowDups) {
-        list.push(entry);
-        score = entry.score;
+        list.push(entry.word);
       }
     }
   }
-  return list;
+  let newHistogram = new Histogram(list);
+  console.log("newHistogram", newHistogram.makeStrings());
+  let newDictionary = new Dictionary(list, null);
+  newDictionary.scoreWords(newHistogram);
+  return newDictionary.getScores();
 }
 
 function guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses) {
   let alternatives = guesses;
-  if (patterns.must.length >= 3 && guesses.length > 6 - pastGuesses.length) {
+  let nRemainingGuesses = 6 - pastGuesses.length;
+  if (patterns.must.length >= 3 && guesses.length > nRemainingGuesses) {
     console.log("TRYING TO UNMASK OTHER LETTERS");
     let newPatterns = [];
     newPatterns.must = [];

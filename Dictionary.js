@@ -3,12 +3,21 @@ const gfiles = glstools.files;
 
 class Dictionary {
   constructor(wordfile, omitfile) {
-    this.wordfile = wordfile;
-    this.omitfile = omitfile;
-    this.words = this.loadWords();
-    this.omits = this.loadOmittedWords();
+    if (typeof wordfile === "string") {
+      this.wordfile = wordfile;
+      this.omitfile = omitfile;
+      this.words = this.loadWords();
+      this.omits = this.loadOmittedWords();
+    } else {
+      // assuming wordfile is array of words
+      this.wordfile = null;
+      this.omitfile = null;
+      this.words = wordfile;
+      this.omits = omitfile;
+    }
+
     this.scores = {};
-    this.omitWords(this.omits);
+    if (this.omits) this.omitWords(this.omits);
   }
   getWords() {
     return this.words;
