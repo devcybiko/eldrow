@@ -10,12 +10,14 @@ const gmaths = glstools.maths;
 const { die } = require("glstools/js/glsprocs");
 const { Dictionary } = require("./Dictionary");
 const { Histogram } = require("./Histogram");
+let bigDictionary;
 
 async function main$(_opts) {
   let opts = getOpts(_opts);
   let pastGuesses = opts._files;
   console.log(opts);
   let dictionary = new Dictionary(opts.wordfile, opts.omitfile);
+  bigDictionary = dictionary;
   if (opts.omit) {
     dictionary.omitWords([opts.omit]);
     dictionary.saveOmittedWords();
@@ -105,18 +107,21 @@ function computeGuesses(dictionary, patterns, allowDups = true) {
 function guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses) {
   let alternatives = guesses;
   let nRemainingGuesses = 6 - pastGuesses.length;
-  if (patterns.must.length >= 3 && guesses.length > nRemainingGuesses) {
+console.log("nRemainingGuesses", nRemainingGuesses);
+console.log("patterns.must.length", patterns.must.length);
+  if ((patterns.must.length === 3 || patterns.must.length === 4) && nRemainingGuesses > 1) {
     console.log("TRYING TO UNMASK OTHER LETTERS");
     let newPatterns = [];
     newPatterns.must = [];
     for (let i of range(0, patterns.length)) {
       newPatterns[i] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
       for (let c of patterns.must)
-        newPatterns[i] = remove(newPatterns[i], c);
+        if (!"AEIOUY".includes(c)) newPatterns[i] = remove(newPatterns[i], c);
       for (let c of patterns.mustnot)
-        newPatterns[i] = remove(newPatterns[i], c);
+        if (!"AEIOUY".includes(c)) newPatterns[i] = remove(newPatterns[i], c);
     }
-    alternatives = computeGuesses(dictionary, newPatterns, false);
+console.log("newPatterns", newPatterns);
+    alternatives = computeGuesses(bigDictionary, newPatterns, false);
   }
   return alternatives;
 }
