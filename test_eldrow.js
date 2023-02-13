@@ -2,42 +2,115 @@
 
 /**
  * solve wordle
+ * wordle stats: https://photutorial.com/wordle-statistics
+ * 
+Attempt	Success rate
+1st	0.02%
+2nd	5.67%
+3rd	22.66%
+4th	33.10%
+5th	23.91%
+6th	11.72%
+Losses	2.92%
+
  **/
 
 const glstools = require("glstools");
+const gfiles = glstools.files;
 const gprocs = glstools.procs;
 const gmaths = glstools.maths;
 const { die } = require("glstools/js/glsprocs");
 const { Dictionary } = require("./Dictionary");
 const { Histogram } = require("./Histogram");
 let bigDictionary;
+let dictionary;
+
+let allGuesses = {};
+let allScores = [0,0,0,0,0,0,0]
+
+const MAX_GUESSES = 6;
 
 async function main$(_opts) {
   let opts = getOpts(_opts);
-  let pastGuesses = opts._files;
-  console.log(opts);
-  let dictionary = new Dictionary(opts.wordfile, opts.omitfile);
-  bigDictionary = dictionary;
-  if (opts.omit) {
-    dictionary.omitWords([opts.omit]);
-    dictionary.saveOmittedWords();
-  }
+  let cnt = 0;
 
+  let wordleWords = gfiles.readList("wordle-word-list.txt");
+  for (let wordle of wordleWords) {
+    dictionary = new Dictionary(opts.wordfile, opts.omitfile);
+    bigDictionary = dictionary;
+    let guesses = await playWordle(wordle);
+    // console.log(guesses);
+    // console.log(guesses);
+    allGuesses[wordle]= guesses;
+    console.log(wordle, guesses.length);
+    allScores[guesses.length-1]++;
+    cnt--;
+    for(let i=0; i<allScores.length; i++) {
+      console.log("tries:", i+1, allScores[i], (allScores[i] / sum(allScores)*100).toFixed(2), "%");
+    }
+  
+    if (cnt === 0) break;
+  }
+  // console.log(allGuesses);
+  console.log(allScores);
+  console.log(sum(allScores.map((n, i) => i*i*n)));
+  console.log(sum(allScores.map((n, i) => (i+1)*n))/sum(allScores));
+  for(let i=0; i<allScores.length; i++) {
+    console.log("tries:", i+1, allScores[i], (allScores[i] / sum(allScores)*100).toFixed(2), "%");
+  }
+}
+
+function sum(a) {
+  return a.reduce((last, n) => last + n);
+}
+
+const FIRST_GUESSES = ["SALET”, “CRATE”, “TRACE”, “SLATE”, “REAST"];
+
+async function playWordle(wordle) {
+  // console.log("Trying:", wordle);
+  let guesses = [];
+  let score = "";
+  for (let i = 0; i < MAX_GUESSES; i++) {
+    let guess = await eldrow$(guesses);
+    if (i === 0) guess = FIRST_GUESSES[glstools.maths.random(0,FIRST_GUESSES.length-1)];
+    // console.log(guess);
+    score = await scoreWordle(wordle, guess);
+    // console.log(score);
+    guesses.push(guess + "=" + score);
+    if (score === "GGGGG") return guesses;
+  }
+  guesses.push("failed");
+  return guesses;
+}
+
+async function scoreWordle(wordle, guess) {
+  let score = "";
+  wordle = wordle.toUpperCase();
+  guess = guess.toUpperCase();
+
+  for (let i = 0; i < wordle.length; i++) {
+    if (wordle[i] === guess[i]) score += "G"; // green
+    else if (wordle.includes(guess[i])) score += "Y"; // yellow
+    else score += "B";
+  }
+  return score;
+}
+
+async function eldrow$(pastGuesses = []) {
   let histogram = new Histogram(dictionary.getWords());
   dictionary.scoreWords(histogram);
-  printPastGuesses(pastGuesses, dictionary);
+  let guesses = [];
+  // printPastGuesses(pastGuesses, dictionary);
 
   let patterns = computePatterns(pastGuesses);
-  console.log("patterns", patterns);
-  let guesses = computeGuesses(dictionary, patterns, pastGuesses.length > 3);
-  console.log("initial guesses", guesses);
-  guesses = guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses);
-  console.log("revised guesses", guesses);
+  guesses = computeGuesses(dictionary, patterns, pastGuesses.length > 3);
+  // guesses = guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses);
   if (guesses.length === 0) guesses = computeGuesses(dictionary, patterns, true);
-  if (guesses.length === 0) die("I'M STUPMPED!");
+  if (guesses.length === 0) return guesses;
   let bestGuesses = guesses.filter((guess) => guess.score === guesses[0].score);
-  console.log("bestguesses", bestGuesses);
-  console.log("random best guess", bestGuesses[gmaths.random(0, bestGuesses.length - 1)].word);
+  // console.log("bestguesses", bestGuesses);
+  // console.log("random best guess", bestGuesses[gmaths.random(0, bestGuesses.length - 1)].word);
+  return bestGuesses[gmaths.random(0, bestGuesses.length - 1)].word;
 }
 
 module.exports = { main$ };
@@ -98,7 +171,7 @@ function computeGuesses(dictionary, patterns, allowDups = true) {
     }
   }
   let newHistogram = new Histogram(list);
-  console.log("newHistogram", newHistogram.makeStrings());
+  // console.log("newHistogram", newHistogram.makeStrings());
   let newDictionary = new Dictionary(list, null);
   newDictionary.scoreWords(newHistogram);
   return newDictionary.getScores();
@@ -106,13 +179,14 @@ function computeGuesses(dictionary, patterns, allowDups = true) {
 
 function guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses) {
   let alternatives = guesses;
-  let nRemainingGuesses = 6 - pastGuesses.length;
-  console.log("nRemainingGuesses", nRemainingGuesses);
-  console.log("patterns.must.length", patterns.must.length);
-  if ((patterns.must.length === 3 || patterns.must.length === 4) && nRemainingGuesses > 1) {
-    console.log("TRYING TO UNMASK OTHER LETTERS");
+  // return alternatives;
+  let nRemainingGuesses = MAX_GUESSES - pastGuesses.length;
+  // console.log("nRemainingGuesses", nRemainingGuesses);
+  // console.log("patterns", patterns);
+  if (patterns.must.length in [3,4] &&  nRemainingGuesses >= 3) {
+    // console.log("TRYING TO UNMASK OTHER LETTERS");
     let newPatterns = [];
-    newPatterns.must = [];
+    // newPatterns.must = [];
     for (let i of range(0, patterns.length)) {
       newPatterns[i] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
       for (let c of patterns.must)
@@ -120,7 +194,7 @@ function guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses) 
       for (let c of patterns.mustnot)
         if (!"AEIOUY".includes(c)) newPatterns[i] = remove(newPatterns[i], c);
     }
-    console.log("newPatterns", newPatterns);
+    // console.log("newPatterns", newPatterns);
     alternatives = computeGuesses(bigDictionary, newPatterns, false);
   }
   return alternatives;
