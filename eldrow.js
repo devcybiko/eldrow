@@ -51,6 +51,7 @@ function computePatterns(guesses) {
   let must = {};
   let mustnot = {};
   for (let pos of range(0, 5)) patterns[pos] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  patterns[4] = 'ABCDEFGHIJKLMNOPQRTUVWXYZ'; // remove plurals
   for (let guess of guesses) {
     let parts = guess.toUpperCase().split("=");
     let word = parts[0];
@@ -107,9 +108,9 @@ function computeGuesses(dictionary, patterns, allowDups = true) {
 function guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses) {
   let alternatives = guesses;
   let nRemainingGuesses = 6 - pastGuesses.length;
-console.log("nRemainingGuesses", nRemainingGuesses);
-console.log("patterns.must.length", patterns.must.length);
-  if ((patterns.must.length === 3 || patterns.must.length === 4) && nRemainingGuesses > 1) {
+  console.log("nRemainingGuesses", nRemainingGuesses);
+  console.log("patterns.must.length", patterns.must.length);
+  if ((patterns.must.length >= 3) && nRemainingGuesses >= 3) {
     console.log("TRYING TO UNMASK OTHER LETTERS");
     let newPatterns = [];
     newPatterns.must = [];
@@ -120,7 +121,8 @@ console.log("patterns.must.length", patterns.must.length);
       for (let c of patterns.mustnot)
         if (!"AEIOUY".includes(c)) newPatterns[i] = remove(newPatterns[i], c);
     }
-console.log("newPatterns", newPatterns);
+    newPatterns[4] = newPatterns[4].replaceAll("S", ""); // remove plurals
+    console.log("newPatterns", newPatterns);
     alternatives = computeGuesses(bigDictionary, newPatterns, false);
   }
   return alternatives;
@@ -134,7 +136,7 @@ function getOpts(_opts) {
       "guess1,guess2,guess3,guess4,guess5,guess1"
     );
   if (opts.help) return help();
-  for(let i of range(0, opts._files.length)) {
+  for (let i of range(0, opts._files.length)) {
     let opt = opts._files[i];
     opts._files[i] = opt.toUpperCase();
     let parts = opts._files[i].split("=");
@@ -144,7 +146,7 @@ function getOpts(_opts) {
       parts[1].length !== 5 ||
       !parts[0].match("[A-Z]{5}") ||
       !parts[1].match("[BGY]{5}")
-      ) die(`  Option '${opt}': invalid format`)
+    ) die(`  Option '${opt}': invalid format`)
   }
   return opts;
 }
