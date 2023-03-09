@@ -110,7 +110,7 @@ function guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses) 
   let nRemainingGuesses = 6 - pastGuesses.length;
   console.log("nRemainingGuesses", nRemainingGuesses);
   console.log("patterns.must.length", patterns.must.length);
-  if ((patterns.must.length >= 3) && nRemainingGuesses >= 3) {
+  if ((patterns.must.length < 3) && nRemainingGuesses >= 3) {
     console.log("TRYING TO UNMASK OTHER LETTERS");
     let newPatterns = [];
     newPatterns.must = [];
