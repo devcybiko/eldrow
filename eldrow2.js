@@ -30,14 +30,8 @@ async function main$(_opts) {
   let patterns = computePatterns(pastGuesses);
   console.log("patterns", patterns);
   let guesses = computeGuesses(dictionary, patterns, pastGuesses.length > 3);
-  console.log("initial guesses", guesses);
-//  guesses = guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses, opts.alt);
-//  console.log("revised guesses", guesses);
-  if (guesses.length === 0) guesses = computeGuesses(dictionary, patterns, true);
-  if (guesses.length === 0) die("I'M STUPMPED!");
-  let bestGuesses = guesses.filter((guess) => guess.score === guesses[0].score);
-  console.log("bestguesses", bestGuesses);
-  console.log("random best guess", bestGuesses[gmaths.random(0, bestGuesses.length - 1)].word);
+  for(let word of guesses.reverse()) {
+  }
 }
 
 module.exports = { main$ };
@@ -51,7 +45,7 @@ function computePatterns(guesses) {
   let must = {};
   let mustnot = {};
   for (let pos of range(0, 5)) patterns[pos] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-  // patterns[4] = 'ABCDEFGHIJKLMNOPQRTUVWXYZ'; // remove plurals
+  patterns[4] = 'ABCDEFGHIJKLMNOPQRTUVWXYZ'; // remove plurals
   for (let guess of guesses) {
     let parts = guess.toUpperCase().split("=");
     let word = parts[0];
@@ -61,22 +55,14 @@ function computePatterns(guesses) {
         patterns[pos] = word[pos];
         must[word[pos]] = word[pos];
       }
-      else if (answer[pos] === "B") {
-        if(!must[word[pos]]) mustnot[word[pos]] = word[pos];
-	if(!must[word[pos]]) {
-	    for(let patt in range(0,5)) {
-		 patterns[patt] = remove(patterns[patt], word[pos], "B");
-	    }
-	} else {
-	    patterns[pos] = remove(patterns[pos], word[pos], "B*");
-	}
+      if (answer[pos] === "B") {
+        for (let i in range(0, 5))
+          patterns[i] = remove(patterns[i], word[pos]);
+        mustnot[word[pos]] = word[pos];
       }
-      else if (answer[pos] === "Y") {
-        patterns[pos] = remove(patterns[pos], word[pos], "Y");
+      if (answer[pos] === "Y") {
+        patterns[pos] = remove(patterns[pos], word[pos]);
         must[word[pos]] = word[pos];
-      }
-      else {
-	die("ERROR: " + answer[pos] + " unknown at pos " + pos);
       }
     }
   }
@@ -86,39 +72,51 @@ function computePatterns(guesses) {
 }
 
 function computeGuesses(dictionary, patterns, allowDups = true) {
-  let list = [];
 
-  let histogram = new Histogram(dictionary.getWords());
-  dictionary.scoreWords(histogram);
+  // let histogram = new Histogram(dictionary.getWords());
+  // dictionary.scoreWords(histogram);
 
-  for (let entry of dictionary.getScores()) {
-    let word = entry.word;
-    let uniqueLetters = {};
-    let pos;
-    for (pos of range(0, 5)) {
-      if (!patterns[pos].includes(word[pos])) break;
-      uniqueLetters[word[pos]] = word[pos];
+  // for (let entry of dictionary.getScores()) {
+  //   let word = entry.word;
+  //   let uniqueLetters = {};
+  //   let pos;
+  //   for (pos of range(0, 5)) {
+  //     if (!patterns[pos].includes(word[pos])) break;
+  //     uniqueLetters[word[pos]] = word[pos];
+  //   }
+  //   if (pos === 4) {
+  //     if (!includesAll(word, patterns.must)) continue;
+  //     if (Object.keys(uniqueLetters).length === 5 || allowDups) {
+  //       list.push(entry.word);
+  //     }
+  //   }
+  // }
+  // let newHistogram = new Histogram(list);
+  // console.log("newHistogram", newHistogram.makeStrings());
+  // let newDictionary = new Dictionary(list, null);
+  // newDictionary.scoreWords(newHistogram);
+  // return newDictionary.getScores();
+  let goodWords = [];
+  for (let word of dictionary.getWords()) {
+    let goodWord = true;
+    for (let pos of range(0, 5)) {
+      if (!patterns[pos].includes(word[pos])) goodWord = false;
     }
-    if (pos === 4) {
-      if (!includesAll(word, patterns.must)) continue;
-      if (Object.keys(uniqueLetters).length === 5 || allowDups) {
-        list.push(entry.word);
-      }
-    }
+    if (goodWord) goodWords.push(word);
   }
-  let newHistogram = new Histogram(list);
-  console.log("newHistogram", newHistogram.makeStrings());
-  let newDictionary = new Dictionary(list, null);
-  newDictionary.scoreWords(newHistogram);
+  let histogram = new Histogram(goodWords);
+  let newDictionary = new Dictionary(goodWords, null);
+  newDictionary.scoreWords(histogram);
   return newDictionary.getScores();
+
 }
 
-function guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses, altGuesses) {
+function guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses) {
   let alternatives = guesses;
   let nRemainingGuesses = 6 - pastGuesses.length;
   console.log("nRemainingGuesses", nRemainingGuesses);
   console.log("patterns.must.length", patterns.must.length);
-  if (altGuesses) {
+  if ((patterns.must.length < 3) && nRemainingGuesses >= 3) {
     console.log("TRYING TO UNMASK OTHER LETTERS");
     let newPatterns = [];
     newPatterns.must = [];
@@ -140,7 +138,7 @@ function getOpts(_opts) {
   let opts =
     _opts ||
     gprocs.args(
-      "--alt,--help,--omitfile=omit.txt,--omit=,--wordfile=five-letter-words.txt",
+      "--help,--omitfile=omit.txt,--omit=,--wordfile=five-letter-words.txt",
       "guess1,guess2,guess3,guess4,guess5,guess1"
     );
   if (opts.help) return help();
@@ -162,7 +160,7 @@ function getOpts(_opts) {
 function help() {
   console.log("\n");
   console.log("ELDROW - The Wordle Solver\n");
-  console.log("USAGE: eldrow.js --alt --help --omitfile=omit.txt --omit=WORD --wordfile=five-letter-words.txt guess1=BGYBG guess2=BGYBG...\n");
+  console.log("USAGE: eldrow.js --help --omitfile=omit.txt --omit=WORD --wordfile=five-letter-words.txt guess1=BGYBG guess2=BGYBG...\n");
   console.log("  with no parameters, it will generate a first guess");
   console.log("  with parameters, it will generate a next guess");
   console.log("  enter guesses and results from Wordle as follows");
@@ -194,13 +192,12 @@ function range(min, max) {
   return r;
 }
 
-function remove(s, c, msg) {
+function remove(s, c) {
   let n = s.indexOf(c);
   if (n === -1) return s;
   let a = s.split("");
   a.splice(n, 1);
   a = a.join("");
-  console.log({c,s,a,msg});
   return a;
 }
 

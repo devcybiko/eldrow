@@ -1,42 +1,53 @@
 class Histogram {
+  // a histogram of letters for 5-letter words
+  // each element of letterHistos is the count of the number of times that letter appears in the word list
   constructor(words) {
-    this.data = [[], [], [], [], []];
+    this.letterHistos = [[], [], [], [], []];
     this.computeFrequencies(words);
     this.sort();
     this.index();
     this.strings = this.makeStrings();
   }
   computeFrequencies(words) {
+    // for each word, increment a count for each letter in the word
     for (let word of words) {
       for (let pos in range(0, 5)) {
         this.incr(pos, word[pos]);
       }
     }
   }
-  incr(pos, key) {
-    let c = key.charCodeAt(0) - "A".charCodeAt(0);
-    let elem = this.data[pos][c] || { key: key, count: 0 };
+  incr(pos, char) {
+    // for the position of the character, increment that char's count
+    let charCode = char.charCodeAt(0) - "A".charCodeAt(0);
+    let elem = this.letterHistos[pos][charCode];
+    if (!elem) {
+      elem = { key: char, count: 0 };
+      this.letterHistos[pos][charCode] = elem;
+    }
     elem.count++;
-    this.data[pos][c] = elem;
   }
   sort() {
-    for (let histo of this.data) {
-      histo.sort((a, b) => b.count - a.count);
+    // sort the letters by the count - higher counts rise to the top
+    for (let letterHisto of this.letterHistos) {
+      letterHisto.sort((a, b) => b.count - a.count);
     }
   }
   index() {
-    for (let histo of this.data) {
-      histo.map((elem, index) => (elem.index = index));
+    // for the sorted histos, assing an index (priority) to each entry (letter)
+    for (let letterHisto of this.letterHistos) {
+      letterHisto.map((elem, index) => (elem.index = index));
     }
   }
   makeStrings() {
+    //concatenate all the letters together in priority order
     let strings = [];
     for (let pos in range(0, 5)) {
-      strings[pos] = this.data[pos].map((entry) => entry.key).join("");
+      strings[pos] = this.letterHistos[pos].map((entry) => entry.key).join("");
     }
     return strings;
   }
   getPriority(pos, char) {
+    // return the popularity of this char
     return this.strings[pos].indexOf(char);
   }
 }
