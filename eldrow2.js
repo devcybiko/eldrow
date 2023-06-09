@@ -6,6 +6,7 @@
 
 const glstools = require("glstools");
 const gprocs = glstools.procs;
+const gfiles = glstools.files;
 const gmaths = glstools.maths;
 const { die } = require("glstools/js/glsprocs");
 const { Dictionary } = require("./Dictionary");
@@ -22,6 +23,9 @@ async function main$(_opts) {
     dictionary.omitWords([opts.omit]);
     dictionary.saveOmittedWords();
   }
+  let freq = gfiles.readList(opts.freq);
+  freq.forEach((value, index, arr) => freq[value.split(",")[0].toUpperCase()]= {word: value.split(",")[0].toUpperCase(), order: +value.split(",")[1]});
+  console.log(freq);
 
   let histogram = new Histogram(dictionary.getWords());
   dictionary.scoreWords(histogram);
@@ -29,9 +33,19 @@ async function main$(_opts) {
 
   let patterns = computePatterns(pastGuesses);
   console.log("patterns", patterns);
-  let guesses = computeGuesses(dictionary, patterns, pastGuesses.length > 3);
-  for(let word of guesses.reverse()) {
+  let guesses = computeGuesses(dictionary, patterns, pastGuesses.length >= 1);
+  let max = 20;
+  let reorderedGuesses = []
+  for (let i of range(0, max)) {
+    let x = max - i -1;
+    let guess = guesses[x];
+    if (guess) {
+      let word = guess.word;
+      if (freq[word]) guess.order = freq[word].order
+      reorderedGuesses.push(guess);
+    }
   }
+  console.log(reorderedGuesses.sort((a,b) => a.order - b.order));
 }
 
 module.exports = { main$ };
@@ -51,23 +65,39 @@ function computePatterns(guesses) {
     let word = parts[0];
     let answer = parts[1];
     for (let pos of range(0, 5)) {
+      // check for GREEN first
+      let c = word[pos];
       if (answer[pos] === "G") {
-        patterns[pos] = word[pos];
-        must[word[pos]] = word[pos];
+        // force this letter into this position and no other letters allowed here
+        patterns[pos] = c;
+        must[c] = c;
       }
-      if (answer[pos] === "B") {
-        for (let i in range(0, 5))
-          patterns[i] = remove(patterns[i], word[pos]);
-        mustnot[word[pos]] = word[pos];
-      }
+    }
+    for (let pos of range(0, 5)) {
+      // check for YELLOW next
+      let c = word[pos];
       if (answer[pos] === "Y") {
-        patterns[pos] = remove(patterns[pos], word[pos]);
-        must[word[pos]] = word[pos];
+        // remove this letter from this poisition
+        patterns[pos] = remove(patterns[pos], c);
+        must[c] = c;
+      }
+    }
+    for (let pos of range(0, 5)) {
+      // check for BLACK last
+      let c = word[pos];
+      if (answer[pos] === "B") {
+        // remove this letter from this poisition
+        patterns[pos] = remove(patterns[pos], c);
+        if (!must[c]) {
+          // if it's not a must letter, remove it everywhere 
+          mustnot[c] = c;
+          for (let patt in range(0, 5)) patterns[patt] = remove(patterns[patt], c);
+        }
       }
     }
   }
-  patterns.must = Object.keys(must);
-  patterns.mustnot = Object.keys(mustnot);
+  patterns.must = Object.keys(must); // convert to array
+  patterns.mustnot = Object.keys(mustnot); // convert to array
   return patterns;
 }
 
@@ -101,16 +131,26 @@ function computeGuesses(dictionary, patterns, allowDups = true) {
     let goodWord = true;
     for (let pos of range(0, 5)) {
       if (!patterns[pos].includes(word[pos])) goodWord = false;
+      if (!includesAll(word, patterns.must)) goodWord = false;
     }
+    if (!allowDups && hasDuplicateLetters(word)) goodWord = false;
     if (goodWord) goodWords.push(word);
   }
   let histogram = new Histogram(goodWords);
   let newDictionary = new Dictionary(goodWords, null);
   newDictionary.scoreWords(histogram);
   return newDictionary.getScores();
-
 }
 
+function hasDuplicateLetters(word) {
+  let a = word.split("");
+  let b = a.sort();
+  for(let i of range(0,b.length)) {
+    if (b[i] === b[i+1]) return true;
+  }
+  return false;
+
+}
 function guessAtLettersNotUncovered(dictionary, patterns, guesses, pastGuesses) {
   let alternatives = guesses;
   let nRemainingGuesses = 6 - pastGuesses.length;
@@ -138,7 +178,7 @@ function getOpts(_opts) {
   let opts =
     _opts ||
     gprocs.args(
-      "--help,--omitfile=omit.txt,--omit=,--wordfile=five-letter-words.txt",
+      "--help,--omitfile=omit.txt,--omit=,--wordfile=five-letter-words.txt,--freq=five-letter-words-by-freq-of-occurrance.csv",
       "guess1,guess2,guess3,guess4,guess5,guess1"
     );
   if (opts.help) return help();
