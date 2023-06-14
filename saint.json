@@ -1,0 +1,1072 @@
+{
+  "SAINT": {
+    "guess": "SAINT",
+    "answers": {
+      "YGBBB": {
+        "answer": "YGBBB",
+        "bestGuess": "TARED",
+        "bestScore": 1554
+      },
+      "YGBYY": {
+        "answer": "YGBYY",
+        "bestGuess": "TARAS",
+        "bestScore": 989
+      },
+      "YBYBY": {
+        "answer": "YBYBY",
+        "bestGuess": "TEARS",
+        "bestScore": 2039
+      },
+      "YBYBB": {
+        "answer": "YBYBB",
+        "bestGuess": "TEAED",
+        "bestScore": 1577
+      },
+      "YBYBG": {
+        "answer": "YBYBG",
+        "bestGuess": "TRAPT",
+        "bestScore": 268
+      },
+      "YBYGB": {
+        "answer": "YBYGB",
+        "bestGuess": "THANE",
+        "bestScore": 536
+      },
+      "YBYYB": {
+        "answer": "YBYYB",
+        "bestGuess": "ABATE",
+        "bestScore": 761
+      },
+      "YBBYY": {
+        "answer": "YBBYY",
+        "bestGuess": "TORAS",
+        "bestScore": 2037
+      },
+      "YBBBB": {
+        "answer": "YBBBB",
+        "bestGuess": "ALOED",
+        "bestScore": 4067
+      },
+      "YBBBY": {
+        "answer": "YBBBY",
+        "bestGuess": "TORES",
+        "bestScore": 4643
+      },
+      "YBBBG": {
+        "answer": "YBBBG",
+        "bestGuess": "ABORT",
+        "bestScore": 762
+      },
+      "YBBYB": {
+        "answer": "YBBYB",
+        "bestGuess": "AURAE",
+        "bestScore": 2269
+      },
+      "YBGBB": {
+        "answer": "YBGBB",
+        "bestGuess": "TRIDE",
+        "bestScore": 1403
+      },
+      "YBGBY": {
+        "answer": "YBGBY",
+        "bestGuess": "ARILS",
+        "bestScore": 1017
+      },
+      "YBYYG": {
+        "answer": "YBYYG",
+        "bestGuess": "AGAST",
+        "bestScore": 215
+      },
+      "YBBGY": {
+        "answer": "YBBGY",
+        "bestGuess": "AEONS",
+        "bestScore": 738
+      },
+      "YBBGB": {
+        "answer": "YBBGB",
+        "bestGuess": "TRONE",
+        "bestScore": 737
+      },
+      "YBYYY": {
+        "answer": "YBYYY",
+        "bestGuess": "TEATS",
+        "bestScore": 725
+      },
+      "YBGGB": {
+        "answer": "YBGGB",
+        "bestGuess": "AHING",
+        "bestScore": 876
+      },
+      "YBGGY": {
+        "answer": "YBGGY",
+        "bestGuess": "TEINS",
+        "bestScore": 281
+      },
+      "YBGYY": {
+        "answer": "YBGYY",
+        "bestGuess": "AMIAS",
+        "bestScore": 374
+      },
+      "YBBYG": {
+        "answer": "YBBYG",
+        "bestGuess": "AMRIT",
+        "bestScore": 422
+      },
+      "YBBGG": {
+        "answer": "YBBGG",
+        "bestGuess": "AGENT",
+        "bestScore": 211
+      },
+      "YBGYB": {
+        "answer": "YBGYB",
+        "bestGuess": "ARISE",
+        "bestScore": 582
+      },
+      "YBGYG": {
+        "answer": "YBGYG",
+        "bestGuess": "AGIST",
+        "bestScore": 182
+      },
+      "YBGGG": {
+        "answer": "YBGGG",
+        "bestGuess": "AHINT",
+        "bestScore": 81
+      },
+      "YYBYY": {
+        "answer": "YYBYY",
+        "bestGuess": "AIGAS",
+        "bestScore": 575
+      },
+      "YYBBB": {
+        "answer": "YYBBB",
+        "bestGuess": "AIDER",
+        "bestScore": 1526
+      },
+      "YYBBY": {
+        "answer": "YYBBY",
+        "bestGuess": "TICES",
+        "bestScore": 1337
+      },
+      "YYBBG": {
+        "answer": "YYBBG",
+        "bestGuess": "INGOT",
+        "bestScore": 327
+      },
+      "YYYBB": {
+        "answer": "YYYBB",
+        "bestGuess": "TITER",
+        "bestScore": 648
+      },
+      "YYYBY": {
+        "answer": "YYYBY",
+        "bestGuess": "TINES",
+        "bestScore": 585
+      },
+      "YYBGY": {
+        "answer": "YYBGY",
+        "bestGuess": "AIRNS",
+        "bestScore": 80
+      },
+      "YYBYB": {
+        "answer": "YYBYB",
+        "bestGuess": "NIDAL",
+        "bestScore": 575
+      },
+      "YBYGY": {
+        "answer": "YBYGY",
+        "bestGuess": "THANS",
+        "bestScore": 285
+      },
+      "YBYGG": {
+        "answer": "YBYGG",
+        "bestGuess": "ALANT",
+        "bestScore": 151
+      },
+      "YYYGY": {
+        "answer": "YYYGY",
+        "bestGuess": "ASANA",
+        "bestScore": 112
+      },
+      "YYYYY": {
+        "answer": "YYYYY",
+        "bestGuess": "ANTAS",
+        "bestScore": 284
+      },
+      "YYBGG": {
+        "answer": "YYBGG",
+        "bestGuess": "ANENT",
+        "bestScore": 50
+      },
+      "YYBYG": {
+        "answer": "YYBYG",
+        "bestGuess": "INUST",
+        "bestScore": 111
+      },
+      "YYGBB": {
+        "answer": "YYGBB",
+        "bestGuess": "ANIME",
+        "bestScore": 180
+      },
+      "YYGBY": {
+        "answer": "YYGBY",
+        "bestGuess": "ANIMI",
+        "bestScore": 204
+      },
+      "YYGYB": {
+        "answer": "YYGYB",
+        "bestGuess": "ANISE",
+        "bestScore": 50
+      },
+      "YYYYB": {
+        "answer": "YYYYB",
+        "bestGuess": "ANTAE",
+        "bestScore": 457
+      },
+      "YYYYG": {
+        "answer": "YYYYG",
+        "bestGuess": "ANNAT",
+        "bestScore": 80
+      },
+      "YBGBG": {
+        "answer": "YBGBG",
+        "bestGuess": "TWILT",
+        "bestScore": 131
+      },
+      "YYYBG": {
+        "answer": "YYYBG",
+        "bestGuess": "INSET",
+        "bestScore": 145
+      },
+      "YYGBG": {
+        "answer": "YYGBG",
+        "bestGuess": "ATILT",
+        "bestScore": 50
+      },
+      "YYBGB": {
+        "answer": "YYBGB",
+        "bestGuess": "ATONE",
+        "bestScore": 90
+      },
+      "BGYBB": {
+        "answer": "BGYBB",
+        "bestGuess": "MANED",
+        "bestScore": 3125
+      },
+      "BGYBY": {
+        "answer": "BGYBY",
+        "bestGuess": "BANES",
+        "bestScore": 3535
+      },
+      "BGBYY": {
+        "answer": "BGBYY",
+        "bestGuess": "PARIS",
+        "bestScore": 3665
+      },
+      "BGBBB": {
+        "answer": "BGBBB",
+        "bestGuess": "CARED",
+        "bestScore": 9550
+      },
+      "BGBBY": {
+        "answer": "BGBBY",
+        "bestGuess": "CARES",
+        "bestScore": 10341
+      },
+      "BGBYB": {
+        "answer": "BGBYB",
+        "bestGuess": "MARAE",
+        "bestScore": 2732
+      },
+      "BGBBG": {
+        "answer": "BGBBG",
+        "bestGuess": "GAULT",
+        "bestScore": 653
+      },
+      "BGGBY": {
+        "answer": "BGGBY",
+        "bestGuess": "KAILS",
+        "bestScore": 1470
+      },
+      "BGGYY": {
+        "answer": "BGGYY",
+        "bestGuess": "RAITS",
+        "bestScore": 327
+      },
+      "BGGYB": {
+        "answer": "BGGYB",
+        "bestGuess": "LAITH",
+        "bestScore": 342
+      },
+      "BGGBB": {
+        "answer": "BGGBB",
+        "bestGuess": "MAIRE",
+        "bestScore": 882
+      },
+      "BGYYB": {
+        "answer": "BGYYB",
+        "bestGuess": "BANTY",
+        "bestScore": 1757
+      },
+      "BGYYY": {
+        "answer": "BGYYY",
+        "bestGuess": "BASTS",
+        "bestScore": 1749
+      },
+      "BGYGY": {
+        "answer": "BGYGY",
+        "bestGuess": "CANNS",
+        "bestScore": 294
+      },
+      "BGBGY": {
+        "answer": "BGBGY",
+        "bestGuess": "DARNS",
+        "bestScore": 885
+      },
+      "BGBGB": {
+        "answer": "BGBGB",
+        "bestGuess": "FAWNY",
+        "bestScore": 283
+      },
+      "BBYBB": {
+        "answer": "BBYBB",
+        "bestGuess": "BEARE",
+        "bestScore": 6149
+      },
+      "BBYBY": {
+        "answer": "BBYBY",
+        "bestGuess": "BEADS",
+        "bestScore": 7915
+      },
+      "BBYGB": {
+        "answer": "BBYGB",
+        "bestGuess": "BEANY",
+        "bestScore": 1612
+      },
+      "BBYGY": {
+        "answer": "BBYGY",
+        "bestGuess": "GEANS",
+        "bestScore": 1401
+      },
+      "BBYYG": {
+        "answer": "BBYYG",
+        "bestGuess": "BEAST",
+        "bestScore": 893
+      },
+      "BBYYB": {
+        "answer": "BBYYB",
+        "bestGuess": "MEATY",
+        "bestScore": 3821
+      },
+      "BBYYY": {
+        "answer": "BBYYY",
+        "bestGuess": "BEATS",
+        "bestScore": 4412
+      },
+      "BBYBG": {
+        "answer": "BBYBG",
+        "bestGuess": "BEAUT",
+        "bestScore": 1114
+      },
+      "BBBBB": {
+        "answer": "BBBBB",
+        "bestGuess": "COREY",
+        "bestScore": 18201
+      },
+      "BBBYB": {
+        "answer": "BBBYB",
+        "bestGuess": "PORAE",
+        "bestScore": 7301
+      },
+      "BBBBY": {
+        "answer": "BBBBY",
+        "bestGuess": "CORES",
+        "bestScore": 20824
+      },
+      "BBBYY": {
+        "answer": "BBBYY",
+        "bestGuess": "BORAS",
+        "bestScore": 5888
+      },
+      "BBBYG": {
+        "answer": "BBBYG",
+        "bestGuess": "REEST",
+        "bestScore": 2011
+      },
+      "BBBBG": {
+        "answer": "BBBBG",
+        "bestGuess": "CRUET",
+        "bestScore": 2031
+      },
+      "BBGBB": {
+        "answer": "BBGBB",
+        "bestGuess": "CRIME",
+        "bestScore": 3457
+      },
+      "BBGGB": {
+        "answer": "BBGGB",
+        "bestGuess": "BRING",
+        "bestScore": 1737
+      },
+      "BBGGY": {
+        "answer": "BBGGY",
+        "bestGuess": "BEINS",
+        "bestScore": 782
+      },
+      "BBBGY": {
+        "answer": "BBBGY",
+        "bestGuess": "POONS",
+        "bestScore": 1965
+      },
+      "BYYBB": {
+        "answer": "BYYBB",
+        "bestGuess": "LINEY",
+        "bestScore": 3069
+      },
+      "BYYBY": {
+        "answer": "BYYBY",
+        "bestGuess": "KINES",
+        "bestScore": 3322
+      },
+      "BYBBY": {
+        "answer": "BYBBY",
+        "bestGuess": "MILES",
+        "bestScore": 6551
+      },
+      "BYBBB": {
+        "answer": "BYBBB",
+        "bestGuess": "RILEY",
+        "bestScore": 5991
+      },
+      "BYBBG": {
+        "answer": "BYBBG",
+        "bestGuess": "PIGHT",
+        "bestScore": 1124
+      },
+      "BYBYY": {
+        "answer": "BYBYY",
+        "bestGuess": "GILAS",
+        "bestScore": 1836
+      },
+      "BYBYB": {
+        "answer": "BYBYB",
+        "bestGuess": "PILAE",
+        "bestScore": 1768
+      },
+      "BYYYB": {
+        "answer": "BYYYB",
+        "bestGuess": "DITTY",
+        "bestScore": 980
+      },
+      "BYYYG": {
+        "answer": "BYYYG",
+        "bestGuess": "BINIT",
+        "bestScore": 100
+      },
+      "BYYYY": {
+        "answer": "BYYYY",
+        "bestGuess": "MINTS",
+        "bestScore": 1472
+      },
+      "BYBGG": {
+        "answer": "BYBGG",
+        "bestGuess": "BIONT",
+        "bestScore": 80
+      },
+      "BBBGB": {
+        "answer": "BBBGB",
+        "bestGuess": "PRONE",
+        "bestScore": 2027
+      },
+      "BBBGG": {
+        "answer": "BBBGG",
+        "bestGuess": "BRENT",
+        "bestScore": 633
+      },
+      "BBGBY": {
+        "answer": "BBGBY",
+        "bestGuess": "CRIES",
+        "bestScore": 2910
+      },
+      "BBGYY": {
+        "answer": "BBGYY",
+        "bestGuess": "CRITS",
+        "bestScore": 1064
+      },
+      "BBGYG": {
+        "answer": "BBGYG",
+        "bestGuess": "FOIST",
+        "bestScore": 857
+      },
+      "BBGYB": {
+        "answer": "BBGYB",
+        "bestGuess": "PRISE",
+        "bestScore": 1282
+      },
+      "BBYGG": {
+        "answer": "BBYGG",
+        "bestGuess": "BRANT",
+        "bestScore": 320
+      },
+      "BBGBG": {
+        "answer": "BBGBG",
+        "bestGuess": "GRIFT",
+        "bestScore": 554
+      },
+      "BGGGY": {
+        "answer": "BGGGY",
+        "bestGuess": "CAINS",
+        "bestScore": 370
+      },
+      "BGYGB": {
+        "answer": "BGYGB",
+        "bestGuess": "CANNY",
+        "bestScore": 200
+      },
+      "BGYYG": {
+        "answer": "BGYYG",
+        "bestGuess": "MANAT",
+        "bestScore": 120
+      },
+      "BGBYG": {
+        "answer": "BGBYG",
+        "bestGuess": "KARST",
+        "bestScore": 346
+      },
+      "BYYBG": {
+        "answer": "BYYBG",
+        "bestGuess": "DIACT",
+        "bestScore": 242
+      },
+      "BYBGY": {
+        "answer": "BYBGY",
+        "bestGuess": "LIENS",
+        "bestScore": 432
+      },
+      "BBGGG": {
+        "answer": "BBGGG",
+        "bestGuess": "FLINT",
+        "bestScore": 360
+      },
+      "BYGBY": {
+        "answer": "BYGBY",
+        "bestGuess": "UNION",
+        "bestScore": 181
+      },
+      "BYBGB": {
+        "answer": "BYBGB",
+        "bestGuess": "DIENE",
+        "bestScore": 244
+      },
+      "BGGGB": {
+        "answer": "BGGGB",
+        "bestGuess": "RAINE",
+        "bestScore": 200
+      },
+      "BGGGG": {
+        "answer": "BGGGG",
+        "bestGuess": "DAINT",
+        "bestScore": 170
+      },
+      "BGBGG": {
+        "answer": "BGBGG",
+        "bestGuess": "DAUNT",
+        "bestScore": 310
+      },
+      "BYYGB": {
+        "answer": "BYYGB",
+        "bestGuess": "LINNY",
+        "bestScore": 440
+      },
+      "BYBYG": {
+        "answer": "BYBYG",
+        "bestGuess": "DIXIT",
+        "bestScore": 483
+      },
+      "BYYGY": {
+        "answer": "BYYGY",
+        "bestGuess": "PINNA",
+        "bestScore": 397
+      },
+      "BYGYB": {
+        "answer": "BYGYB",
+        "bestGuess": "UNITE",
+        "bestScore": 131
+      },
+      "BYGBB": {
+        "answer": "BYGBB",
+        "bestGuess": "KNIFE",
+        "bestScore": 192
+      },
+      "BGGYG": {
+        "answer": "BGGYG",
+        "bestGuess": "MAIST",
+        "bestScore": 121
+      },
+      "BYYGG": {
+        "answer": "BYYGG",
+        "bestGuess": "GIANT",
+        "bestScore": 130
+      },
+      "YGBBY": {
+        "answer": "YGBBY",
+        "bestGuess": "TALES",
+        "bestScore": 1671
+      },
+      "YYYGB": {
+        "answer": "YYYGB",
+        "bestGuess": "TINNY",
+        "bestScore": 103
+      },
+      "BYGYY": {
+        "answer": "BYGYY",
+        "bestGuess": "KNITS",
+        "bestScore": 90
+      },
+      "BGYBG": {
+        "answer": "BGYBG",
+        "bestGuess": "MANET",
+        "bestScore": 50
+      },
+      "YGYBY": {
+        "answer": "YGYBY",
+        "bestGuess": "TANGS",
+        "bestScore": 537
+      },
+      "YGYGY": {
+        "answer": "YGYGY",
+        "bestGuess": "NANNA",
+        "bestScore": 121
+      },
+      "YGBYB": {
+        "answer": "YGBYB",
+        "bestGuess": "TALAR",
+        "bestScore": 446
+      },
+      "YGGYB": {
+        "answer": "YGGYB",
+        "bestGuess": "TAISH",
+        "bestScore": 71
+      },
+      "YGGBY": {
+        "answer": "YGGBY",
+        "bestGuess": "NAILS",
+        "bestScore": 273
+      },
+      "YGGBB": {
+        "answer": "YGGBB",
+        "bestGuess": "NAIRU",
+        "bestScore": 100
+      },
+      "YGYYY": {
+        "answer": "YGYYY",
+        "bestGuess": "TANAS",
+        "bestScore": 222
+      },
+      "YGYBB": {
+        "answer": "YGYBB",
+        "bestGuess": "TANGY",
+        "bestScore": 297
+      },
+      "YGYGB": {
+        "answer": "YGYGB",
+        "bestGuess": "NANNY",
+        "bestScore": 50
+      },
+      "YGYYB": {
+        "answer": "YGYYB",
+        "bestGuess": "TASTY",
+        "bestScore": 472
+      },
+      "YGBGG": {
+        "answer": "YGBGG",
+        "bestGuess": "NAUNT",
+        "bestScore": 91
+      },
+      "BYGGB": {
+        "answer": "BYGGB",
+        "bestGuess": "USING",
+        "bestScore": 81
+      },
+      "GGYBY": {
+        "answer": "GGYBY",
+        "bestGuess": "SANGS",
+        "bestScore": 242
+      },
+      "GGBYB": {
+        "answer": "GGBYB",
+        "bestGuess": "SALIC",
+        "bestScore": 427
+      },
+      "GGBBB": {
+        "answer": "GGBBB",
+        "bestGuess": "SAVEY",
+        "bestScore": 1454
+      },
+      "GGBBY": {
+        "answer": "GGBBY",
+        "bestGuess": "SALES",
+        "bestScore": 1030
+      },
+      "GGBYY": {
+        "answer": "GGBYY",
+        "bestGuess": "SAKIS",
+        "bestScore": 531
+      },
+      "GGBBG": {
+        "answer": "GGBBG",
+        "bestGuess": "SALUT",
+        "bestScore": 152
+      },
+      "GGGBB": {
+        "answer": "GGGBB",
+        "bestGuess": "SAICE",
+        "bestScore": 90
+      },
+      "GGGBY": {
+        "answer": "GGGBY",
+        "bestGuess": "SAICS",
+        "bestScore": 241
+      },
+      "GGGGB": {
+        "answer": "GGGGB",
+        "bestGuess": "SAINE",
+        "bestScore": 50
+      },
+      "GGGGY": {
+        "answer": "GGGGY",
+        "bestGuess": "SAINS",
+        "bestScore": 50
+      },
+      "GGGGG": {
+        "answer": "GGGGG",
+        "bestGuess": "SAINT",
+        "bestScore": 50
+      },
+      "GGGYG": {
+        "answer": "GGGYG",
+        "bestGuess": "SAIST",
+        "bestScore": 50
+      },
+      "GGGYB": {
+        "answer": "GGGYB",
+        "bestGuess": "SAITH",
+        "bestScore": 50
+      },
+      "GGBYG": {
+        "answer": "GGBYG",
+        "bestGuess": "SALAT",
+        "bestScore": 81
+      },
+      "GGYBB": {
+        "answer": "GGYBB",
+        "bestGuess": "SANER",
+        "bestScore": 341
+      },
+      "GGYYY": {
+        "answer": "GGYYY",
+        "bestGuess": "SATIN",
+        "bestScore": 210
+      },
+      "GGYYB": {
+        "answer": "GGYYB",
+        "bestGuess": "SASSY",
+        "bestScore": 141
+      },
+      "GGBGY": {
+        "answer": "GGBGY",
+        "bestGuess": "SAUNA",
+        "bestScore": 50
+      },
+      "GGBGG": {
+        "answer": "GGBGG",
+        "bestGuess": "SAUNT",
+        "bestScore": 50
+      },
+      "GGBGB": {
+        "answer": "GGBGB",
+        "bestGuess": "SAYNE",
+        "bestScore": 50
+      },
+      "GBYBY": {
+        "answer": "GBYBY",
+        "bestGuess": "SHAGS",
+        "bestScore": 1884
+      },
+      "GBYBB": {
+        "answer": "GBYBB",
+        "bestGuess": "SHALE",
+        "bestScore": 2542
+      },
+      "GBYYB": {
+        "answer": "GBYYB",
+        "bestGuess": "SLATE",
+        "bestScore": 706
+      },
+      "GBYGB": {
+        "answer": "GBYGB",
+        "bestGuess": "SLANK",
+        "bestScore": 504
+      },
+      "GBYGY": {
+        "answer": "GBYGY",
+        "bestGuess": "SEANS",
+        "bestScore": 295
+      },
+      "GBYGG": {
+        "answer": "GBYGG",
+        "bestGuess": "SCANT",
+        "bestScore": 90
+      },
+      "GBYBG": {
+        "answer": "GBYBG",
+        "bestGuess": "SPART",
+        "bestScore": 441
+      },
+      "GBYYY": {
+        "answer": "GBYYY",
+        "bestGuess": "SEATS",
+        "bestScore": 560
+      },
+      "GBYYG": {
+        "answer": "GBYYG",
+        "bestGuess": "SCATT",
+        "bestScore": 120
+      },
+      "GBBYG": {
+        "answer": "GBBYG",
+        "bestGuess": "SPRAT",
+        "bestScore": 461
+      },
+      "GBBGY": {
+        "answer": "GBBGY",
+        "bestGuess": "SKENS",
+        "bestScore": 201
+      },
+      "GBBGB": {
+        "answer": "GBBGB",
+        "bestGuess": "SOUND",
+        "bestScore": 463
+      },
+      "GBBGG": {
+        "answer": "GBBGG",
+        "bestGuess": "SHENT",
+        "bestScore": 210
+      },
+      "GBBYB": {
+        "answer": "GBBYB",
+        "bestGuess": "SORAL",
+        "bestScore": 2011
+      },
+      "GBBBB": {
+        "answer": "GBBBB",
+        "bestGuess": "SOREE",
+        "bestScore": 4872
+      },
+      "GBBBY": {
+        "answer": "GBBBY",
+        "bestGuess": "SHOES",
+        "bestScore": 3986
+      },
+      "GBGBY": {
+        "answer": "GBGBY",
+        "bestGuess": "SPIMS",
+        "bestScore": 1014
+      },
+      "GBBBG": {
+        "answer": "GBBBG",
+        "bestGuess": "SPOOT",
+        "bestScore": 824
+      },
+      "GBBYY": {
+        "answer": "GBBYY",
+        "bestGuess": "SORTS",
+        "bestScore": 1537
+      },
+      "GBGGB": {
+        "answer": "GBGGB",
+        "bestGuess": "SPINE",
+        "bestScore": 461
+      },
+      "GBGYB": {
+        "answer": "GBGYB",
+        "bestGuess": "SHITE",
+        "bestScore": 514
+      },
+      "GBGBB": {
+        "answer": "GBGBB",
+        "bestGuess": "SPIRE",
+        "bestScore": 1582
+      },
+      "GBGYY": {
+        "answer": "GBGYY",
+        "bestGuess": "SHITS",
+        "bestScore": 352
+      },
+      "GBGBG": {
+        "answer": "GBGBG",
+        "bestGuess": "SPIRT",
+        "bestScore": 261
+      },
+      "GBGGY": {
+        "answer": "GBGGY",
+        "bestGuess": "SPINS",
+        "bestScore": 170
+      },
+      "GBGYG": {
+        "answer": "GBGYG",
+        "bestGuess": "SHIST",
+        "bestScore": 50
+      },
+      "GYYBY": {
+        "answer": "GYYBY",
+        "bestGuess": "SIALS",
+        "bestScore": 712
+      },
+      "GYBBY": {
+        "answer": "GYBBY",
+        "bestGuess": "SILES",
+        "bestScore": 1427
+      },
+      "GYBBB": {
+        "answer": "GYBBB",
+        "bestGuess": "STOEP",
+        "bestScore": 2324
+      },
+      "GYBBG": {
+        "answer": "GYBBG",
+        "bestGuess": "STOUT",
+        "bestScore": 332
+      },
+      "GYBYY": {
+        "answer": "GYBYY",
+        "bestGuess": "STOAS",
+        "bestScore": 477
+      },
+      "GYBGY": {
+        "answer": "GYBGY",
+        "bestGuess": "SIENS",
+        "bestScore": 211
+      },
+      "GYBGG": {
+        "answer": "GYBGG",
+        "bestGuess": "STENT",
+        "bestScore": 130
+      },
+      "GYBYB": {
+        "answer": "GYBYB",
+        "bestGuess": "STRAE",
+        "bestScore": 860
+      },
+      "GYYBB": {
+        "answer": "GYYBB",
+        "bestGuess": "STARE",
+        "bestScore": 907
+      },
+      "GYYYB": {
+        "answer": "GYYYB",
+        "bestGuess": "STAIR",
+        "bestScore": 313
+      },
+      "GYYYY": {
+        "answer": "GYYYY",
+        "bestGuess": "SISTS",
+        "bestScore": 133
+      },
+      "GBGGG": {
+        "answer": "GBGGG",
+        "bestGuess": "SKINT",
+        "bestScore": 90
+      },
+      "GYGBY": {
+        "answer": "GYGBY",
+        "bestGuess": "SNIES",
+        "bestScore": 290
+      },
+      "GYGBB": {
+        "answer": "GYGBB",
+        "bestGuess": "STILE",
+        "bestScore": 652
+      },
+      "GYGBG": {
+        "answer": "GYGBG",
+        "bestGuess": "SNIFT",
+        "bestScore": 121
+      },
+      "GYGYY": {
+        "answer": "GYGYY",
+        "bestGuess": "SNITS",
+        "bestScore": 50
+      },
+      "GYYGB": {
+        "answer": "GYYGB",
+        "bestGuess": "STAND",
+        "bestScore": 170
+      },
+      "GYYBG": {
+        "answer": "GYYBG",
+        "bestGuess": "START",
+        "bestScore": 50
+      },
+      "GYBGB": {
+        "answer": "GYBGB",
+        "bestGuess": "STOND",
+        "bestScore": 341
+      },
+      "GYGGB": {
+        "answer": "GYGGB",
+        "bestGuess": "STING",
+        "bestScore": 90
+      },
+      "GYGGG": {
+        "answer": "GYGGG",
+        "bestGuess": "STINT",
+        "bestScore": 50
+      },
+      "GYBYG": {
+        "answer": "GYBYG",
+        "bestGuess": "STOAT",
+        "bestScore": 131
+      },
+      "YGBBG": {
+        "answer": "YGBBG",
+        "bestGuess": "TACET",
+        "bestScore": 120
+      },
+      "YGBYG": {
+        "answer": "YGBYG",
+        "bestGuess": "TACIT",
+        "bestScore": 50
+      },
+      "YGGGY": {
+        "answer": "YGGGY",
+        "bestGuess": "TAINS",
+        "bestScore": 50
+      },
+      "YGGGG": {
+        "answer": "YGGGG",
+        "bestGuess": "TAINT",
+        "bestScore": 50
+      },
+      "YGGYY": {
+        "answer": "YGGYY",
+        "bestGuess": "TAITS",
+        "bestScore": 50
+      },
+      "YGBGY": {
+        "answer": "YGBGY",
+        "bestGuess": "TARNS",
+        "bestScore": 50
+      },
+      "YGBGB": {
+        "answer": "YGBGB",
+        "bestGuess": "TAWNY",
+        "bestScore": 50
+      },
+      "BGGBG": {
+        "answer": "BGGBG",
+        "bestGuess": "WAIFT",
+        "bestScore": 50
+      }
+    }
+  }
+}

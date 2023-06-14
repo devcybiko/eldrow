@@ -1,0 +1,9262 @@
+[
+  {
+    "word": "ABOUT",
+    "tries": 1
+  },
+  {
+    "word": "ABATE",
+    "tries": 2
+  },
+  {
+    "word": "ABBEY",
+    "tries": 2
+  },
+  {
+    "word": "ABBOT",
+    "tries": 2
+  },
+  {
+    "word": "ABHOR",
+    "tries": 2
+  },
+  {
+    "word": "ABORT",
+    "tries": 2
+  },
+  {
+    "word": "ABOVE",
+    "tries": 2
+  },
+  {
+    "word": "ABUSE",
+    "tries": 2
+  },
+  {
+    "word": "ACTOR",
+    "tries": 2
+  },
+  {
+    "word": "ACUTE",
+    "tries": 2
+  },
+  {
+    "word": "ADOBE",
+    "tries": 2
+  },
+  {
+    "word": "ADOPT",
+    "tries": 2
+  },
+  {
+    "word": "ADULT",
+    "tries": 2
+  },
+  {
+    "word": "AFTER",
+    "tries": 2
+  },
+  {
+    "word": "AGAIN",
+    "tries": 2
+  },
+  {
+    "word": "AGENT",
+    "tries": 2
+  },
+  {
+    "word": "ALBUM",
+    "tries": 2
+  },
+  {
+    "word": "ALLOW",
+    "tries": 2
+  },
+  {
+    "word": "ALONG",
+    "tries": 2
+  },
+  {
+    "word": "ALOUD",
+    "tries": 2
+  },
+  {
+    "word": "AMBER",
+    "tries": 2
+  },
+  {
+    "word": "ARBOR",
+    "tries": 2
+  },
+  {
+    "word": "ARGUE",
+    "tries": 2
+  },
+  {
+    "word": "ASCOT",
+    "tries": 2
+  },
+  {
+    "word": "ATOLL",
+    "tries": 2
+  },
+  {
+    "word": "AUDIO",
+    "tries": 2
+  },
+  {
+    "word": "AZURE",
+    "tries": 2
+  },
+  {
+    "word": "BATON",
+    "tries": 2
+  },
+  {
+    "word": "BAYOU",
+    "tries": 2
+  },
+  {
+    "word": "BEAST",
+    "tries": 2
+  },
+  {
+    "word": "BEING",
+    "tries": 2
+  },
+  {
+    "word": "BELOW",
+    "tries": 2
+  },
+  {
+    "word": "BIRTH",
+    "tries": 2
+  },
+  {
+    "word": "BLACK",
+    "tries": 2
+  },
+  {
+    "word": "BLOAT",
+    "tries": 2
+  },
+  {
+    "word": "BOARD",
+    "tries": 2
+  },
+  {
+    "word": "BOAST",
+    "tries": 2
+  },
+  {
+    "word": "BONUS",
+    "tries": 2
+  },
+  {
+    "word": "BOOST",
+    "tries": 2
+  },
+  {
+    "word": "BOOTY",
+    "tries": 2
+  },
+  {
+    "word": "BOUND",
+    "tries": 2
+  },
+  {
+    "word": "BROAD",
+    "tries": 2
+  },
+  {
+    "word": "BROWN",
+    "tries": 2
+  },
+  {
+    "word": "BUILD",
+    "tries": 2
+  },
+  {
+    "word": "BUILT",
+    "tries": 2
+  },
+  {
+    "word": "COAST",
+    "tries": 2
+  },
+  {
+    "word": "COURT",
+    "tries": 2
+  },
+  {
+    "word": "DATUM",
+    "tries": 2
+  },
+  {
+    "word": "DEBIT",
+    "tries": 2
+  },
+  {
+    "word": "DEBUG",
+    "tries": 2
+  },
+  {
+    "word": "DEBUT",
+    "tries": 2
+  },
+  {
+    "word": "DONUT",
+    "tries": 2
+  },
+  {
+    "word": "DOUBT",
+    "tries": 2
+  },
+  {
+    "word": "EBONY",
+    "tries": 2
+  },
+  {
+    "word": "EMAIL",
+    "tries": 2
+  },
+  {
+    "word": "FAULT",
+    "tries": 2
+  },
+  {
+    "word": "FIRST",
+    "tries": 2
+  },
+  {
+    "word": "FLOAT",
+    "tries": 2
+  },
+  {
+    "word": "FLORA",
+    "tries": 2
+  },
+  {
+    "word": "FORUM",
+    "tries": 2
+  },
+  {
+    "word": "GAMUT",
+    "tries": 2
+  },
+  {
+    "word": "GREAT",
+    "tries": 2
+  },
+  {
+    "word": "GROUP",
+    "tries": 2
+  },
+  {
+    "word": "GUEST",
+    "tries": 2
+  },
+  {
+    "word": "HUMAN",
+    "tries": 2
+  },
+  {
+    "word": "INPUT",
+    "tries": 2
+  },
+  {
+    "word": "ISSUE",
+    "tries": 2
+  },
+  {
+    "word": "LOCAL",
+    "tries": 2
+  },
+  {
+    "word": "MUSIC",
+    "tries": 2
+  },
+  {
+    "word": "OBESE",
+    "tries": 2
+  },
+  {
+    "word": "OTHER",
+    "tries": 2
+  },
+  {
+    "word": "PHONE",
+    "tries": 2
+  },
+  {
+    "word": "POINT",
+    "tries": 2
+  },
+  {
+    "word": "QUOTA",
+    "tries": 2
+  },
+  {
+    "word": "QUOTE",
+    "tries": 2
+  },
+  {
+    "word": "ROBOT",
+    "tries": 2
+  },
+  {
+    "word": "SCOUT",
+    "tries": 2
+  },
+  {
+    "word": "SETUP",
+    "tries": 2
+  },
+  {
+    "word": "SHORT",
+    "tries": 2
+  },
+  {
+    "word": "SOUTH",
+    "tries": 2
+  },
+  {
+    "word": "STATE",
+    "tries": 2
+  },
+  {
+    "word": "STORE",
+    "tries": 2
+  },
+  {
+    "word": "STUDY",
+    "tries": 2
+  },
+  {
+    "word": "TABLE",
+    "tries": 2
+  },
+  {
+    "word": "THEIR",
+    "tries": 2
+  },
+  {
+    "word": "THROB",
+    "tries": 2
+  },
+  {
+    "word": "THUMB",
+    "tries": 2
+  },
+  {
+    "word": "TODAY",
+    "tries": 2
+  },
+  {
+    "word": "TORUS",
+    "tries": 2
+  },
+  {
+    "word": "TUBAL",
+    "tries": 2
+  },
+  {
+    "word": "TURBO",
+    "tries": 2
+  },
+  {
+    "word": "ULTRA",
+    "tries": 2
+  },
+  {
+    "word": "URBAN",
+    "tries": 2
+  },
+  {
+    "word": "VALUE",
+    "tries": 2
+  },
+  {
+    "word": "WHICH",
+    "tries": 2
+  },
+  {
+    "word": "WORLD",
+    "tries": 2
+  },
+  {
+    "word": "WOULD",
+    "tries": 2
+  },
+  {
+    "word": "ABACK",
+    "tries": 3
+  },
+  {
+    "word": "ABIDE",
+    "tries": 3
+  },
+  {
+    "word": "ABLED",
+    "tries": 3
+  },
+  {
+    "word": "ABODE",
+    "tries": 3
+  },
+  {
+    "word": "ABYSS",
+    "tries": 3
+  },
+  {
+    "word": "ACORN",
+    "tries": 3
+  },
+  {
+    "word": "ADAGE",
+    "tries": 3
+  },
+  {
+    "word": "ADMIN",
+    "tries": 3
+  },
+  {
+    "word": "AFFIX",
+    "tries": 3
+  },
+  {
+    "word": "AFOUL",
+    "tries": 3
+  },
+  {
+    "word": "AGAPE",
+    "tries": 3
+  },
+  {
+    "word": "AGATE",
+    "tries": 3
+  },
+  {
+    "word": "AGILE",
+    "tries": 3
+  },
+  {
+    "word": "AGING",
+    "tries": 3
+  },
+  {
+    "word": "AGLOW",
+    "tries": 3
+  },
+  {
+    "word": "AGONY",
+    "tries": 3
+  },
+  {
+    "word": "AGORA",
+    "tries": 3
+  },
+  {
+    "word": "AGREE",
+    "tries": 3
+  },
+  {
+    "word": "AHEAD",
+    "tries": 3
+  },
+  {
+    "word": "ALERT",
+    "tries": 3
+  },
+  {
+    "word": "ALGAE",
+    "tries": 3
+  },
+  {
+    "word": "ALIBI",
+    "tries": 3
+  },
+  {
+    "word": "ALIEN",
+    "tries": 3
+  },
+  {
+    "word": "ALIGN",
+    "tries": 3
+  },
+  {
+    "word": "ALIVE",
+    "tries": 3
+  },
+  {
+    "word": "ALLOT",
+    "tries": 3
+  },
+  {
+    "word": "ALLOY",
+    "tries": 3
+  },
+  {
+    "word": "ALOFT",
+    "tries": 3
+  },
+  {
+    "word": "ALONE",
+    "tries": 3
+  },
+  {
+    "word": "ALOOF",
+    "tries": 3
+  },
+  {
+    "word": "ALTAR",
+    "tries": 3
+  },
+  {
+    "word": "ALTER",
+    "tries": 3
+  },
+  {
+    "word": "AMBLE",
+    "tries": 3
+  },
+  {
+    "word": "AMITY",
+    "tries": 3
+  },
+  {
+    "word": "AMONG",
+    "tries": 3
+  },
+  {
+    "word": "AMUSE",
+    "tries": 3
+  },
+  {
+    "word": "ANGEL",
+    "tries": 3
+  },
+  {
+    "word": "ANGST",
+    "tries": 3
+  },
+  {
+    "word": "ANIME",
+    "tries": 3
+  },
+  {
+    "word": "ANNEX",
+    "tries": 3
+  },
+  {
+    "word": "ANVIL",
+    "tries": 3
+  },
+  {
+    "word": "AORTA",
+    "tries": 3
+  },
+  {
+    "word": "APART",
+    "tries": 3
+  },
+  {
+    "word": "APING",
+    "tries": 3
+  },
+  {
+    "word": "APPLY",
+    "tries": 3
+  },
+  {
+    "word": "ARENA",
+    "tries": 3
+  },
+  {
+    "word": "ARMOR",
+    "tries": 3
+  },
+  {
+    "word": "ARROW",
+    "tries": 3
+  },
+  {
+    "word": "ARTSY",
+    "tries": 3
+  },
+  {
+    "word": "ASHEN",
+    "tries": 3
+  },
+  {
+    "word": "ASSET",
+    "tries": 3
+  },
+  {
+    "word": "ATONE",
+    "tries": 3
+  },
+  {
+    "word": "ATTIC",
+    "tries": 3
+  },
+  {
+    "word": "AUDIT",
+    "tries": 3
+  },
+  {
+    "word": "AUGUR",
+    "tries": 3
+  },
+  {
+    "word": "AUNTY",
+    "tries": 3
+  },
+  {
+    "word": "AVAIL",
+    "tries": 3
+  },
+  {
+    "word": "AVIAN",
+    "tries": 3
+  },
+  {
+    "word": "AVOID",
+    "tries": 3
+  },
+  {
+    "word": "AWARD",
+    "tries": 3
+  },
+  {
+    "word": "AWFUL",
+    "tries": 3
+  },
+  {
+    "word": "AXIAL",
+    "tries": 3
+  },
+  {
+    "word": "BACON",
+    "tries": 3
+  },
+  {
+    "word": "BADLY",
+    "tries": 3
+  },
+  {
+    "word": "BAKER",
+    "tries": 3
+  },
+  {
+    "word": "BARON",
+    "tries": 3
+  },
+  {
+    "word": "BASIC",
+    "tries": 3
+  },
+  {
+    "word": "BASIS",
+    "tries": 3
+  },
+  {
+    "word": "BATCH",
+    "tries": 3
+  },
+  {
+    "word": "BATHE",
+    "tries": 3
+  },
+  {
+    "word": "BEACH",
+    "tries": 3
+  },
+  {
+    "word": "BEFIT",
+    "tries": 3
+  },
+  {
+    "word": "BEGAT",
+    "tries": 3
+  },
+  {
+    "word": "BEGIN",
+    "tries": 3
+  },
+  {
+    "word": "BEGUN",
+    "tries": 3
+  },
+  {
+    "word": "BELIE",
+    "tries": 3
+  },
+  {
+    "word": "BENCH",
+    "tries": 3
+  },
+  {
+    "word": "BERRY",
+    "tries": 3
+  },
+  {
+    "word": "BERTH",
+    "tries": 3
+  },
+  {
+    "word": "BESET",
+    "tries": 3
+  },
+  {
+    "word": "BETEL",
+    "tries": 3
+  },
+  {
+    "word": "BIBLE",
+    "tries": 3
+  },
+  {
+    "word": "BIGOT",
+    "tries": 3
+  },
+  {
+    "word": "BILGE",
+    "tries": 3
+  },
+  {
+    "word": "BILLY",
+    "tries": 3
+  },
+  {
+    "word": "BINGE",
+    "tries": 3
+  },
+  {
+    "word": "BINGO",
+    "tries": 3
+  },
+  {
+    "word": "BISON",
+    "tries": 3
+  },
+  {
+    "word": "BITTY",
+    "tries": 3
+  },
+  {
+    "word": "BLADE",
+    "tries": 3
+  },
+  {
+    "word": "BLANK",
+    "tries": 3
+  },
+  {
+    "word": "BLAST",
+    "tries": 3
+  },
+  {
+    "word": "BLEAK",
+    "tries": 3
+  },
+  {
+    "word": "BLEAT",
+    "tries": 3
+  },
+  {
+    "word": "BLEND",
+    "tries": 3
+  },
+  {
+    "word": "BLIND",
+    "tries": 3
+  },
+  {
+    "word": "BLITZ",
+    "tries": 3
+  },
+  {
+    "word": "BLOND",
+    "tries": 3
+  },
+  {
+    "word": "BLOOD",
+    "tries": 3
+  },
+  {
+    "word": "BLOWN",
+    "tries": 3
+  },
+  {
+    "word": "BLUFF",
+    "tries": 3
+  },
+  {
+    "word": "BLUNT",
+    "tries": 3
+  },
+  {
+    "word": "BOOTH",
+    "tries": 3
+  },
+  {
+    "word": "BORAX",
+    "tries": 3
+  },
+  {
+    "word": "BOTCH",
+    "tries": 3
+  },
+  {
+    "word": "BOUGH",
+    "tries": 3
+  },
+  {
+    "word": "BOWEL",
+    "tries": 3
+  },
+  {
+    "word": "BOXER",
+    "tries": 3
+  },
+  {
+    "word": "BRAKE",
+    "tries": 3
+  },
+  {
+    "word": "BRAND",
+    "tries": 3
+  },
+  {
+    "word": "BRAVO",
+    "tries": 3
+  },
+  {
+    "word": "BRAWL",
+    "tries": 3
+  },
+  {
+    "word": "BREAK",
+    "tries": 3
+  },
+  {
+    "word": "BREED",
+    "tries": 3
+  },
+  {
+    "word": "BRICK",
+    "tries": 3
+  },
+  {
+    "word": "BRIEF",
+    "tries": 3
+  },
+  {
+    "word": "BRINE",
+    "tries": 3
+  },
+  {
+    "word": "BRING",
+    "tries": 3
+  },
+  {
+    "word": "BROKE",
+    "tries": 3
+  },
+  {
+    "word": "BROTH",
+    "tries": 3
+  },
+  {
+    "word": "BRUNT",
+    "tries": 3
+  },
+  {
+    "word": "BRUSH",
+    "tries": 3
+  },
+  {
+    "word": "BRUTE",
+    "tries": 3
+  },
+  {
+    "word": "BUDDY",
+    "tries": 3
+  },
+  {
+    "word": "BULKY",
+    "tries": 3
+  },
+  {
+    "word": "BULLY",
+    "tries": 3
+  },
+  {
+    "word": "BURST",
+    "tries": 3
+  },
+  {
+    "word": "BUSED",
+    "tries": 3
+  },
+  {
+    "word": "BUTCH",
+    "tries": 3
+  },
+  {
+    "word": "BUTTE",
+    "tries": 3
+  },
+  {
+    "word": "BUXOM",
+    "tries": 3
+  },
+  {
+    "word": "BUYER",
+    "tries": 3
+  },
+  {
+    "word": "CABIN",
+    "tries": 3
+  },
+  {
+    "word": "CABLE",
+    "tries": 3
+  },
+  {
+    "word": "CACAO",
+    "tries": 3
+  },
+  {
+    "word": "CAMEL",
+    "tries": 3
+  },
+  {
+    "word": "CANAL",
+    "tries": 3
+  },
+  {
+    "word": "CANON",
+    "tries": 3
+  },
+  {
+    "word": "CAPUT",
+    "tries": 3
+  },
+  {
+    "word": "CARAT",
+    "tries": 3
+  },
+  {
+    "word": "CAROL",
+    "tries": 3
+  },
+  {
+    "word": "CAUSE",
+    "tries": 3
+  },
+  {
+    "word": "CAVIL",
+    "tries": 3
+  },
+  {
+    "word": "CHAIR",
+    "tries": 3
+  },
+  {
+    "word": "CHEAT",
+    "tries": 3
+  },
+  {
+    "word": "CHECK",
+    "tries": 3
+  },
+  {
+    "word": "CHESS",
+    "tries": 3
+  },
+  {
+    "word": "CHEST",
+    "tries": 3
+  },
+  {
+    "word": "CHICK",
+    "tries": 3
+  },
+  {
+    "word": "CHILD",
+    "tries": 3
+  },
+  {
+    "word": "CHINA",
+    "tries": 3
+  },
+  {
+    "word": "CHUCK",
+    "tries": 3
+  },
+  {
+    "word": "CIVIL",
+    "tries": 3
+  },
+  {
+    "word": "CLAIM",
+    "tries": 3
+  },
+  {
+    "word": "CLAMP",
+    "tries": 3
+  },
+  {
+    "word": "CLASS",
+    "tries": 3
+  },
+  {
+    "word": "CLICK",
+    "tries": 3
+  },
+  {
+    "word": "CLIMB",
+    "tries": 3
+  },
+  {
+    "word": "CLOAK",
+    "tries": 3
+  },
+  {
+    "word": "CLONE",
+    "tries": 3
+  },
+  {
+    "word": "CLOSE",
+    "tries": 3
+  },
+  {
+    "word": "CLOUD",
+    "tries": 3
+  },
+  {
+    "word": "CLOUT",
+    "tries": 3
+  },
+  {
+    "word": "CLUMP",
+    "tries": 3
+  },
+  {
+    "word": "COACH",
+    "tries": 3
+  },
+  {
+    "word": "COBRA",
+    "tries": 3
+  },
+  {
+    "word": "COCOA",
+    "tries": 3
+  },
+  {
+    "word": "COLOR",
+    "tries": 3
+  },
+  {
+    "word": "CORAL",
+    "tries": 3
+  },
+  {
+    "word": "COULD",
+    "tries": 3
+  },
+  {
+    "word": "COUNT",
+    "tries": 3
+  },
+  {
+    "word": "CREEK",
+    "tries": 3
+  },
+  {
+    "word": "CREST",
+    "tries": 3
+  },
+  {
+    "word": "CRIME",
+    "tries": 3
+  },
+  {
+    "word": "CROSS",
+    "tries": 3
+  },
+  {
+    "word": "CROUP",
+    "tries": 3
+  },
+  {
+    "word": "CRUMB",
+    "tries": 3
+  },
+  {
+    "word": "CRUSH",
+    "tries": 3
+  },
+  {
+    "word": "CUBIC",
+    "tries": 3
+  },
+  {
+    "word": "CUMIN",
+    "tries": 3
+  },
+  {
+    "word": "CURSE",
+    "tries": 3
+  },
+  {
+    "word": "CYBER",
+    "tries": 3
+  },
+  {
+    "word": "DAILY",
+    "tries": 3
+  },
+  {
+    "word": "DEATH",
+    "tries": 3
+  },
+  {
+    "word": "DEPOT",
+    "tries": 3
+  },
+  {
+    "word": "DEPTH",
+    "tries": 3
+  },
+  {
+    "word": "DIARY",
+    "tries": 3
+  },
+  {
+    "word": "DIRTY",
+    "tries": 3
+  },
+  {
+    "word": "DOING",
+    "tries": 3
+  },
+  {
+    "word": "DOLLY",
+    "tries": 3
+  },
+  {
+    "word": "DONOR",
+    "tries": 3
+  },
+  {
+    "word": "DOUGH",
+    "tries": 3
+  },
+  {
+    "word": "DOWEL",
+    "tries": 3
+  },
+  {
+    "word": "DRAFT",
+    "tries": 3
+  },
+  {
+    "word": "DRAMA",
+    "tries": 3
+  },
+  {
+    "word": "DREAM",
+    "tries": 3
+  },
+  {
+    "word": "DRIFT",
+    "tries": 3
+  },
+  {
+    "word": "DRIVE",
+    "tries": 3
+  },
+  {
+    "word": "DUMMY",
+    "tries": 3
+  },
+  {
+    "word": "DUSTY",
+    "tries": 3
+  },
+  {
+    "word": "DUTCH",
+    "tries": 3
+  },
+  {
+    "word": "EARLY",
+    "tries": 3
+  },
+  {
+    "word": "EARTH",
+    "tries": 3
+  },
+  {
+    "word": "EASEL",
+    "tries": 3
+  },
+  {
+    "word": "ECLAT",
+    "tries": 3
+  },
+  {
+    "word": "EGRET",
+    "tries": 3
+  },
+  {
+    "word": "ELBOW",
+    "tries": 3
+  },
+  {
+    "word": "ELITE",
+    "tries": 3
+  },
+  {
+    "word": "ENDOW",
+    "tries": 3
+  },
+  {
+    "word": "ENEMA",
+    "tries": 3
+  },
+  {
+    "word": "ENJOY",
+    "tries": 3
+  },
+  {
+    "word": "ENNUI",
+    "tries": 3
+  },
+  {
+    "word": "ENSUE",
+    "tries": 3
+  },
+  {
+    "word": "ENTER",
+    "tries": 3
+  },
+  {
+    "word": "ENTRY",
+    "tries": 3
+  },
+  {
+    "word": "EPOCH",
+    "tries": 3
+  },
+  {
+    "word": "EPOXY",
+    "tries": 3
+  },
+  {
+    "word": "EQUAL",
+    "tries": 3
+  },
+  {
+    "word": "ERASE",
+    "tries": 3
+  },
+  {
+    "word": "ERECT",
+    "tries": 3
+  },
+  {
+    "word": "ERROR",
+    "tries": 3
+  },
+  {
+    "word": "ESSAY",
+    "tries": 3
+  },
+  {
+    "word": "ETHER",
+    "tries": 3
+  },
+  {
+    "word": "ETHIC",
+    "tries": 3
+  },
+  {
+    "word": "ETHOS",
+    "tries": 3
+  },
+  {
+    "word": "ETUDE",
+    "tries": 3
+  },
+  {
+    "word": "EVENT",
+    "tries": 3
+  },
+  {
+    "word": "EXIST",
+    "tries": 3
+  },
+  {
+    "word": "FATTY",
+    "tries": 3
+  },
+  {
+    "word": "FETID",
+    "tries": 3
+  },
+  {
+    "word": "FETUS",
+    "tries": 3
+  },
+  {
+    "word": "FIBER",
+    "tries": 3
+  },
+  {
+    "word": "FIGHT",
+    "tries": 3
+  },
+  {
+    "word": "FINAL",
+    "tries": 3
+  },
+  {
+    "word": "FLAME",
+    "tries": 3
+  },
+  {
+    "word": "FLEET",
+    "tries": 3
+  },
+  {
+    "word": "FLINT",
+    "tries": 3
+  },
+  {
+    "word": "FLIRT",
+    "tries": 3
+  },
+  {
+    "word": "FLOUR",
+    "tries": 3
+  },
+  {
+    "word": "FLUID",
+    "tries": 3
+  },
+  {
+    "word": "FLUSH",
+    "tries": 3
+  },
+  {
+    "word": "FOCUS",
+    "tries": 3
+  },
+  {
+    "word": "FORCE",
+    "tries": 3
+  },
+  {
+    "word": "FOUND",
+    "tries": 3
+  },
+  {
+    "word": "FRAME",
+    "tries": 3
+  },
+  {
+    "word": "FRAUD",
+    "tries": 3
+  },
+  {
+    "word": "FRESH",
+    "tries": 3
+  },
+  {
+    "word": "FRONT",
+    "tries": 3
+  },
+  {
+    "word": "FROST",
+    "tries": 3
+  },
+  {
+    "word": "FRUIT",
+    "tries": 3
+  },
+  {
+    "word": "FULLY",
+    "tries": 3
+  },
+  {
+    "word": "GHOST",
+    "tries": 3
+  },
+  {
+    "word": "GHOUL",
+    "tries": 3
+  },
+  {
+    "word": "GIANT",
+    "tries": 3
+  },
+  {
+    "word": "GIRTH",
+    "tries": 3
+  },
+  {
+    "word": "GLOAT",
+    "tries": 3
+  },
+  {
+    "word": "GLOBE",
+    "tries": 3
+  },
+  {
+    "word": "GNOME",
+    "tries": 3
+  },
+  {
+    "word": "GOOEY",
+    "tries": 3
+  },
+  {
+    "word": "GRAND",
+    "tries": 3
+  },
+  {
+    "word": "GRANT",
+    "tries": 3
+  },
+  {
+    "word": "GROAN",
+    "tries": 3
+  },
+  {
+    "word": "GRUNT",
+    "tries": 3
+  },
+  {
+    "word": "GUARD",
+    "tries": 3
+  },
+  {
+    "word": "GUIDE",
+    "tries": 3
+  },
+  {
+    "word": "GUILT",
+    "tries": 3
+  },
+  {
+    "word": "GUSTO",
+    "tries": 3
+  },
+  {
+    "word": "HABIT",
+    "tries": 3
+  },
+  {
+    "word": "HAPPY",
+    "tries": 3
+  },
+  {
+    "word": "HAUNT",
+    "tries": 3
+  },
+  {
+    "word": "HAUTE",
+    "tries": 3
+  },
+  {
+    "word": "HEART",
+    "tries": 3
+  },
+  {
+    "word": "HEDGE",
+    "tries": 3
+  },
+  {
+    "word": "HELIX",
+    "tries": 3
+  },
+  {
+    "word": "HELLO",
+    "tries": 3
+  },
+  {
+    "word": "HENCE",
+    "tries": 3
+  },
+  {
+    "word": "HOLLY",
+    "tries": 3
+  },
+  {
+    "word": "HORDE",
+    "tries": 3
+  },
+  {
+    "word": "HOTEL",
+    "tries": 3
+  },
+  {
+    "word": "HOUSE",
+    "tries": 3
+  },
+  {
+    "word": "HOWDY",
+    "tries": 3
+  },
+  {
+    "word": "HUMID",
+    "tries": 3
+  },
+  {
+    "word": "HUSKY",
+    "tries": 3
+  },
+  {
+    "word": "IDEAL",
+    "tries": 3
+  },
+  {
+    "word": "IDIOT",
+    "tries": 3
+  },
+  {
+    "word": "IMAGE",
+    "tries": 3
+  },
+  {
+    "word": "IMBUE",
+    "tries": 3
+  },
+  {
+    "word": "INANE",
+    "tries": 3
+  },
+  {
+    "word": "INBOX",
+    "tries": 3
+  },
+  {
+    "word": "INCUR",
+    "tries": 3
+  },
+  {
+    "word": "INDEX",
+    "tries": 3
+  },
+  {
+    "word": "INGOT",
+    "tries": 3
+  },
+  {
+    "word": "INLET",
+    "tries": 3
+  },
+  {
+    "word": "INTER",
+    "tries": 3
+  },
+  {
+    "word": "INTRO",
+    "tries": 3
+  },
+  {
+    "word": "JOINT",
+    "tries": 3
+  },
+  {
+    "word": "JUMBO",
+    "tries": 3
+  },
+  {
+    "word": "JUNTA",
+    "tries": 3
+  },
+  {
+    "word": "JUNTO",
+    "tries": 3
+  },
+  {
+    "word": "KEBAB",
+    "tries": 3
+  },
+  {
+    "word": "KNOWN",
+    "tries": 3
+  },
+  {
+    "word": "LABEL",
+    "tries": 3
+  },
+  {
+    "word": "LABOR",
+    "tries": 3
+  },
+  {
+    "word": "LARGE",
+    "tries": 3
+  },
+  {
+    "word": "LASSO",
+    "tries": 3
+  },
+  {
+    "word": "LATHE",
+    "tries": 3
+  },
+  {
+    "word": "LATTE",
+    "tries": 3
+  },
+  {
+    "word": "LAUGH",
+    "tries": 3
+  },
+  {
+    "word": "LEAST",
+    "tries": 3
+  },
+  {
+    "word": "LEGAL",
+    "tries": 3
+  },
+  {
+    "word": "LEVEL",
+    "tries": 3
+  },
+  {
+    "word": "LITHE",
+    "tries": 3
+  },
+  {
+    "word": "LOAMY",
+    "tries": 3
+  },
+  {
+    "word": "LOATH",
+    "tries": 3
+  },
+  {
+    "word": "LOBBY",
+    "tries": 3
+  },
+  {
+    "word": "LOCUS",
+    "tries": 3
+  },
+  {
+    "word": "LOGIN",
+    "tries": 3
+  },
+  {
+    "word": "LORRY",
+    "tries": 3
+  },
+  {
+    "word": "LOUSY",
+    "tries": 3
+  },
+  {
+    "word": "LOWER",
+    "tries": 3
+  },
+  {
+    "word": "LOWLY",
+    "tries": 3
+  },
+  {
+    "word": "LOYAL",
+    "tries": 3
+  },
+  {
+    "word": "LUCID",
+    "tries": 3
+  },
+  {
+    "word": "LUNAR",
+    "tries": 3
+  },
+  {
+    "word": "LUNCH",
+    "tries": 3
+  },
+  {
+    "word": "LYNCH",
+    "tries": 3
+  },
+  {
+    "word": "MACRO",
+    "tries": 3
+  },
+  {
+    "word": "MAGIC",
+    "tries": 3
+  },
+  {
+    "word": "MAIZE",
+    "tries": 3
+  },
+  {
+    "word": "MAJOR",
+    "tries": 3
+  },
+  {
+    "word": "MAMBO",
+    "tries": 3
+  },
+  {
+    "word": "MANLY",
+    "tries": 3
+  },
+  {
+    "word": "MAPLE",
+    "tries": 3
+  },
+  {
+    "word": "MARCH",
+    "tries": 3
+  },
+  {
+    "word": "MAUVE",
+    "tries": 3
+  },
+  {
+    "word": "MAYBE",
+    "tries": 3
+  },
+  {
+    "word": "MEDIA",
+    "tries": 3
+  },
+  {
+    "word": "MERCY",
+    "tries": 3
+  },
+  {
+    "word": "MERIT",
+    "tries": 3
+  },
+  {
+    "word": "METRO",
+    "tries": 3
+  },
+  {
+    "word": "MIDST",
+    "tries": 3
+  },
+  {
+    "word": "MODEL",
+    "tries": 3
+  },
+  {
+    "word": "MOGUL",
+    "tries": 3
+  },
+  {
+    "word": "MOIST",
+    "tries": 3
+  },
+  {
+    "word": "MONEY",
+    "tries": 3
+  },
+  {
+    "word": "MONTH",
+    "tries": 3
+  },
+  {
+    "word": "MOTEL",
+    "tries": 3
+  },
+  {
+    "word": "MOTOR",
+    "tries": 3
+  },
+  {
+    "word": "MOUNT",
+    "tries": 3
+  },
+  {
+    "word": "MULCH",
+    "tries": 3
+  },
+  {
+    "word": "MUMMY",
+    "tries": 3
+  },
+  {
+    "word": "MURAL",
+    "tries": 3
+  },
+  {
+    "word": "MUSHY",
+    "tries": 3
+  },
+  {
+    "word": "NEIGH",
+    "tries": 3
+  },
+  {
+    "word": "NEWLY",
+    "tries": 3
+  },
+  {
+    "word": "NICHE",
+    "tries": 3
+  },
+  {
+    "word": "NIGHT",
+    "tries": 3
+  },
+  {
+    "word": "NOBLE",
+    "tries": 3
+  },
+  {
+    "word": "NORTH",
+    "tries": 3
+  },
+  {
+    "word": "NYLON",
+    "tries": 3
+  },
+  {
+    "word": "OCCUR",
+    "tries": 3
+  },
+  {
+    "word": "OCEAN",
+    "tries": 3
+  },
+  {
+    "word": "OCTAL",
+    "tries": 3
+  },
+  {
+    "word": "OCTET",
+    "tries": 3
+  },
+  {
+    "word": "ODDLY",
+    "tries": 3
+  },
+  {
+    "word": "OFFAL",
+    "tries": 3
+  },
+  {
+    "word": "OFFER",
+    "tries": 3
+  },
+  {
+    "word": "OFTEN",
+    "tries": 3
+  },
+  {
+    "word": "OLDEN",
+    "tries": 3
+  },
+  {
+    "word": "OLDER",
+    "tries": 3
+  },
+  {
+    "word": "ONSET",
+    "tries": 3
+  },
+  {
+    "word": "OPIUM",
+    "tries": 3
+  },
+  {
+    "word": "OPTIC",
+    "tries": 3
+  },
+  {
+    "word": "ORBIT",
+    "tries": 3
+  },
+  {
+    "word": "ORDER",
+    "tries": 3
+  },
+  {
+    "word": "ORGAN",
+    "tries": 3
+  },
+  {
+    "word": "OTTER",
+    "tries": 3
+  },
+  {
+    "word": "OUGHT",
+    "tries": 3
+  },
+  {
+    "word": "OUTER",
+    "tries": 3
+  },
+  {
+    "word": "OWING",
+    "tries": 3
+  },
+  {
+    "word": "OWNER",
+    "tries": 3
+  },
+  {
+    "word": "PAPER",
+    "tries": 3
+  },
+  {
+    "word": "PARTY",
+    "tries": 3
+  },
+  {
+    "word": "PATSY",
+    "tries": 3
+  },
+  {
+    "word": "PEARL",
+    "tries": 3
+  },
+  {
+    "word": "PHONY",
+    "tries": 3
+  },
+  {
+    "word": "PHOTO",
+    "tries": 3
+  },
+  {
+    "word": "PIETY",
+    "tries": 3
+  },
+  {
+    "word": "PILOT",
+    "tries": 3
+  },
+  {
+    "word": "PINCH",
+    "tries": 3
+  },
+  {
+    "word": "PIQUE",
+    "tries": 3
+  },
+  {
+    "word": "PLACE",
+    "tries": 3
+  },
+  {
+    "word": "PLAIN",
+    "tries": 3
+  },
+  {
+    "word": "PLANT",
+    "tries": 3
+  },
+  {
+    "word": "PLATE",
+    "tries": 3
+  },
+  {
+    "word": "PLUMB",
+    "tries": 3
+  },
+  {
+    "word": "PLUMP",
+    "tries": 3
+  },
+  {
+    "word": "POKER",
+    "tries": 3
+  },
+  {
+    "word": "POLKA",
+    "tries": 3
+  },
+  {
+    "word": "POOCH",
+    "tries": 3
+  },
+  {
+    "word": "POSIT",
+    "tries": 3
+  },
+  {
+    "word": "POWER",
+    "tries": 3
+  },
+  {
+    "word": "PRINT",
+    "tries": 3
+  },
+  {
+    "word": "PROBE",
+    "tries": 3
+  },
+  {
+    "word": "PRONE",
+    "tries": 3
+  },
+  {
+    "word": "PRONG",
+    "tries": 3
+  },
+  {
+    "word": "PROOF",
+    "tries": 3
+  },
+  {
+    "word": "PROUD",
+    "tries": 3
+  },
+  {
+    "word": "PROVE",
+    "tries": 3
+  },
+  {
+    "word": "PUPIL",
+    "tries": 3
+  },
+  {
+    "word": "QUALM",
+    "tries": 3
+  },
+  {
+    "word": "QUART",
+    "tries": 3
+  },
+  {
+    "word": "QUASH",
+    "tries": 3
+  },
+  {
+    "word": "QUEST",
+    "tries": 3
+  },
+  {
+    "word": "QUICK",
+    "tries": 3
+  },
+  {
+    "word": "QUIET",
+    "tries": 3
+  },
+  {
+    "word": "QUILT",
+    "tries": 3
+  },
+  {
+    "word": "QUOTH",
+    "tries": 3
+  },
+  {
+    "word": "RAISE",
+    "tries": 3
+  },
+  {
+    "word": "RALPH",
+    "tries": 3
+  },
+  {
+    "word": "RAPID",
+    "tries": 3
+  },
+  {
+    "word": "RATIO",
+    "tries": 3
+  },
+  {
+    "word": "REBEL",
+    "tries": 3
+  },
+  {
+    "word": "REBUS",
+    "tries": 3
+  },
+  {
+    "word": "REBUT",
+    "tries": 3
+  },
+  {
+    "word": "RERUN",
+    "tries": 3
+  },
+  {
+    "word": "RESET",
+    "tries": 3
+  },
+  {
+    "word": "RETCH",
+    "tries": 3
+  },
+  {
+    "word": "RIGHT",
+    "tries": 3
+  },
+  {
+    "word": "ROBIN",
+    "tries": 3
+  },
+  {
+    "word": "ROGUE",
+    "tries": 3
+  },
+  {
+    "word": "ROUTE",
+    "tries": 3
+  },
+  {
+    "word": "ROWDY",
+    "tries": 3
+  },
+  {
+    "word": "ROYAL",
+    "tries": 3
+  },
+  {
+    "word": "RUGBY",
+    "tries": 3
+  },
+  {
+    "word": "RUMBA",
+    "tries": 3
+  },
+  {
+    "word": "RURAL",
+    "tries": 3
+  },
+  {
+    "word": "RUSTY",
+    "tries": 3
+  },
+  {
+    "word": "SALON",
+    "tries": 3
+  },
+  {
+    "word": "SALTY",
+    "tries": 3
+  },
+  {
+    "word": "SATIN",
+    "tries": 3
+  },
+  {
+    "word": "SAUNA",
+    "tries": 3
+  },
+  {
+    "word": "SCOOP",
+    "tries": 3
+  },
+  {
+    "word": "SCOPE",
+    "tries": 3
+  },
+  {
+    "word": "SCREW",
+    "tries": 3
+  },
+  {
+    "word": "SCRUB",
+    "tries": 3
+  },
+  {
+    "word": "SCUBA",
+    "tries": 3
+  },
+  {
+    "word": "SEGUE",
+    "tries": 3
+  },
+  {
+    "word": "SEPIA",
+    "tries": 3
+  },
+  {
+    "word": "SERUM",
+    "tries": 3
+  },
+  {
+    "word": "SHALL",
+    "tries": 3
+  },
+  {
+    "word": "SHEET",
+    "tries": 3
+  },
+  {
+    "word": "SHEIK",
+    "tries": 3
+  },
+  {
+    "word": "SHELL",
+    "tries": 3
+  },
+  {
+    "word": "SHIFT",
+    "tries": 3
+  },
+  {
+    "word": "SHINE",
+    "tries": 3
+  },
+  {
+    "word": "SHIRT",
+    "tries": 3
+  },
+  {
+    "word": "SHOAL",
+    "tries": 3
+  },
+  {
+    "word": "SHOCK",
+    "tries": 3
+  },
+  {
+    "word": "SHONE",
+    "tries": 3
+  },
+  {
+    "word": "SHOOT",
+    "tries": 3
+  },
+  {
+    "word": "SHOUT",
+    "tries": 3
+  },
+  {
+    "word": "SHOWN",
+    "tries": 3
+  },
+  {
+    "word": "SHREW",
+    "tries": 3
+  },
+  {
+    "word": "SIGMA",
+    "tries": 3
+  },
+  {
+    "word": "SINCE",
+    "tries": 3
+  },
+  {
+    "word": "SINEW",
+    "tries": 3
+  },
+  {
+    "word": "SKATE",
+    "tries": 3
+  },
+  {
+    "word": "SLOSH",
+    "tries": 3
+  },
+  {
+    "word": "SLOTH",
+    "tries": 3
+  },
+  {
+    "word": "SLUMP",
+    "tries": 3
+  },
+  {
+    "word": "SMALL",
+    "tries": 3
+  },
+  {
+    "word": "SMASH",
+    "tries": 3
+  },
+  {
+    "word": "SMEAR",
+    "tries": 3
+  },
+  {
+    "word": "SMITH",
+    "tries": 3
+  },
+  {
+    "word": "SMOTE",
+    "tries": 3
+  },
+  {
+    "word": "SNAIL",
+    "tries": 3
+  },
+  {
+    "word": "SOBER",
+    "tries": 3
+  },
+  {
+    "word": "SOLAR",
+    "tries": 3
+  },
+  {
+    "word": "SOLID",
+    "tries": 3
+  },
+  {
+    "word": "SPACE",
+    "tries": 3
+  },
+  {
+    "word": "SPLAT",
+    "tries": 3
+  },
+  {
+    "word": "SPLIT",
+    "tries": 3
+  },
+  {
+    "word": "SPOON",
+    "tries": 3
+  },
+  {
+    "word": "SPORT",
+    "tries": 3
+  },
+  {
+    "word": "SQUAT",
+    "tries": 3
+  },
+  {
+    "word": "SQUIB",
+    "tries": 3
+  },
+  {
+    "word": "STAFF",
+    "tries": 3
+  },
+  {
+    "word": "STAGE",
+    "tries": 3
+  },
+  {
+    "word": "START",
+    "tries": 3
+  },
+  {
+    "word": "STEAM",
+    "tries": 3
+  },
+  {
+    "word": "STEEL",
+    "tries": 3
+  },
+  {
+    "word": "STEER",
+    "tries": 3
+  },
+  {
+    "word": "STEIN",
+    "tries": 3
+  },
+  {
+    "word": "STERN",
+    "tries": 3
+  },
+  {
+    "word": "STILL",
+    "tries": 3
+  },
+  {
+    "word": "STOCK",
+    "tries": 3
+  },
+  {
+    "word": "STONE",
+    "tries": 3
+  },
+  {
+    "word": "STORY",
+    "tries": 3
+  },
+  {
+    "word": "STRAP",
+    "tries": 3
+  },
+  {
+    "word": "STRIP",
+    "tries": 3
+  },
+  {
+    "word": "STRUT",
+    "tries": 3
+  },
+  {
+    "word": "STUFF",
+    "tries": 3
+  },
+  {
+    "word": "STUNT",
+    "tries": 3
+  },
+  {
+    "word": "STYLE",
+    "tries": 3
+  },
+  {
+    "word": "SUING",
+    "tries": 3
+  },
+  {
+    "word": "SUITE",
+    "tries": 3
+  },
+  {
+    "word": "SUMAC",
+    "tries": 3
+  },
+  {
+    "word": "SUPER",
+    "tries": 3
+  },
+  {
+    "word": "SUSHI",
+    "tries": 3
+  },
+  {
+    "word": "SWAMI",
+    "tries": 3
+  },
+  {
+    "word": "SWATH",
+    "tries": 3
+  },
+  {
+    "word": "SWING",
+    "tries": 3
+  },
+  {
+    "word": "SWISH",
+    "tries": 3
+  },
+  {
+    "word": "SYNOD",
+    "tries": 3
+  },
+  {
+    "word": "SYRUP",
+    "tries": 3
+  },
+  {
+    "word": "TABBY",
+    "tries": 3
+  },
+  {
+    "word": "TABOO",
+    "tries": 3
+  },
+  {
+    "word": "TANGO",
+    "tries": 3
+  },
+  {
+    "word": "TAROT",
+    "tries": 3
+  },
+  {
+    "word": "TASTE",
+    "tries": 3
+  },
+  {
+    "word": "TASTY",
+    "tries": 3
+  },
+  {
+    "word": "TEACH",
+    "tries": 3
+  },
+  {
+    "word": "TEASE",
+    "tries": 3
+  },
+  {
+    "word": "TEDDY",
+    "tries": 3
+  },
+  {
+    "word": "TEETH",
+    "tries": 3
+  },
+  {
+    "word": "TEMPO",
+    "tries": 3
+  },
+  {
+    "word": "TENOR",
+    "tries": 3
+  },
+  {
+    "word": "TENTH",
+    "tries": 3
+  },
+  {
+    "word": "TEPID",
+    "tries": 3
+  },
+  {
+    "word": "TERSE",
+    "tries": 3
+  },
+  {
+    "word": "THEFT",
+    "tries": 3
+  },
+  {
+    "word": "THERE",
+    "tries": 3
+  },
+  {
+    "word": "THESE",
+    "tries": 3
+  },
+  {
+    "word": "THETA",
+    "tries": 3
+  },
+  {
+    "word": "THIEF",
+    "tries": 3
+  },
+  {
+    "word": "THINK",
+    "tries": 3
+  },
+  {
+    "word": "THIRD",
+    "tries": 3
+  },
+  {
+    "word": "THORN",
+    "tries": 3
+  },
+  {
+    "word": "THOSE",
+    "tries": 3
+  },
+  {
+    "word": "THREE",
+    "tries": 3
+  },
+  {
+    "word": "THRUM",
+    "tries": 3
+  },
+  {
+    "word": "THYME",
+    "tries": 3
+  },
+  {
+    "word": "TIBIA",
+    "tries": 3
+  },
+  {
+    "word": "TIGER",
+    "tries": 3
+  },
+  {
+    "word": "TIMID",
+    "tries": 3
+  },
+  {
+    "word": "TITHE",
+    "tries": 3
+  },
+  {
+    "word": "TITLE",
+    "tries": 3
+  },
+  {
+    "word": "TOAST",
+    "tries": 3
+  },
+  {
+    "word": "TONGA",
+    "tries": 3
+  },
+  {
+    "word": "TOPIC",
+    "tries": 3
+  },
+  {
+    "word": "TOTAL",
+    "tries": 3
+  },
+  {
+    "word": "TOUCH",
+    "tries": 3
+  },
+  {
+    "word": "TOWER",
+    "tries": 3
+  },
+  {
+    "word": "TRACK",
+    "tries": 3
+  },
+  {
+    "word": "TRADE",
+    "tries": 3
+  },
+  {
+    "word": "TRASH",
+    "tries": 3
+  },
+  {
+    "word": "TREAT",
+    "tries": 3
+  },
+  {
+    "word": "TREND",
+    "tries": 3
+  },
+  {
+    "word": "TRIBE",
+    "tries": 3
+  },
+  {
+    "word": "TRICK",
+    "tries": 3
+  },
+  {
+    "word": "TRIED",
+    "tries": 3
+  },
+  {
+    "word": "TROOP",
+    "tries": 3
+  },
+  {
+    "word": "TROUT",
+    "tries": 3
+  },
+  {
+    "word": "TRULY",
+    "tries": 3
+  },
+  {
+    "word": "TRUSS",
+    "tries": 3
+  },
+  {
+    "word": "TRUST",
+    "tries": 3
+  },
+  {
+    "word": "TRUTH",
+    "tries": 3
+  },
+  {
+    "word": "TUBER",
+    "tries": 3
+  },
+  {
+    "word": "TWEED",
+    "tries": 3
+  },
+  {
+    "word": "TYING",
+    "tries": 3
+  },
+  {
+    "word": "UMBRA",
+    "tries": 3
+  },
+  {
+    "word": "UNCUT",
+    "tries": 3
+  },
+  {
+    "word": "UNDER",
+    "tries": 3
+  },
+  {
+    "word": "UNION",
+    "tries": 3
+  },
+  {
+    "word": "UNITY",
+    "tries": 3
+  },
+  {
+    "word": "UNMET",
+    "tries": 3
+  },
+  {
+    "word": "UNTIL",
+    "tries": 3
+  },
+  {
+    "word": "UPSET",
+    "tries": 3
+  },
+  {
+    "word": "URINE",
+    "tries": 3
+  },
+  {
+    "word": "USING",
+    "tries": 3
+  },
+  {
+    "word": "UTTER",
+    "tries": 3
+  },
+  {
+    "word": "VAGUE",
+    "tries": 3
+  },
+  {
+    "word": "VALID",
+    "tries": 3
+  },
+  {
+    "word": "VAULT",
+    "tries": 3
+  },
+  {
+    "word": "VENUE",
+    "tries": 3
+  },
+  {
+    "word": "VIDEO",
+    "tries": 3
+  },
+  {
+    "word": "VIOLA",
+    "tries": 3
+  },
+  {
+    "word": "VIRUS",
+    "tries": 3
+  },
+  {
+    "word": "VISIT",
+    "tries": 3
+  },
+  {
+    "word": "VISTA",
+    "tries": 3
+  },
+  {
+    "word": "VOCAL",
+    "tries": 3
+  },
+  {
+    "word": "VODKA",
+    "tries": 3
+  },
+  {
+    "word": "VOMIT",
+    "tries": 3
+  },
+  {
+    "word": "VOWEL",
+    "tries": 3
+  },
+  {
+    "word": "WASTE",
+    "tries": 3
+  },
+  {
+    "word": "WATCH",
+    "tries": 3
+  },
+  {
+    "word": "WATER",
+    "tries": 3
+  },
+  {
+    "word": "WEDGE",
+    "tries": 3
+  },
+  {
+    "word": "WEIGH",
+    "tries": 3
+  },
+  {
+    "word": "WEIRD",
+    "tries": 3
+  },
+  {
+    "word": "WELCH",
+    "tries": 3
+  },
+  {
+    "word": "WELSH",
+    "tries": 3
+  },
+  {
+    "word": "WHERE",
+    "tries": 3
+  },
+  {
+    "word": "WHILE",
+    "tries": 3
+  },
+  {
+    "word": "WHITE",
+    "tries": 3
+  },
+  {
+    "word": "WHOLE",
+    "tries": 3
+  },
+  {
+    "word": "WHOOP",
+    "tries": 3
+  },
+  {
+    "word": "WIDER",
+    "tries": 3
+  },
+  {
+    "word": "WIDOW",
+    "tries": 3
+  },
+  {
+    "word": "WINCE",
+    "tries": 3
+  },
+  {
+    "word": "WINCH",
+    "tries": 3
+  },
+  {
+    "word": "WOMAN",
+    "tries": 3
+  },
+  {
+    "word": "WOMEN",
+    "tries": 3
+  },
+  {
+    "word": "WORDY",
+    "tries": 3
+  },
+  {
+    "word": "WORSE",
+    "tries": 3
+  },
+  {
+    "word": "WORST",
+    "tries": 3
+  },
+  {
+    "word": "WOUND",
+    "tries": 3
+  },
+  {
+    "word": "WRATH",
+    "tries": 3
+  },
+  {
+    "word": "WRECK",
+    "tries": 3
+  },
+  {
+    "word": "WRIST",
+    "tries": 3
+  },
+  {
+    "word": "WRITE",
+    "tries": 3
+  },
+  {
+    "word": "WRONG",
+    "tries": 3
+  },
+  {
+    "word": "WROTE",
+    "tries": 3
+  },
+  {
+    "word": "YOUTH",
+    "tries": 3
+  },
+  {
+    "word": "ABASE",
+    "tries": 4
+  },
+  {
+    "word": "ADAPT",
+    "tries": 4
+  },
+  {
+    "word": "ADEPT",
+    "tries": 4
+  },
+  {
+    "word": "ADMIT",
+    "tries": 4
+  },
+  {
+    "word": "ADORE",
+    "tries": 4
+  },
+  {
+    "word": "ADORN",
+    "tries": 4
+  },
+  {
+    "word": "AFOOT",
+    "tries": 4
+  },
+  {
+    "word": "AIDER",
+    "tries": 4
+  },
+  {
+    "word": "AISLE",
+    "tries": 4
+  },
+  {
+    "word": "ALARM",
+    "tries": 4
+  },
+  {
+    "word": "ALIKE",
+    "tries": 4
+  },
+  {
+    "word": "ALLEY",
+    "tries": 4
+  },
+  {
+    "word": "ALPHA",
+    "tries": 4
+  },
+  {
+    "word": "AMAZE",
+    "tries": 4
+  },
+  {
+    "word": "AMEND",
+    "tries": 4
+  },
+  {
+    "word": "AMISS",
+    "tries": 4
+  },
+  {
+    "word": "AMPLE",
+    "tries": 4
+  },
+  {
+    "word": "AMPLY",
+    "tries": 4
+  },
+  {
+    "word": "ANGER",
+    "tries": 4
+  },
+  {
+    "word": "ANGLE",
+    "tries": 4
+  },
+  {
+    "word": "ANGRY",
+    "tries": 4
+  },
+  {
+    "word": "ANKLE",
+    "tries": 4
+  },
+  {
+    "word": "ANNOY",
+    "tries": 4
+  },
+  {
+    "word": "ANNUL",
+    "tries": 4
+  },
+  {
+    "word": "ANODE",
+    "tries": 4
+  },
+  {
+    "word": "ANTIC",
+    "tries": 4
+  },
+  {
+    "word": "APHID",
+    "tries": 4
+  },
+  {
+    "word": "APNEA",
+    "tries": 4
+  },
+  {
+    "word": "APPLE",
+    "tries": 4
+  },
+  {
+    "word": "APRON",
+    "tries": 4
+  },
+  {
+    "word": "APTLY",
+    "tries": 4
+  },
+  {
+    "word": "ARDOR",
+    "tries": 4
+  },
+  {
+    "word": "AROSE",
+    "tries": 4
+  },
+  {
+    "word": "ARRAY",
+    "tries": 4
+  },
+  {
+    "word": "ARSON",
+    "tries": 4
+  },
+  {
+    "word": "ASIDE",
+    "tries": 4
+  },
+  {
+    "word": "ASKEW",
+    "tries": 4
+  },
+  {
+    "word": "AVERT",
+    "tries": 4
+  },
+  {
+    "word": "AWAIT",
+    "tries": 4
+  },
+  {
+    "word": "AWAKE",
+    "tries": 4
+  },
+  {
+    "word": "AWARE",
+    "tries": 4
+  },
+  {
+    "word": "AXIOM",
+    "tries": 4
+  },
+  {
+    "word": "BADGE",
+    "tries": 4
+  },
+  {
+    "word": "BALMY",
+    "tries": 4
+  },
+  {
+    "word": "BANJO",
+    "tries": 4
+  },
+  {
+    "word": "BASIL",
+    "tries": 4
+  },
+  {
+    "word": "BASIN",
+    "tries": 4
+  },
+  {
+    "word": "BASTE",
+    "tries": 4
+  },
+  {
+    "word": "BATTY",
+    "tries": 4
+  },
+  {
+    "word": "BEADY",
+    "tries": 4
+  },
+  {
+    "word": "BEARD",
+    "tries": 4
+  },
+  {
+    "word": "BEGAN",
+    "tries": 4
+  },
+  {
+    "word": "BELLE",
+    "tries": 4
+  },
+  {
+    "word": "BELLY",
+    "tries": 4
+  },
+  {
+    "word": "BERET",
+    "tries": 4
+  },
+  {
+    "word": "BICEP",
+    "tries": 4
+  },
+  {
+    "word": "BIDDY",
+    "tries": 4
+  },
+  {
+    "word": "BIOME",
+    "tries": 4
+  },
+  {
+    "word": "BIRCH",
+    "tries": 4
+  },
+  {
+    "word": "BLAME",
+    "tries": 4
+  },
+  {
+    "word": "BLAND",
+    "tries": 4
+  },
+  {
+    "word": "BLEED",
+    "tries": 4
+  },
+  {
+    "word": "BLEEP",
+    "tries": 4
+  },
+  {
+    "word": "BLESS",
+    "tries": 4
+  },
+  {
+    "word": "BLINK",
+    "tries": 4
+  },
+  {
+    "word": "BLISS",
+    "tries": 4
+  },
+  {
+    "word": "BLOCK",
+    "tries": 4
+  },
+  {
+    "word": "BLOOM",
+    "tries": 4
+  },
+  {
+    "word": "BLURT",
+    "tries": 4
+  },
+  {
+    "word": "BLUSH",
+    "tries": 4
+  },
+  {
+    "word": "BOBBY",
+    "tries": 4
+  },
+  {
+    "word": "BONEY",
+    "tries": 4
+  },
+  {
+    "word": "BONGO",
+    "tries": 4
+  },
+  {
+    "word": "BOOZE",
+    "tries": 4
+  },
+  {
+    "word": "BORNE",
+    "tries": 4
+  },
+  {
+    "word": "BOSOM",
+    "tries": 4
+  },
+  {
+    "word": "BOULE",
+    "tries": 4
+  },
+  {
+    "word": "BRACE",
+    "tries": 4
+  },
+  {
+    "word": "BRAID",
+    "tries": 4
+  },
+  {
+    "word": "BRAIN",
+    "tries": 4
+  },
+  {
+    "word": "BRASS",
+    "tries": 4
+  },
+  {
+    "word": "BRIAR",
+    "tries": 4
+  },
+  {
+    "word": "BRIDE",
+    "tries": 4
+  },
+  {
+    "word": "BRINK",
+    "tries": 4
+  },
+  {
+    "word": "BRISK",
+    "tries": 4
+  },
+  {
+    "word": "BROOK",
+    "tries": 4
+  },
+  {
+    "word": "BROOM",
+    "tries": 4
+  },
+  {
+    "word": "BUDGE",
+    "tries": 4
+  },
+  {
+    "word": "BUGLE",
+    "tries": 4
+  },
+  {
+    "word": "BULGE",
+    "tries": 4
+  },
+  {
+    "word": "BUNCH",
+    "tries": 4
+  },
+  {
+    "word": "BUNNY",
+    "tries": 4
+  },
+  {
+    "word": "BURLY",
+    "tries": 4
+  },
+  {
+    "word": "BURNT",
+    "tries": 4
+  },
+  {
+    "word": "BYLAW",
+    "tries": 4
+  },
+  {
+    "word": "CABAL",
+    "tries": 4
+  },
+  {
+    "word": "CABBY",
+    "tries": 4
+  },
+  {
+    "word": "CADET",
+    "tries": 4
+  },
+  {
+    "word": "CAIRN",
+    "tries": 4
+  },
+  {
+    "word": "CANOE",
+    "tries": 4
+  },
+  {
+    "word": "CAPER",
+    "tries": 4
+  },
+  {
+    "word": "CARGO",
+    "tries": 4
+  },
+  {
+    "word": "CARRY",
+    "tries": 4
+  },
+  {
+    "word": "CAULK",
+    "tries": 4
+  },
+  {
+    "word": "CEDAR",
+    "tries": 4
+  },
+  {
+    "word": "CELLO",
+    "tries": 4
+  },
+  {
+    "word": "CHAIN",
+    "tries": 4
+  },
+  {
+    "word": "CHALK",
+    "tries": 4
+  },
+  {
+    "word": "CHAMP",
+    "tries": 4
+  },
+  {
+    "word": "CHANT",
+    "tries": 4
+  },
+  {
+    "word": "CHAOS",
+    "tries": 4
+  },
+  {
+    "word": "CHARD",
+    "tries": 4
+  },
+  {
+    "word": "CHARM",
+    "tries": 4
+  },
+  {
+    "word": "CHART",
+    "tries": 4
+  },
+  {
+    "word": "CHASE",
+    "tries": 4
+  },
+  {
+    "word": "CHASM",
+    "tries": 4
+  },
+  {
+    "word": "CHEAP",
+    "tries": 4
+  },
+  {
+    "word": "CHEER",
+    "tries": 4
+  },
+  {
+    "word": "CHIDE",
+    "tries": 4
+  },
+  {
+    "word": "CHIEF",
+    "tries": 4
+  },
+  {
+    "word": "CHILI",
+    "tries": 4
+  },
+  {
+    "word": "CHOCK",
+    "tries": 4
+  },
+  {
+    "word": "CHOIR",
+    "tries": 4
+  },
+  {
+    "word": "CHUNK",
+    "tries": 4
+  },
+  {
+    "word": "CHURN",
+    "tries": 4
+  },
+  {
+    "word": "CHUTE",
+    "tries": 4
+  },
+  {
+    "word": "CIDER",
+    "tries": 4
+  },
+  {
+    "word": "CIGAR",
+    "tries": 4
+  },
+  {
+    "word": "CIRCA",
+    "tries": 4
+  },
+  {
+    "word": "CIVIC",
+    "tries": 4
+  },
+  {
+    "word": "CLANK",
+    "tries": 4
+  },
+  {
+    "word": "CLASH",
+    "tries": 4
+  },
+  {
+    "word": "CLEAN",
+    "tries": 4
+  },
+  {
+    "word": "CLEAR",
+    "tries": 4
+  },
+  {
+    "word": "CLEAT",
+    "tries": 4
+  },
+  {
+    "word": "CLEFT",
+    "tries": 4
+  },
+  {
+    "word": "CLERK",
+    "tries": 4
+  },
+  {
+    "word": "CLIFF",
+    "tries": 4
+  },
+  {
+    "word": "CLOCK",
+    "tries": 4
+  },
+  {
+    "word": "CLOTH",
+    "tries": 4
+  },
+  {
+    "word": "CLOVE",
+    "tries": 4
+  },
+  {
+    "word": "CLUCK",
+    "tries": 4
+  },
+  {
+    "word": "COLON",
+    "tries": 4
+  },
+  {
+    "word": "COMET",
+    "tries": 4
+  },
+  {
+    "word": "COMFY",
+    "tries": 4
+  },
+  {
+    "word": "COMIC",
+    "tries": 4
+  },
+  {
+    "word": "COMMA",
+    "tries": 4
+  },
+  {
+    "word": "CONDO",
+    "tries": 4
+  },
+  {
+    "word": "CORER",
+    "tries": 4
+  },
+  {
+    "word": "CORNY",
+    "tries": 4
+  },
+  {
+    "word": "COVEN",
+    "tries": 4
+  },
+  {
+    "word": "COVER",
+    "tries": 4
+  },
+  {
+    "word": "COVEY",
+    "tries": 4
+  },
+  {
+    "word": "COYLY",
+    "tries": 4
+  },
+  {
+    "word": "CRAFT",
+    "tries": 4
+  },
+  {
+    "word": "CRAMP",
+    "tries": 4
+  },
+  {
+    "word": "CRANE",
+    "tries": 4
+  },
+  {
+    "word": "CRATE",
+    "tries": 4
+  },
+  {
+    "word": "CRAWL",
+    "tries": 4
+  },
+  {
+    "word": "CRAZY",
+    "tries": 4
+  },
+  {
+    "word": "CREAM",
+    "tries": 4
+  },
+  {
+    "word": "CREDO",
+    "tries": 4
+  },
+  {
+    "word": "CREED",
+    "tries": 4
+  },
+  {
+    "word": "CREME",
+    "tries": 4
+  },
+  {
+    "word": "CREPT",
+    "tries": 4
+  },
+  {
+    "word": "CRESS",
+    "tries": 4
+  },
+  {
+    "word": "CRICK",
+    "tries": 4
+  },
+  {
+    "word": "CRIED",
+    "tries": 4
+  },
+  {
+    "word": "CRIMP",
+    "tries": 4
+  },
+  {
+    "word": "CRISP",
+    "tries": 4
+  },
+  {
+    "word": "CROAK",
+    "tries": 4
+  },
+  {
+    "word": "CRONE",
+    "tries": 4
+  },
+  {
+    "word": "CROWD",
+    "tries": 4
+  },
+  {
+    "word": "CROWN",
+    "tries": 4
+  },
+  {
+    "word": "CRUDE",
+    "tries": 4
+  },
+  {
+    "word": "CRUMP",
+    "tries": 4
+  },
+  {
+    "word": "CRUST",
+    "tries": 4
+  },
+  {
+    "word": "CRYPT",
+    "tries": 4
+  },
+  {
+    "word": "CURIO",
+    "tries": 4
+  },
+  {
+    "word": "CURLY",
+    "tries": 4
+  },
+  {
+    "word": "CURVE",
+    "tries": 4
+  },
+  {
+    "word": "CUTIE",
+    "tries": 4
+  },
+  {
+    "word": "CYCLE",
+    "tries": 4
+  },
+  {
+    "word": "CYNIC",
+    "tries": 4
+  },
+  {
+    "word": "DAIRY",
+    "tries": 4
+  },
+  {
+    "word": "DANCE",
+    "tries": 4
+  },
+  {
+    "word": "DEALT",
+    "tries": 4
+  },
+  {
+    "word": "DECAY",
+    "tries": 4
+  },
+  {
+    "word": "DECOR",
+    "tries": 4
+  },
+  {
+    "word": "DECRY",
+    "tries": 4
+  },
+  {
+    "word": "DEIGN",
+    "tries": 4
+  },
+  {
+    "word": "DEITY",
+    "tries": 4
+  },
+  {
+    "word": "DELTA",
+    "tries": 4
+  },
+  {
+    "word": "DELVE",
+    "tries": 4
+  },
+  {
+    "word": "DEMON",
+    "tries": 4
+  },
+  {
+    "word": "DENIM",
+    "tries": 4
+  },
+  {
+    "word": "DERBY",
+    "tries": 4
+  },
+  {
+    "word": "DETOX",
+    "tries": 4
+  },
+  {
+    "word": "DEUCE",
+    "tries": 4
+  },
+  {
+    "word": "DIGIT",
+    "tries": 4
+  },
+  {
+    "word": "DINER",
+    "tries": 4
+  },
+  {
+    "word": "DINGY",
+    "tries": 4
+  },
+  {
+    "word": "DISCO",
+    "tries": 4
+  },
+  {
+    "word": "DITTO",
+    "tries": 4
+  },
+  {
+    "word": "DIVER",
+    "tries": 4
+  },
+  {
+    "word": "DODGE",
+    "tries": 4
+  },
+  {
+    "word": "DOGMA",
+    "tries": 4
+  },
+  {
+    "word": "DOPEY",
+    "tries": 4
+  },
+  {
+    "word": "DOWDY",
+    "tries": 4
+  },
+  {
+    "word": "DOWNY",
+    "tries": 4
+  },
+  {
+    "word": "DOWRY",
+    "tries": 4
+  },
+  {
+    "word": "DOZEN",
+    "tries": 4
+  },
+  {
+    "word": "DRANK",
+    "tries": 4
+  },
+  {
+    "word": "DRAWN",
+    "tries": 4
+  },
+  {
+    "word": "DRIED",
+    "tries": 4
+  },
+  {
+    "word": "DRINK",
+    "tries": 4
+  },
+  {
+    "word": "DROIT",
+    "tries": 4
+  },
+  {
+    "word": "DROOP",
+    "tries": 4
+  },
+  {
+    "word": "DRUID",
+    "tries": 4
+  },
+  {
+    "word": "DRUNK",
+    "tries": 4
+  },
+  {
+    "word": "DRYER",
+    "tries": 4
+  },
+  {
+    "word": "DUCHY",
+    "tries": 4
+  },
+  {
+    "word": "DUMPY",
+    "tries": 4
+  },
+  {
+    "word": "DUNCE",
+    "tries": 4
+  },
+  {
+    "word": "DUSKY",
+    "tries": 4
+  },
+  {
+    "word": "DUVET",
+    "tries": 4
+  },
+  {
+    "word": "DWARF",
+    "tries": 4
+  },
+  {
+    "word": "DWELT",
+    "tries": 4
+  },
+  {
+    "word": "DYING",
+    "tries": 4
+  },
+  {
+    "word": "EAGER",
+    "tries": 4
+  },
+  {
+    "word": "EAGLE",
+    "tries": 4
+  },
+  {
+    "word": "EATEN",
+    "tries": 4
+  },
+  {
+    "word": "EDICT",
+    "tries": 4
+  },
+  {
+    "word": "ELATE",
+    "tries": 4
+  },
+  {
+    "word": "ELECT",
+    "tries": 4
+  },
+  {
+    "word": "ELEGY",
+    "tries": 4
+  },
+  {
+    "word": "ELUDE",
+    "tries": 4
+  },
+  {
+    "word": "EMBED",
+    "tries": 4
+  },
+  {
+    "word": "EMBER",
+    "tries": 4
+  },
+  {
+    "word": "EMPTY",
+    "tries": 4
+  },
+  {
+    "word": "ENVOY",
+    "tries": 4
+  },
+  {
+    "word": "EQUIP",
+    "tries": 4
+  },
+  {
+    "word": "ERUPT",
+    "tries": 4
+  },
+  {
+    "word": "ESTER",
+    "tries": 4
+  },
+  {
+    "word": "EVADE",
+    "tries": 4
+  },
+  {
+    "word": "EVERY",
+    "tries": 4
+  },
+  {
+    "word": "EXACT",
+    "tries": 4
+  },
+  {
+    "word": "EXALT",
+    "tries": 4
+  },
+  {
+    "word": "EXCEL",
+    "tries": 4
+  },
+  {
+    "word": "EXERT",
+    "tries": 4
+  },
+  {
+    "word": "EXPEL",
+    "tries": 4
+  },
+  {
+    "word": "EXTOL",
+    "tries": 4
+  },
+  {
+    "word": "EXTRA",
+    "tries": 4
+  },
+  {
+    "word": "FABLE",
+    "tries": 4
+  },
+  {
+    "word": "FAITH",
+    "tries": 4
+  },
+  {
+    "word": "FALSE",
+    "tries": 4
+  },
+  {
+    "word": "FATAL",
+    "tries": 4
+  },
+  {
+    "word": "FAUNA",
+    "tries": 4
+  },
+  {
+    "word": "FAVOR",
+    "tries": 4
+  },
+  {
+    "word": "FEMUR",
+    "tries": 4
+  },
+  {
+    "word": "FENCE",
+    "tries": 4
+  },
+  {
+    "word": "FERRY",
+    "tries": 4
+  },
+  {
+    "word": "FETCH",
+    "tries": 4
+  },
+  {
+    "word": "FEWER",
+    "tries": 4
+  },
+  {
+    "word": "FIBRE",
+    "tries": 4
+  },
+  {
+    "word": "FIELD",
+    "tries": 4
+  },
+  {
+    "word": "FIFTY",
+    "tries": 4
+  },
+  {
+    "word": "FILET",
+    "tries": 4
+  },
+  {
+    "word": "FINCH",
+    "tries": 4
+  },
+  {
+    "word": "FISHY",
+    "tries": 4
+  },
+  {
+    "word": "FLACK",
+    "tries": 4
+  },
+  {
+    "word": "FLAIR",
+    "tries": 4
+  },
+  {
+    "word": "FLASH",
+    "tries": 4
+  },
+  {
+    "word": "FLESH",
+    "tries": 4
+  },
+  {
+    "word": "FLOCK",
+    "tries": 4
+  },
+  {
+    "word": "FLOOD",
+    "tries": 4
+  },
+  {
+    "word": "FLOOR",
+    "tries": 4
+  },
+  {
+    "word": "FLOUT",
+    "tries": 4
+  },
+  {
+    "word": "FLUFF",
+    "tries": 4
+  },
+  {
+    "word": "FLUKE",
+    "tries": 4
+  },
+  {
+    "word": "FLUME",
+    "tries": 4
+  },
+  {
+    "word": "FLUNG",
+    "tries": 4
+  },
+  {
+    "word": "FLUTE",
+    "tries": 4
+  },
+  {
+    "word": "FLYER",
+    "tries": 4
+  },
+  {
+    "word": "FOCAL",
+    "tries": 4
+  },
+  {
+    "word": "FOLIO",
+    "tries": 4
+  },
+  {
+    "word": "FORAY",
+    "tries": 4
+  },
+  {
+    "word": "FORGE",
+    "tries": 4
+  },
+  {
+    "word": "FORGO",
+    "tries": 4
+  },
+  {
+    "word": "FORTE",
+    "tries": 4
+  },
+  {
+    "word": "FORTY",
+    "tries": 4
+  },
+  {
+    "word": "FRANK",
+    "tries": 4
+  },
+  {
+    "word": "FREAK",
+    "tries": 4
+  },
+  {
+    "word": "FRIED",
+    "tries": 4
+  },
+  {
+    "word": "FRITZ",
+    "tries": 4
+  },
+  {
+    "word": "FROCK",
+    "tries": 4
+  },
+  {
+    "word": "FROTH",
+    "tries": 4
+  },
+  {
+    "word": "FUDGE",
+    "tries": 4
+  },
+  {
+    "word": "FUGUE",
+    "tries": 4
+  },
+  {
+    "word": "FUNGI",
+    "tries": 4
+  },
+  {
+    "word": "FUNNY",
+    "tries": 4
+  },
+  {
+    "word": "FUSSY",
+    "tries": 4
+  },
+  {
+    "word": "GAILY",
+    "tries": 4
+  },
+  {
+    "word": "GAMMA",
+    "tries": 4
+  },
+  {
+    "word": "GAUDY",
+    "tries": 4
+  },
+  {
+    "word": "GAUGE",
+    "tries": 4
+  },
+  {
+    "word": "GAUNT",
+    "tries": 4
+  },
+  {
+    "word": "GAVEL",
+    "tries": 4
+  },
+  {
+    "word": "GECKO",
+    "tries": 4
+  },
+  {
+    "word": "GIDDY",
+    "tries": 4
+  },
+  {
+    "word": "GIVEN",
+    "tries": 4
+  },
+  {
+    "word": "GLASS",
+    "tries": 4
+  },
+  {
+    "word": "GLEAM",
+    "tries": 4
+  },
+  {
+    "word": "GLEAN",
+    "tries": 4
+  },
+  {
+    "word": "GLINT",
+    "tries": 4
+  },
+  {
+    "word": "GLOSS",
+    "tries": 4
+  },
+  {
+    "word": "GLOVE",
+    "tries": 4
+  },
+  {
+    "word": "GNASH",
+    "tries": 4
+  },
+  {
+    "word": "GODLY",
+    "tries": 4
+  },
+  {
+    "word": "GOING",
+    "tries": 4
+  },
+  {
+    "word": "GOLEM",
+    "tries": 4
+  },
+  {
+    "word": "GOOSE",
+    "tries": 4
+  },
+  {
+    "word": "GOURD",
+    "tries": 4
+  },
+  {
+    "word": "GRACE",
+    "tries": 4
+  },
+  {
+    "word": "GRADE",
+    "tries": 4
+  },
+  {
+    "word": "GRAFT",
+    "tries": 4
+  },
+  {
+    "word": "GRAIL",
+    "tries": 4
+  },
+  {
+    "word": "GRAIN",
+    "tries": 4
+  },
+  {
+    "word": "GRAPE",
+    "tries": 4
+  },
+  {
+    "word": "GRAPH",
+    "tries": 4
+  },
+  {
+    "word": "GREEN",
+    "tries": 4
+  },
+  {
+    "word": "GREET",
+    "tries": 4
+  },
+  {
+    "word": "GRIEF",
+    "tries": 4
+  },
+  {
+    "word": "GRILL",
+    "tries": 4
+  },
+  {
+    "word": "GRIND",
+    "tries": 4
+  },
+  {
+    "word": "GROIN",
+    "tries": 4
+  },
+  {
+    "word": "GROOM",
+    "tries": 4
+  },
+  {
+    "word": "GROPE",
+    "tries": 4
+  },
+  {
+    "word": "GROSS",
+    "tries": 4
+  },
+  {
+    "word": "GROUT",
+    "tries": 4
+  },
+  {
+    "word": "GROVE",
+    "tries": 4
+  },
+  {
+    "word": "GRUEL",
+    "tries": 4
+  },
+  {
+    "word": "GRUFF",
+    "tries": 4
+  },
+  {
+    "word": "GUAVA",
+    "tries": 4
+  },
+  {
+    "word": "GUESS",
+    "tries": 4
+  },
+  {
+    "word": "GUILD",
+    "tries": 4
+  },
+  {
+    "word": "GUILE",
+    "tries": 4
+  },
+  {
+    "word": "GUISE",
+    "tries": 4
+  },
+  {
+    "word": "GULCH",
+    "tries": 4
+  },
+  {
+    "word": "GULLY",
+    "tries": 4
+  },
+  {
+    "word": "GUMBO",
+    "tries": 4
+  },
+  {
+    "word": "GUMMY",
+    "tries": 4
+  },
+  {
+    "word": "GYPSY",
+    "tries": 4
+  },
+  {
+    "word": "HAIRY",
+    "tries": 4
+  },
+  {
+    "word": "HAREM",
+    "tries": 4
+  },
+  {
+    "word": "HARPY",
+    "tries": 4
+  },
+  {
+    "word": "HARRY",
+    "tries": 4
+  },
+  {
+    "word": "HARSH",
+    "tries": 4
+  },
+  {
+    "word": "HAVEN",
+    "tries": 4
+  },
+  {
+    "word": "HAVOC",
+    "tries": 4
+  },
+  {
+    "word": "HEATH",
+    "tries": 4
+  },
+  {
+    "word": "HEFTY",
+    "tries": 4
+  },
+  {
+    "word": "HEIST",
+    "tries": 4
+  },
+  {
+    "word": "HERON",
+    "tries": 4
+  },
+  {
+    "word": "HILLY",
+    "tries": 4
+  },
+  {
+    "word": "HINGE",
+    "tries": 4
+  },
+  {
+    "word": "HIPPO",
+    "tries": 4
+  },
+  {
+    "word": "HIPPY",
+    "tries": 4
+  },
+  {
+    "word": "HOARD",
+    "tries": 4
+  },
+  {
+    "word": "HOBBY",
+    "tries": 4
+  },
+  {
+    "word": "HOIST",
+    "tries": 4
+  },
+  {
+    "word": "HONEY",
+    "tries": 4
+  },
+  {
+    "word": "HONOR",
+    "tries": 4
+  },
+  {
+    "word": "HORSE",
+    "tries": 4
+  },
+  {
+    "word": "HOTLY",
+    "tries": 4
+  },
+  {
+    "word": "HUMOR",
+    "tries": 4
+  },
+  {
+    "word": "HUSSY",
+    "tries": 4
+  },
+  {
+    "word": "HUTCH",
+    "tries": 4
+  },
+  {
+    "word": "HYDRO",
+    "tries": 4
+  },
+  {
+    "word": "HYPER",
+    "tries": 4
+  },
+  {
+    "word": "ICING",
+    "tries": 4
+  },
+  {
+    "word": "IDIOM",
+    "tries": 4
+  },
+  {
+    "word": "IDLER",
+    "tries": 4
+  },
+  {
+    "word": "IDYLL",
+    "tries": 4
+  },
+  {
+    "word": "IGLOO",
+    "tries": 4
+  },
+  {
+    "word": "ILIAC",
+    "tries": 4
+  },
+  {
+    "word": "IMPEL",
+    "tries": 4
+  },
+  {
+    "word": "IMPLY",
+    "tries": 4
+  },
+  {
+    "word": "INEPT",
+    "tries": 4
+  },
+  {
+    "word": "INERT",
+    "tries": 4
+  },
+  {
+    "word": "INLAY",
+    "tries": 4
+  },
+  {
+    "word": "INNER",
+    "tries": 4
+  },
+  {
+    "word": "IRONY",
+    "tries": 4
+  },
+  {
+    "word": "ISLET",
+    "tries": 4
+  },
+  {
+    "word": "ITCHY",
+    "tries": 4
+  },
+  {
+    "word": "JEWEL",
+    "tries": 4
+  },
+  {
+    "word": "JOKER",
+    "tries": 4
+  },
+  {
+    "word": "JOLLY",
+    "tries": 4
+  },
+  {
+    "word": "JOUST",
+    "tries": 4
+  },
+  {
+    "word": "JUICE",
+    "tries": 4
+  },
+  {
+    "word": "KAPPA",
+    "tries": 4
+  },
+  {
+    "word": "KARMA",
+    "tries": 4
+  },
+  {
+    "word": "KAYAK",
+    "tries": 4
+  },
+  {
+    "word": "KHAKI",
+    "tries": 4
+  },
+  {
+    "word": "KIOSK",
+    "tries": 4
+  },
+  {
+    "word": "KNELT",
+    "tries": 4
+  },
+  {
+    "word": "KNOCK",
+    "tries": 4
+  },
+  {
+    "word": "KOALA",
+    "tries": 4
+  },
+  {
+    "word": "LADEN",
+    "tries": 4
+  },
+  {
+    "word": "LAGER",
+    "tries": 4
+  },
+  {
+    "word": "LANCE",
+    "tries": 4
+  },
+  {
+    "word": "LAPEL",
+    "tries": 4
+  },
+  {
+    "word": "LARVA",
+    "tries": 4
+  },
+  {
+    "word": "LATER",
+    "tries": 4
+  },
+  {
+    "word": "LAYER",
+    "tries": 4
+  },
+  {
+    "word": "LEACH",
+    "tries": 4
+  },
+  {
+    "word": "LEAPT",
+    "tries": 4
+  },
+  {
+    "word": "LEARN",
+    "tries": 4
+  },
+  {
+    "word": "LEAVE",
+    "tries": 4
+  },
+  {
+    "word": "LEDGE",
+    "tries": 4
+  },
+  {
+    "word": "LEECH",
+    "tries": 4
+  },
+  {
+    "word": "LEFTY",
+    "tries": 4
+  },
+  {
+    "word": "LEGGY",
+    "tries": 4
+  },
+  {
+    "word": "LEMON",
+    "tries": 4
+  },
+  {
+    "word": "LEPER",
+    "tries": 4
+  },
+  {
+    "word": "LEVER",
+    "tries": 4
+  },
+  {
+    "word": "LIBEL",
+    "tries": 4
+  },
+  {
+    "word": "LIGHT",
+    "tries": 4
+  },
+  {
+    "word": "LILAC",
+    "tries": 4
+  },
+  {
+    "word": "LIMBO",
+    "tries": 4
+  },
+  {
+    "word": "LIMIT",
+    "tries": 4
+  },
+  {
+    "word": "LINGO",
+    "tries": 4
+  },
+  {
+    "word": "LLAMA",
+    "tries": 4
+  },
+  {
+    "word": "LODGE",
+    "tries": 4
+  },
+  {
+    "word": "LOGIC",
+    "tries": 4
+  },
+  {
+    "word": "LOOPY",
+    "tries": 4
+  },
+  {
+    "word": "LOOSE",
+    "tries": 4
+  },
+  {
+    "word": "LOUSE",
+    "tries": 4
+  },
+  {
+    "word": "LOVER",
+    "tries": 4
+  },
+  {
+    "word": "LUCKY",
+    "tries": 4
+  },
+  {
+    "word": "LUMEN",
+    "tries": 4
+  },
+  {
+    "word": "LUMPY",
+    "tries": 4
+  },
+  {
+    "word": "LUNGE",
+    "tries": 4
+  },
+  {
+    "word": "LUPUS",
+    "tries": 4
+  },
+  {
+    "word": "LURCH",
+    "tries": 4
+  },
+  {
+    "word": "LURID",
+    "tries": 4
+  },
+  {
+    "word": "LUSTY",
+    "tries": 4
+  },
+  {
+    "word": "LYMPH",
+    "tries": 4
+  },
+  {
+    "word": "LYRIC",
+    "tries": 4
+  },
+  {
+    "word": "MACAW",
+    "tries": 4
+  },
+  {
+    "word": "MACHO",
+    "tries": 4
+  },
+  {
+    "word": "MADLY",
+    "tries": 4
+  },
+  {
+    "word": "MAKER",
+    "tries": 4
+  },
+  {
+    "word": "MANGA",
+    "tries": 4
+  },
+  {
+    "word": "MANGO",
+    "tries": 4
+  },
+  {
+    "word": "MANIC",
+    "tries": 4
+  },
+  {
+    "word": "MARRY",
+    "tries": 4
+  },
+  {
+    "word": "MARSH",
+    "tries": 4
+  },
+  {
+    "word": "MASON",
+    "tries": 4
+  },
+  {
+    "word": "MATCH",
+    "tries": 4
+  },
+  {
+    "word": "MAXIM",
+    "tries": 4
+  },
+  {
+    "word": "MAYOR",
+    "tries": 4
+  },
+  {
+    "word": "MEANT",
+    "tries": 4
+  },
+  {
+    "word": "MEATY",
+    "tries": 4
+  },
+  {
+    "word": "MECCA",
+    "tries": 4
+  },
+  {
+    "word": "MEDAL",
+    "tries": 4
+  },
+  {
+    "word": "MEDIC",
+    "tries": 4
+  },
+  {
+    "word": "MELEE",
+    "tries": 4
+  },
+  {
+    "word": "MELON",
+    "tries": 4
+  },
+  {
+    "word": "METAL",
+    "tries": 4
+  },
+  {
+    "word": "METER",
+    "tries": 4
+  },
+  {
+    "word": "MICRO",
+    "tries": 4
+  },
+  {
+    "word": "MIMIC",
+    "tries": 4
+  },
+  {
+    "word": "MINCE",
+    "tries": 4
+  },
+  {
+    "word": "MINUS",
+    "tries": 4
+  },
+  {
+    "word": "MIRTH",
+    "tries": 4
+  },
+  {
+    "word": "MOCHA",
+    "tries": 4
+  },
+  {
+    "word": "MODAL",
+    "tries": 4
+  },
+  {
+    "word": "MODEM",
+    "tries": 4
+  },
+  {
+    "word": "MOLDY",
+    "tries": 4
+  },
+  {
+    "word": "MORAL",
+    "tries": 4
+  },
+  {
+    "word": "MOSSY",
+    "tries": 4
+  },
+  {
+    "word": "MOTIF",
+    "tries": 4
+  },
+  {
+    "word": "MOTTO",
+    "tries": 4
+  },
+  {
+    "word": "MOULT",
+    "tries": 4
+  },
+  {
+    "word": "MOUSE",
+    "tries": 4
+  },
+  {
+    "word": "MOUTH",
+    "tries": 4
+  },
+  {
+    "word": "MOVIE",
+    "tries": 4
+  },
+  {
+    "word": "MOWER",
+    "tries": 4
+  },
+  {
+    "word": "MUCKY",
+    "tries": 4
+  },
+  {
+    "word": "MUCUS",
+    "tries": 4
+  },
+  {
+    "word": "MUDDY",
+    "tries": 4
+  },
+  {
+    "word": "MUNCH",
+    "tries": 4
+  },
+  {
+    "word": "MUSKY",
+    "tries": 4
+  },
+  {
+    "word": "MYRRH",
+    "tries": 4
+  },
+  {
+    "word": "NADIR",
+    "tries": 4
+  },
+  {
+    "word": "NAIVE",
+    "tries": 4
+  },
+  {
+    "word": "NASTY",
+    "tries": 4
+  },
+  {
+    "word": "NAVAL",
+    "tries": 4
+  },
+  {
+    "word": "NEVER",
+    "tries": 4
+  },
+  {
+    "word": "NEWER",
+    "tries": 4
+  },
+  {
+    "word": "NICER",
+    "tries": 4
+  },
+  {
+    "word": "NIECE",
+    "tries": 4
+  },
+  {
+    "word": "NINJA",
+    "tries": 4
+  },
+  {
+    "word": "NOBLY",
+    "tries": 4
+  },
+  {
+    "word": "NOISE",
+    "tries": 4
+  },
+  {
+    "word": "NOISY",
+    "tries": 4
+  },
+  {
+    "word": "NOMAD",
+    "tries": 4
+  },
+  {
+    "word": "NOOSE",
+    "tries": 4
+  },
+  {
+    "word": "NOSEY",
+    "tries": 4
+  },
+  {
+    "word": "NOTCH",
+    "tries": 4
+  },
+  {
+    "word": "NOVEL",
+    "tries": 4
+  },
+  {
+    "word": "NURSE",
+    "tries": 4
+  },
+  {
+    "word": "NUTTY",
+    "tries": 4
+  },
+  {
+    "word": "OAKEN",
+    "tries": 4
+  },
+  {
+    "word": "ODDER",
+    "tries": 4
+  },
+  {
+    "word": "OLIVE",
+    "tries": 4
+  },
+  {
+    "word": "OMBRE",
+    "tries": 4
+  },
+  {
+    "word": "OMEGA",
+    "tries": 4
+  },
+  {
+    "word": "ONION",
+    "tries": 4
+  },
+  {
+    "word": "OPERA",
+    "tries": 4
+  },
+  {
+    "word": "OUNCE",
+    "tries": 4
+  },
+  {
+    "word": "OUTDO",
+    "tries": 4
+  },
+  {
+    "word": "OVATE",
+    "tries": 4
+  },
+  {
+    "word": "OVERT",
+    "tries": 4
+  },
+  {
+    "word": "OVINE",
+    "tries": 4
+  },
+  {
+    "word": "OXIDE",
+    "tries": 4
+  },
+  {
+    "word": "OZONE",
+    "tries": 4
+  },
+  {
+    "word": "PADDY",
+    "tries": 4
+  },
+  {
+    "word": "PAGAN",
+    "tries": 4
+  },
+  {
+    "word": "PAINT",
+    "tries": 4
+  },
+  {
+    "word": "PALER",
+    "tries": 4
+  },
+  {
+    "word": "PALSY",
+    "tries": 4
+  },
+  {
+    "word": "PANEL",
+    "tries": 4
+  },
+  {
+    "word": "PANIC",
+    "tries": 4
+  },
+  {
+    "word": "PAPAL",
+    "tries": 4
+  },
+  {
+    "word": "PARSE",
+    "tries": 4
+  },
+  {
+    "word": "PASTA",
+    "tries": 4
+  },
+  {
+    "word": "PASTE",
+    "tries": 4
+  },
+  {
+    "word": "PATIO",
+    "tries": 4
+  },
+  {
+    "word": "PATTY",
+    "tries": 4
+  },
+  {
+    "word": "PAUSE",
+    "tries": 4
+  },
+  {
+    "word": "PAYEE",
+    "tries": 4
+  },
+  {
+    "word": "PAYER",
+    "tries": 4
+  },
+  {
+    "word": "PEACE",
+    "tries": 4
+  },
+  {
+    "word": "PEACH",
+    "tries": 4
+  },
+  {
+    "word": "PECAN",
+    "tries": 4
+  },
+  {
+    "word": "PERCH",
+    "tries": 4
+  },
+  {
+    "word": "PESTO",
+    "tries": 4
+  },
+  {
+    "word": "PHASE",
+    "tries": 4
+  },
+  {
+    "word": "PIANO",
+    "tries": 4
+  },
+  {
+    "word": "PIECE",
+    "tries": 4
+  },
+  {
+    "word": "PINTO",
+    "tries": 4
+  },
+  {
+    "word": "PITCH",
+    "tries": 4
+  },
+  {
+    "word": "PIVOT",
+    "tries": 4
+  },
+  {
+    "word": "PIXEL",
+    "tries": 4
+  },
+  {
+    "word": "PIXIE",
+    "tries": 4
+  },
+  {
+    "word": "PIZZA",
+    "tries": 4
+  },
+  {
+    "word": "PLAID",
+    "tries": 4
+  },
+  {
+    "word": "PLAIT",
+    "tries": 4
+  },
+  {
+    "word": "PLANE",
+    "tries": 4
+  },
+  {
+    "word": "PLAZA",
+    "tries": 4
+  },
+  {
+    "word": "PLUCK",
+    "tries": 4
+  },
+  {
+    "word": "PLUME",
+    "tries": 4
+  },
+  {
+    "word": "PLUSH",
+    "tries": 4
+  },
+  {
+    "word": "POESY",
+    "tries": 4
+  },
+  {
+    "word": "POLAR",
+    "tries": 4
+  },
+  {
+    "word": "POPPY",
+    "tries": 4
+  },
+  {
+    "word": "PORCH",
+    "tries": 4
+  },
+  {
+    "word": "POSER",
+    "tries": 4
+  },
+  {
+    "word": "POUTY",
+    "tries": 4
+  },
+  {
+    "word": "PRAWN",
+    "tries": 4
+  },
+  {
+    "word": "PRESS",
+    "tries": 4
+  },
+  {
+    "word": "PRICE",
+    "tries": 4
+  },
+  {
+    "word": "PRICK",
+    "tries": 4
+  },
+  {
+    "word": "PRIDE",
+    "tries": 4
+  },
+  {
+    "word": "PRIME",
+    "tries": 4
+  },
+  {
+    "word": "PRIOR",
+    "tries": 4
+  },
+  {
+    "word": "PRIVY",
+    "tries": 4
+  },
+  {
+    "word": "PROSE",
+    "tries": 4
+  },
+  {
+    "word": "PROXY",
+    "tries": 4
+  },
+  {
+    "word": "PRUDE",
+    "tries": 4
+  },
+  {
+    "word": "PRUNE",
+    "tries": 4
+  },
+  {
+    "word": "PSALM",
+    "tries": 4
+  },
+  {
+    "word": "PUBIC",
+    "tries": 4
+  },
+  {
+    "word": "PUFFY",
+    "tries": 4
+  },
+  {
+    "word": "PULPY",
+    "tries": 4
+  },
+  {
+    "word": "PULSE",
+    "tries": 4
+  },
+  {
+    "word": "PUNCH",
+    "tries": 4
+  },
+  {
+    "word": "PUPAL",
+    "tries": 4
+  },
+  {
+    "word": "PURSE",
+    "tries": 4
+  },
+  {
+    "word": "PUSHY",
+    "tries": 4
+  },
+  {
+    "word": "PUTTY",
+    "tries": 4
+  },
+  {
+    "word": "QUAKE",
+    "tries": 4
+  },
+  {
+    "word": "QUARK",
+    "tries": 4
+  },
+  {
+    "word": "QUEEN",
+    "tries": 4
+  },
+  {
+    "word": "QUELL",
+    "tries": 4
+  },
+  {
+    "word": "QUERY",
+    "tries": 4
+  },
+  {
+    "word": "QUEUE",
+    "tries": 4
+  },
+  {
+    "word": "QUILL",
+    "tries": 4
+  },
+  {
+    "word": "QUITE",
+    "tries": 4
+  },
+  {
+    "word": "RABBI",
+    "tries": 4
+  },
+  {
+    "word": "RABID",
+    "tries": 4
+  },
+  {
+    "word": "RADAR",
+    "tries": 4
+  },
+  {
+    "word": "RADII",
+    "tries": 4
+  },
+  {
+    "word": "RADIO",
+    "tries": 4
+  },
+  {
+    "word": "RAINY",
+    "tries": 4
+  },
+  {
+    "word": "RALLY",
+    "tries": 4
+  },
+  {
+    "word": "RANCH",
+    "tries": 4
+  },
+  {
+    "word": "RANGE",
+    "tries": 4
+  },
+  {
+    "word": "RASPY",
+    "tries": 4
+  },
+  {
+    "word": "RAVEN",
+    "tries": 4
+  },
+  {
+    "word": "RAYON",
+    "tries": 4
+  },
+  {
+    "word": "REACH",
+    "tries": 4
+  },
+  {
+    "word": "REACT",
+    "tries": 4
+  },
+  {
+    "word": "READY",
+    "tries": 4
+  },
+  {
+    "word": "REALM",
+    "tries": 4
+  },
+  {
+    "word": "REARM",
+    "tries": 4
+  },
+  {
+    "word": "RECAP",
+    "tries": 4
+  },
+  {
+    "word": "RECUR",
+    "tries": 4
+  },
+  {
+    "word": "RECUT",
+    "tries": 4
+  },
+  {
+    "word": "REFER",
+    "tries": 4
+  },
+  {
+    "word": "REFIT",
+    "tries": 4
+  },
+  {
+    "word": "REGAL",
+    "tries": 4
+  },
+  {
+    "word": "REHAB",
+    "tries": 4
+  },
+  {
+    "word": "REIGN",
+    "tries": 4
+  },
+  {
+    "word": "REMIT",
+    "tries": 4
+  },
+  {
+    "word": "RENAL",
+    "tries": 4
+  },
+  {
+    "word": "RENEW",
+    "tries": 4
+  },
+  {
+    "word": "REPAY",
+    "tries": 4
+  },
+  {
+    "word": "REPEL",
+    "tries": 4
+  },
+  {
+    "word": "REPLY",
+    "tries": 4
+  },
+  {
+    "word": "RESIN",
+    "tries": 4
+  },
+  {
+    "word": "RETRO",
+    "tries": 4
+  },
+  {
+    "word": "RETRY",
+    "tries": 4
+  },
+  {
+    "word": "REUSE",
+    "tries": 4
+  },
+  {
+    "word": "REVEL",
+    "tries": 4
+  },
+  {
+    "word": "REVUE",
+    "tries": 4
+  },
+  {
+    "word": "RHYME",
+    "tries": 4
+  },
+  {
+    "word": "RIDER",
+    "tries": 4
+  },
+  {
+    "word": "RIDGE",
+    "tries": 4
+  },
+  {
+    "word": "RIFLE",
+    "tries": 4
+  },
+  {
+    "word": "RIVER",
+    "tries": 4
+  },
+  {
+    "word": "RIVET",
+    "tries": 4
+  },
+  {
+    "word": "ROACH",
+    "tries": 4
+  },
+  {
+    "word": "ROAST",
+    "tries": 4
+  },
+  {
+    "word": "ROCKY",
+    "tries": 4
+  },
+  {
+    "word": "RODEO",
+    "tries": 4
+  },
+  {
+    "word": "ROOST",
+    "tries": 4
+  },
+  {
+    "word": "ROTOR",
+    "tries": 4
+  },
+  {
+    "word": "ROUGE",
+    "tries": 4
+  },
+  {
+    "word": "ROUGH",
+    "tries": 4
+  },
+  {
+    "word": "RULER",
+    "tries": 4
+  },
+  {
+    "word": "SADLY",
+    "tries": 4
+  },
+  {
+    "word": "SAFER",
+    "tries": 4
+  },
+  {
+    "word": "SAINT",
+    "tries": 4
+  },
+  {
+    "word": "SALAD",
+    "tries": 4
+  },
+  {
+    "word": "SALVO",
+    "tries": 4
+  },
+  {
+    "word": "SAPPY",
+    "tries": 4
+  },
+  {
+    "word": "SATYR",
+    "tries": 4
+  },
+  {
+    "word": "SAUCE",
+    "tries": 4
+  },
+  {
+    "word": "SAUCY",
+    "tries": 4
+  },
+  {
+    "word": "SAUTE",
+    "tries": 4
+  },
+  {
+    "word": "SCALE",
+    "tries": 4
+  },
+  {
+    "word": "SCALP",
+    "tries": 4
+  },
+  {
+    "word": "SCARE",
+    "tries": 4
+  },
+  {
+    "word": "SCENE",
+    "tries": 4
+  },
+  {
+    "word": "SCION",
+    "tries": 4
+  },
+  {
+    "word": "SCONE",
+    "tries": 4
+  },
+  {
+    "word": "SCORE",
+    "tries": 4
+  },
+  {
+    "word": "SCOUR",
+    "tries": 4
+  },
+  {
+    "word": "SCRAM",
+    "tries": 4
+  },
+  {
+    "word": "SCRAP",
+    "tries": 4
+  },
+  {
+    "word": "SCREE",
+    "tries": 4
+  },
+  {
+    "word": "SENSE",
+    "tries": 4
+  },
+  {
+    "word": "SERVE",
+    "tries": 4
+  },
+  {
+    "word": "SHACK",
+    "tries": 4
+  },
+  {
+    "word": "SHADY",
+    "tries": 4
+  },
+  {
+    "word": "SHAFT",
+    "tries": 4
+  },
+  {
+    "word": "SHALT",
+    "tries": 4
+  },
+  {
+    "word": "SHAME",
+    "tries": 4
+  },
+  {
+    "word": "SHAPE",
+    "tries": 4
+  },
+  {
+    "word": "SHARE",
+    "tries": 4
+  },
+  {
+    "word": "SHARP",
+    "tries": 4
+  },
+  {
+    "word": "SHAWL",
+    "tries": 4
+  },
+  {
+    "word": "SHEEP",
+    "tries": 4
+  },
+  {
+    "word": "SHELF",
+    "tries": 4
+  },
+  {
+    "word": "SHIED",
+    "tries": 4
+  },
+  {
+    "word": "SHINY",
+    "tries": 4
+  },
+  {
+    "word": "SHIRE",
+    "tries": 4
+  },
+  {
+    "word": "SHIRK",
+    "tries": 4
+  },
+  {
+    "word": "SHOOK",
+    "tries": 4
+  },
+  {
+    "word": "SHORE",
+    "tries": 4
+  },
+  {
+    "word": "SHORN",
+    "tries": 4
+  },
+  {
+    "word": "SHOWY",
+    "tries": 4
+  },
+  {
+    "word": "SHRUB",
+    "tries": 4
+  },
+  {
+    "word": "SHRUG",
+    "tries": 4
+  },
+  {
+    "word": "SHUCK",
+    "tries": 4
+  },
+  {
+    "word": "SHUNT",
+    "tries": 4
+  },
+  {
+    "word": "SHUSH",
+    "tries": 4
+  },
+  {
+    "word": "SHYLY",
+    "tries": 4
+  },
+  {
+    "word": "SIGHT",
+    "tries": 4
+  },
+  {
+    "word": "SILLY",
+    "tries": 4
+  },
+  {
+    "word": "SIXTH",
+    "tries": 4
+  },
+  {
+    "word": "SIXTY",
+    "tries": 4
+  },
+  {
+    "word": "SKILL",
+    "tries": 4
+  },
+  {
+    "word": "SKIRT",
+    "tries": 4
+  },
+  {
+    "word": "SKULL",
+    "tries": 4
+  },
+  {
+    "word": "SKUNK",
+    "tries": 4
+  },
+  {
+    "word": "SLACK",
+    "tries": 4
+  },
+  {
+    "word": "SLAIN",
+    "tries": 4
+  },
+  {
+    "word": "SLANG",
+    "tries": 4
+  },
+  {
+    "word": "SLANT",
+    "tries": 4
+  },
+  {
+    "word": "SLASH",
+    "tries": 4
+  },
+  {
+    "word": "SLATE",
+    "tries": 4
+  },
+  {
+    "word": "SLAVE",
+    "tries": 4
+  },
+  {
+    "word": "SLEEP",
+    "tries": 4
+  },
+  {
+    "word": "SLICE",
+    "tries": 4
+  },
+  {
+    "word": "SLICK",
+    "tries": 4
+  },
+  {
+    "word": "SLIDE",
+    "tries": 4
+  },
+  {
+    "word": "SLOPE",
+    "tries": 4
+  },
+  {
+    "word": "SLURP",
+    "tries": 4
+  },
+  {
+    "word": "SLYLY",
+    "tries": 4
+  },
+  {
+    "word": "SMACK",
+    "tries": 4
+  },
+  {
+    "word": "SMART",
+    "tries": 4
+  },
+  {
+    "word": "SMILE",
+    "tries": 4
+  },
+  {
+    "word": "SMIRK",
+    "tries": 4
+  },
+  {
+    "word": "SMOCK",
+    "tries": 4
+  },
+  {
+    "word": "SMOKE",
+    "tries": 4
+  },
+  {
+    "word": "SMOKY",
+    "tries": 4
+  },
+  {
+    "word": "SNACK",
+    "tries": 4
+  },
+  {
+    "word": "SNARL",
+    "tries": 4
+  },
+  {
+    "word": "SNOOP",
+    "tries": 4
+  },
+  {
+    "word": "SNORE",
+    "tries": 4
+  },
+  {
+    "word": "SNORT",
+    "tries": 4
+  },
+  {
+    "word": "SNOWY",
+    "tries": 4
+  },
+  {
+    "word": "SNUCK",
+    "tries": 4
+  },
+  {
+    "word": "SNUFF",
+    "tries": 4
+  },
+  {
+    "word": "SOAPY",
+    "tries": 4
+  },
+  {
+    "word": "SOLVE",
+    "tries": 4
+  },
+  {
+    "word": "SONAR",
+    "tries": 4
+  },
+  {
+    "word": "SONIC",
+    "tries": 4
+  },
+  {
+    "word": "SOOTH",
+    "tries": 4
+  },
+  {
+    "word": "SOOTY",
+    "tries": 4
+  },
+  {
+    "word": "SORRY",
+    "tries": 4
+  },
+  {
+    "word": "SOUND",
+    "tries": 4
+  },
+  {
+    "word": "SPANK",
+    "tries": 4
+  },
+  {
+    "word": "SPARE",
+    "tries": 4
+  },
+  {
+    "word": "SPEAR",
+    "tries": 4
+  },
+  {
+    "word": "SPECK",
+    "tries": 4
+  },
+  {
+    "word": "SPELL",
+    "tries": 4
+  },
+  {
+    "word": "SPENT",
+    "tries": 4
+  },
+  {
+    "word": "SPIED",
+    "tries": 4
+  },
+  {
+    "word": "SPIEL",
+    "tries": 4
+  },
+  {
+    "word": "SPILT",
+    "tries": 4
+  },
+  {
+    "word": "SPIRE",
+    "tries": 4
+  },
+  {
+    "word": "SPITE",
+    "tries": 4
+  },
+  {
+    "word": "SPOIL",
+    "tries": 4
+  },
+  {
+    "word": "SPOKE",
+    "tries": 4
+  },
+  {
+    "word": "SPOOL",
+    "tries": 4
+  },
+  {
+    "word": "SPRAY",
+    "tries": 4
+  },
+  {
+    "word": "SPURT",
+    "tries": 4
+  },
+  {
+    "word": "SQUAD",
+    "tries": 4
+  },
+  {
+    "word": "STAKE",
+    "tries": 4
+  },
+  {
+    "word": "STAND",
+    "tries": 4
+  },
+  {
+    "word": "STEAL",
+    "tries": 4
+  },
+  {
+    "word": "STEEP",
+    "tries": 4
+  },
+  {
+    "word": "STICK",
+    "tries": 4
+  },
+  {
+    "word": "STILT",
+    "tries": 4
+  },
+  {
+    "word": "STINT",
+    "tries": 4
+  },
+  {
+    "word": "STOIC",
+    "tries": 4
+  },
+  {
+    "word": "STOOD",
+    "tries": 4
+  },
+  {
+    "word": "STORM",
+    "tries": 4
+  },
+  {
+    "word": "STOUT",
+    "tries": 4
+  },
+  {
+    "word": "STOVE",
+    "tries": 4
+  },
+  {
+    "word": "STRAW",
+    "tries": 4
+  },
+  {
+    "word": "STUCK",
+    "tries": 4
+  },
+  {
+    "word": "SUGAR",
+    "tries": 4
+  },
+  {
+    "word": "SUNNY",
+    "tries": 4
+  },
+  {
+    "word": "SURER",
+    "tries": 4
+  },
+  {
+    "word": "SURGE",
+    "tries": 4
+  },
+  {
+    "word": "SURLY",
+    "tries": 4
+  },
+  {
+    "word": "SWEAT",
+    "tries": 4
+  },
+  {
+    "word": "SWEEP",
+    "tries": 4
+  },
+  {
+    "word": "SWEET",
+    "tries": 4
+  },
+  {
+    "word": "SWELL",
+    "tries": 4
+  },
+  {
+    "word": "SWIFT",
+    "tries": 4
+  },
+  {
+    "word": "SWINE",
+    "tries": 4
+  },
+  {
+    "word": "SWIRL",
+    "tries": 4
+  },
+  {
+    "word": "SWOOP",
+    "tries": 4
+  },
+  {
+    "word": "SWORD",
+    "tries": 4
+  },
+  {
+    "word": "SWORN",
+    "tries": 4
+  },
+  {
+    "word": "TACKY",
+    "tries": 4
+  },
+  {
+    "word": "TAKEN",
+    "tries": 4
+  },
+  {
+    "word": "TALLY",
+    "tries": 4
+  },
+  {
+    "word": "TALON",
+    "tries": 4
+  },
+  {
+    "word": "TAPER",
+    "tries": 4
+  },
+  {
+    "word": "TAWNY",
+    "tries": 4
+  },
+  {
+    "word": "TEARY",
+    "tries": 4
+  },
+  {
+    "word": "TENET",
+    "tries": 4
+  },
+  {
+    "word": "TENSE",
+    "tries": 4
+  },
+  {
+    "word": "TERRA",
+    "tries": 4
+  },
+  {
+    "word": "TESTY",
+    "tries": 4
+  },
+  {
+    "word": "THANK",
+    "tries": 4
+  },
+  {
+    "word": "THEME",
+    "tries": 4
+  },
+  {
+    "word": "THICK",
+    "tries": 4
+  },
+  {
+    "word": "THIGH",
+    "tries": 4
+  },
+  {
+    "word": "THING",
+    "tries": 4
+  },
+  {
+    "word": "THONG",
+    "tries": 4
+  },
+  {
+    "word": "THREW",
+    "tries": 4
+  },
+  {
+    "word": "THROW",
+    "tries": 4
+  },
+  {
+    "word": "THUMP",
+    "tries": 4
+  },
+  {
+    "word": "TIARA",
+    "tries": 4
+  },
+  {
+    "word": "TILDE",
+    "tries": 4
+  },
+  {
+    "word": "TIMER",
+    "tries": 4
+  },
+  {
+    "word": "TIPSY",
+    "tries": 4
+  },
+  {
+    "word": "TODDY",
+    "tries": 4
+  },
+  {
+    "word": "TOKEN",
+    "tries": 4
+  },
+  {
+    "word": "TONAL",
+    "tries": 4
+  },
+  {
+    "word": "TOOTH",
+    "tries": 4
+  },
+  {
+    "word": "TOPAZ",
+    "tries": 4
+  },
+  {
+    "word": "TORCH",
+    "tries": 4
+  },
+  {
+    "word": "TORSO",
+    "tries": 4
+  },
+  {
+    "word": "TOTEM",
+    "tries": 4
+  },
+  {
+    "word": "TOUGH",
+    "tries": 4
+  },
+  {
+    "word": "TOWEL",
+    "tries": 4
+  },
+  {
+    "word": "TOXIC",
+    "tries": 4
+  },
+  {
+    "word": "TOXIN",
+    "tries": 4
+  },
+  {
+    "word": "TRACE",
+    "tries": 4
+  },
+  {
+    "word": "TRACT",
+    "tries": 4
+  },
+  {
+    "word": "TRAIN",
+    "tries": 4
+  },
+  {
+    "word": "TRIAL",
+    "tries": 4
+  },
+  {
+    "word": "TRICE",
+    "tries": 4
+  },
+  {
+    "word": "TROLL",
+    "tries": 4
+  },
+  {
+    "word": "TROVE",
+    "tries": 4
+  },
+  {
+    "word": "TRUCK",
+    "tries": 4
+  },
+  {
+    "word": "TRYST",
+    "tries": 4
+  },
+  {
+    "word": "TULIP",
+    "tries": 4
+  },
+  {
+    "word": "TULLE",
+    "tries": 4
+  },
+  {
+    "word": "TUMOR",
+    "tries": 4
+  },
+  {
+    "word": "TUNIC",
+    "tries": 4
+  },
+  {
+    "word": "TUTOR",
+    "tries": 4
+  },
+  {
+    "word": "TWANG",
+    "tries": 4
+  },
+  {
+    "word": "TWEAK",
+    "tries": 4
+  },
+  {
+    "word": "TWEET",
+    "tries": 4
+  },
+  {
+    "word": "TWICE",
+    "tries": 4
+  },
+  {
+    "word": "TWIRL",
+    "tries": 4
+  },
+  {
+    "word": "TWIST",
+    "tries": 4
+  },
+  {
+    "word": "TWIXT",
+    "tries": 4
+  },
+  {
+    "word": "UDDER",
+    "tries": 4
+  },
+  {
+    "word": "UNCLE",
+    "tries": 4
+  },
+  {
+    "word": "UNDID",
+    "tries": 4
+  },
+  {
+    "word": "UNDUE",
+    "tries": 4
+  },
+  {
+    "word": "UNFIT",
+    "tries": 4
+  },
+  {
+    "word": "UNIFY",
+    "tries": 4
+  },
+  {
+    "word": "UNITE",
+    "tries": 4
+  },
+  {
+    "word": "UNLIT",
+    "tries": 4
+  },
+  {
+    "word": "UNSET",
+    "tries": 4
+  },
+  {
+    "word": "UNTIE",
+    "tries": 4
+  },
+  {
+    "word": "UNWED",
+    "tries": 4
+  },
+  {
+    "word": "UNZIP",
+    "tries": 4
+  },
+  {
+    "word": "UPPER",
+    "tries": 4
+  },
+  {
+    "word": "USAGE",
+    "tries": 4
+  },
+  {
+    "word": "USHER",
+    "tries": 4
+  },
+  {
+    "word": "USUAL",
+    "tries": 4
+  },
+  {
+    "word": "UTILE",
+    "tries": 4
+  },
+  {
+    "word": "VALET",
+    "tries": 4
+  },
+  {
+    "word": "VALOR",
+    "tries": 4
+  },
+  {
+    "word": "VAPID",
+    "tries": 4
+  },
+  {
+    "word": "VENOM",
+    "tries": 4
+  },
+  {
+    "word": "VERSO",
+    "tries": 4
+  },
+  {
+    "word": "VICAR",
+    "tries": 4
+  },
+  {
+    "word": "VILLA",
+    "tries": 4
+  },
+  {
+    "word": "VINYL",
+    "tries": 4
+  },
+  {
+    "word": "VIRAL",
+    "tries": 4
+  },
+  {
+    "word": "VITAL",
+    "tries": 4
+  },
+  {
+    "word": "VIVID",
+    "tries": 4
+  },
+  {
+    "word": "VIXEN",
+    "tries": 4
+  },
+  {
+    "word": "VOGUE",
+    "tries": 4
+  },
+  {
+    "word": "VOICE",
+    "tries": 4
+  },
+  {
+    "word": "VOILA",
+    "tries": 4
+  },
+  {
+    "word": "VOTER",
+    "tries": 4
+  },
+  {
+    "word": "VYING",
+    "tries": 4
+  },
+  {
+    "word": "WAGON",
+    "tries": 4
+  },
+  {
+    "word": "WARTY",
+    "tries": 4
+  },
+  {
+    "word": "WEEDY",
+    "tries": 4
+  },
+  {
+    "word": "WENCH",
+    "tries": 4
+  },
+  {
+    "word": "WHEAT",
+    "tries": 4
+  },
+  {
+    "word": "WHEEL",
+    "tries": 4
+  },
+  {
+    "word": "WHELP",
+    "tries": 4
+  },
+  {
+    "word": "WHINE",
+    "tries": 4
+  },
+  {
+    "word": "WHIRL",
+    "tries": 4
+  },
+  {
+    "word": "WHISK",
+    "tries": 4
+  },
+  {
+    "word": "WHOSE",
+    "tries": 4
+  },
+  {
+    "word": "WIDEN",
+    "tries": 4
+  },
+  {
+    "word": "WIDTH",
+    "tries": 4
+  },
+  {
+    "word": "WIELD",
+    "tries": 4
+  },
+  {
+    "word": "WILLY",
+    "tries": 4
+  },
+  {
+    "word": "WINDY",
+    "tries": 4
+  },
+  {
+    "word": "WISER",
+    "tries": 4
+  },
+  {
+    "word": "WOOER",
+    "tries": 4
+  },
+  {
+    "word": "WORRY",
+    "tries": 4
+  },
+  {
+    "word": "WORTH",
+    "tries": 4
+  },
+  {
+    "word": "WOVEN",
+    "tries": 4
+  },
+  {
+    "word": "WREST",
+    "tries": 4
+  },
+  {
+    "word": "WRING",
+    "tries": 4
+  },
+  {
+    "word": "WRUNG",
+    "tries": 4
+  },
+  {
+    "word": "WRYLY",
+    "tries": 4
+  },
+  {
+    "word": "YACHT",
+    "tries": 4
+  },
+  {
+    "word": "YEAST",
+    "tries": 4
+  },
+  {
+    "word": "YOUNG",
+    "tries": 4
+  },
+  {
+    "word": "ZESTY",
+    "tries": 4
+  },
+  {
+    "word": "ACRID",
+    "tries": 5
+  },
+  {
+    "word": "AFIRE",
+    "tries": 5
+  },
+  {
+    "word": "AMASS",
+    "tries": 5
+  },
+  {
+    "word": "ARISE",
+    "tries": 5
+  },
+  {
+    "word": "AROMA",
+    "tries": 5
+  },
+  {
+    "word": "ASSAY",
+    "tries": 5
+  },
+  {
+    "word": "AWASH",
+    "tries": 5
+  },
+  {
+    "word": "AWOKE",
+    "tries": 5
+  },
+  {
+    "word": "AXION",
+    "tries": 5
+  },
+  {
+    "word": "BAGEL",
+    "tries": 5
+  },
+  {
+    "word": "BAGGY",
+    "tries": 5
+  },
+  {
+    "word": "BALER",
+    "tries": 5
+  },
+  {
+    "word": "BARGE",
+    "tries": 5
+  },
+  {
+    "word": "BASAL",
+    "tries": 5
+  },
+  {
+    "word": "BAWDY",
+    "tries": 5
+  },
+  {
+    "word": "BEECH",
+    "tries": 5
+  },
+  {
+    "word": "BEEFY",
+    "tries": 5
+  },
+  {
+    "word": "BEGET",
+    "tries": 5
+  },
+  {
+    "word": "BELCH",
+    "tries": 5
+  },
+  {
+    "word": "BEZEL",
+    "tries": 5
+  },
+  {
+    "word": "BLAZE",
+    "tries": 5
+  },
+  {
+    "word": "BLIMP",
+    "tries": 5
+  },
+  {
+    "word": "BLOKE",
+    "tries": 5
+  },
+  {
+    "word": "BLURB",
+    "tries": 5
+  },
+  {
+    "word": "BOOBY",
+    "tries": 5
+  },
+  {
+    "word": "BOOZY",
+    "tries": 5
+  },
+  {
+    "word": "BOSSY",
+    "tries": 5
+  },
+  {
+    "word": "BRASH",
+    "tries": 5
+  },
+  {
+    "word": "BRAVE",
+    "tries": 5
+  },
+  {
+    "word": "BRAWN",
+    "tries": 5
+  },
+  {
+    "word": "BREAD",
+    "tries": 5
+  },
+  {
+    "word": "BRIBE",
+    "tries": 5
+  },
+  {
+    "word": "BRINY",
+    "tries": 5
+  },
+  {
+    "word": "BROIL",
+    "tries": 5
+  },
+  {
+    "word": "BROOD",
+    "tries": 5
+  },
+  {
+    "word": "BUGGY",
+    "tries": 5
+  },
+  {
+    "word": "CACHE",
+    "tries": 5
+  },
+  {
+    "word": "CACTI",
+    "tries": 5
+  },
+  {
+    "word": "CAGEY",
+    "tries": 5
+  },
+  {
+    "word": "CAMEO",
+    "tries": 5
+  },
+  {
+    "word": "CANDY",
+    "tries": 5
+  },
+  {
+    "word": "CARVE",
+    "tries": 5
+  },
+  {
+    "word": "CASTE",
+    "tries": 5
+  },
+  {
+    "word": "CATER",
+    "tries": 5
+  },
+  {
+    "word": "CEASE",
+    "tries": 5
+  },
+  {
+    "word": "CHAFE",
+    "tries": 5
+  },
+  {
+    "word": "CHAFF",
+    "tries": 5
+  },
+  {
+    "word": "CHEEK",
+    "tries": 5
+  },
+  {
+    "word": "CHILL",
+    "tries": 5
+  },
+  {
+    "word": "CHIME",
+    "tries": 5
+  },
+  {
+    "word": "CHIRP",
+    "tries": 5
+  },
+  {
+    "word": "CHOKE",
+    "tries": 5
+  },
+  {
+    "word": "CHORD",
+    "tries": 5
+  },
+  {
+    "word": "CHORE",
+    "tries": 5
+  },
+  {
+    "word": "CHOSE",
+    "tries": 5
+  },
+  {
+    "word": "CHUMP",
+    "tries": 5
+  },
+  {
+    "word": "CINCH",
+    "tries": 5
+  },
+  {
+    "word": "CLACK",
+    "tries": 5
+  },
+  {
+    "word": "CLANG",
+    "tries": 5
+  },
+  {
+    "word": "CLASP",
+    "tries": 5
+  },
+  {
+    "word": "CLING",
+    "tries": 5
+  },
+  {
+    "word": "CLOWN",
+    "tries": 5
+  },
+  {
+    "word": "CLUED",
+    "tries": 5
+  },
+  {
+    "word": "CLUNG",
+    "tries": 5
+  },
+  {
+    "word": "CONCH",
+    "tries": 5
+  },
+  {
+    "word": "COPSE",
+    "tries": 5
+  },
+  {
+    "word": "COUCH",
+    "tries": 5
+  },
+  {
+    "word": "COUGH",
+    "tries": 5
+  },
+  {
+    "word": "COUPE",
+    "tries": 5
+  },
+  {
+    "word": "COVET",
+    "tries": 5
+  },
+  {
+    "word": "CRACK",
+    "tries": 5
+  },
+  {
+    "word": "CRANK",
+    "tries": 5
+  },
+  {
+    "word": "CRAVE",
+    "tries": 5
+  },
+  {
+    "word": "CREEP",
+    "tries": 5
+  },
+  {
+    "word": "CREPE",
+    "tries": 5
+  },
+  {
+    "word": "CRIER",
+    "tries": 5
+  },
+  {
+    "word": "CRONY",
+    "tries": 5
+  },
+  {
+    "word": "CROOK",
+    "tries": 5
+  },
+  {
+    "word": "CRUEL",
+    "tries": 5
+  },
+  {
+    "word": "CURRY",
+    "tries": 5
+  },
+  {
+    "word": "CURVY",
+    "tries": 5
+  },
+  {
+    "word": "DAISY",
+    "tries": 5
+  },
+  {
+    "word": "DALLY",
+    "tries": 5
+  },
+  {
+    "word": "DEBAR",
+    "tries": 5
+  },
+  {
+    "word": "DECOY",
+    "tries": 5
+  },
+  {
+    "word": "DEFER",
+    "tries": 5
+  },
+  {
+    "word": "DELAY",
+    "tries": 5
+  },
+  {
+    "word": "DENSE",
+    "tries": 5
+  },
+  {
+    "word": "DETER",
+    "tries": 5
+  },
+  {
+    "word": "DEVIL",
+    "tries": 5
+  },
+  {
+    "word": "DICEY",
+    "tries": 5
+  },
+  {
+    "word": "DINGO",
+    "tries": 5
+  },
+  {
+    "word": "DIODE",
+    "tries": 5
+  },
+  {
+    "word": "DIRGE",
+    "tries": 5
+  },
+  {
+    "word": "DIZZY",
+    "tries": 5
+  },
+  {
+    "word": "DODGY",
+    "tries": 5
+  },
+  {
+    "word": "DRAIN",
+    "tries": 5
+  },
+  {
+    "word": "DRAKE",
+    "tries": 5
+  },
+  {
+    "word": "DRAPE",
+    "tries": 5
+  },
+  {
+    "word": "DRAWL",
+    "tries": 5
+  },
+  {
+    "word": "DREAD",
+    "tries": 5
+  },
+  {
+    "word": "DRESS",
+    "tries": 5
+  },
+  {
+    "word": "DRIER",
+    "tries": 5
+  },
+  {
+    "word": "DRILL",
+    "tries": 5
+  },
+  {
+    "word": "DROLL",
+    "tries": 5
+  },
+  {
+    "word": "DRONE",
+    "tries": 5
+  },
+  {
+    "word": "DROOL",
+    "tries": 5
+  },
+  {
+    "word": "DROSS",
+    "tries": 5
+  },
+  {
+    "word": "DROVE",
+    "tries": 5
+  },
+  {
+    "word": "DRYLY",
+    "tries": 5
+  },
+  {
+    "word": "DULLY",
+    "tries": 5
+  },
+  {
+    "word": "DWELL",
+    "tries": 5
+  },
+  {
+    "word": "EDIFY",
+    "tries": 5
+  },
+  {
+    "word": "EERIE",
+    "tries": 5
+  },
+  {
+    "word": "EJECT",
+    "tries": 5
+  },
+  {
+    "word": "ELDER",
+    "tries": 5
+  },
+  {
+    "word": "ELFIN",
+    "tries": 5
+  },
+  {
+    "word": "ELOPE",
+    "tries": 5
+  },
+  {
+    "word": "EMCEE",
+    "tries": 5
+  },
+  {
+    "word": "ENACT",
+    "tries": 5
+  },
+  {
+    "word": "ENEMY",
+    "tries": 5
+  },
+  {
+    "word": "ERODE",
+    "tries": 5
+  },
+  {
+    "word": "EVICT",
+    "tries": 5
+  },
+  {
+    "word": "EVOKE",
+    "tries": 5
+  },
+  {
+    "word": "EXILE",
+    "tries": 5
+  },
+  {
+    "word": "EXULT",
+    "tries": 5
+  },
+  {
+    "word": "FACET",
+    "tries": 5
+  },
+  {
+    "word": "FAINT",
+    "tries": 5
+  },
+  {
+    "word": "FAIRY",
+    "tries": 5
+  },
+  {
+    "word": "FANCY",
+    "tries": 5
+  },
+  {
+    "word": "FEAST",
+    "tries": 5
+  },
+  {
+    "word": "FEIGN",
+    "tries": 5
+  },
+  {
+    "word": "FELLA",
+    "tries": 5
+  },
+  {
+    "word": "FELON",
+    "tries": 5
+  },
+  {
+    "word": "FERAL",
+    "tries": 5
+  },
+  {
+    "word": "FETAL",
+    "tries": 5
+  },
+  {
+    "word": "FEVER",
+    "tries": 5
+  },
+  {
+    "word": "FICUS",
+    "tries": 5
+  },
+  {
+    "word": "FIEND",
+    "tries": 5
+  },
+  {
+    "word": "FIERY",
+    "tries": 5
+  },
+  {
+    "word": "FIFTH",
+    "tries": 5
+  },
+  {
+    "word": "FILLY",
+    "tries": 5
+  },
+  {
+    "word": "FIXER",
+    "tries": 5
+  },
+  {
+    "word": "FJORD",
+    "tries": 5
+  },
+  {
+    "word": "FLAIL",
+    "tries": 5
+  },
+  {
+    "word": "FLARE",
+    "tries": 5
+  },
+  {
+    "word": "FLASK",
+    "tries": 5
+  },
+  {
+    "word": "FLECK",
+    "tries": 5
+  },
+  {
+    "word": "FLICK",
+    "tries": 5
+  },
+  {
+    "word": "FLOSS",
+    "tries": 5
+  },
+  {
+    "word": "FLOWN",
+    "tries": 5
+  },
+  {
+    "word": "FLUNK",
+    "tries": 5
+  },
+  {
+    "word": "FOAMY",
+    "tries": 5
+  },
+  {
+    "word": "FOGGY",
+    "tries": 5
+  },
+  {
+    "word": "FOLLY",
+    "tries": 5
+  },
+  {
+    "word": "FORTH",
+    "tries": 5
+  },
+  {
+    "word": "FRAIL",
+    "tries": 5
+  },
+  {
+    "word": "FREED",
+    "tries": 5
+  },
+  {
+    "word": "FRIAR",
+    "tries": 5
+  },
+  {
+    "word": "FROND",
+    "tries": 5
+  },
+  {
+    "word": "FUNKY",
+    "tries": 5
+  },
+  {
+    "word": "FUZZY",
+    "tries": 5
+  },
+  {
+    "word": "GAFFE",
+    "tries": 5
+  },
+  {
+    "word": "GAMER",
+    "tries": 5
+  },
+  {
+    "word": "GAUZE",
+    "tries": 5
+  },
+  {
+    "word": "GAYLY",
+    "tries": 5
+  },
+  {
+    "word": "GEEKY",
+    "tries": 5
+  },
+  {
+    "word": "GEESE",
+    "tries": 5
+  },
+  {
+    "word": "GENIE",
+    "tries": 5
+  },
+  {
+    "word": "GENRE",
+    "tries": 5
+  },
+  {
+    "word": "GIRLY",
+    "tries": 5
+  },
+  {
+    "word": "GLAND",
+    "tries": 5
+  },
+  {
+    "word": "GLIDE",
+    "tries": 5
+  },
+  {
+    "word": "GLOOM",
+    "tries": 5
+  },
+  {
+    "word": "GLORY",
+    "tries": 5
+  },
+  {
+    "word": "GLYPH",
+    "tries": 5
+  },
+  {
+    "word": "GONAD",
+    "tries": 5
+  },
+  {
+    "word": "GOOFY",
+    "tries": 5
+  },
+  {
+    "word": "GORGE",
+    "tries": 5
+  },
+  {
+    "word": "GOUGE",
+    "tries": 5
+  },
+  {
+    "word": "GRASP",
+    "tries": 5
+  },
+  {
+    "word": "GRASS",
+    "tries": 5
+  },
+  {
+    "word": "GRATE",
+    "tries": 5
+  },
+  {
+    "word": "GRAVE",
+    "tries": 5
+  },
+  {
+    "word": "GREED",
+    "tries": 5
+  },
+  {
+    "word": "GRIME",
+    "tries": 5
+  },
+  {
+    "word": "GRIMY",
+    "tries": 5
+  },
+  {
+    "word": "GRIPE",
+    "tries": 5
+  },
+  {
+    "word": "GROWL",
+    "tries": 5
+  },
+  {
+    "word": "GROWN",
+    "tries": 5
+  },
+  {
+    "word": "HANDY",
+    "tries": 5
+  },
+  {
+    "word": "HARDY",
+    "tries": 5
+  },
+  {
+    "word": "HASTY",
+    "tries": 5
+  },
+  {
+    "word": "HAZEL",
+    "tries": 5
+  },
+  {
+    "word": "HEADY",
+    "tries": 5
+  },
+  {
+    "word": "HEARD",
+    "tries": 5
+  },
+  {
+    "word": "HEAVY",
+    "tries": 5
+  },
+  {
+    "word": "HORNY",
+    "tries": 5
+  },
+  {
+    "word": "HOVEL",
+    "tries": 5
+  },
+  {
+    "word": "HUMPH",
+    "tries": 5
+  },
+  {
+    "word": "HUMUS",
+    "tries": 5
+  },
+  {
+    "word": "HUNCH",
+    "tries": 5
+  },
+  {
+    "word": "HURRY",
+    "tries": 5
+  },
+  {
+    "word": "HYENA",
+    "tries": 5
+  },
+  {
+    "word": "HYMEN",
+    "tries": 5
+  },
+  {
+    "word": "ICILY",
+    "tries": 5
+  },
+  {
+    "word": "INFER",
+    "tries": 5
+  },
+  {
+    "word": "IONIC",
+    "tries": 5
+  },
+  {
+    "word": "IVORY",
+    "tries": 5
+  },
+  {
+    "word": "JELLY",
+    "tries": 5
+  },
+  {
+    "word": "JETTY",
+    "tries": 5
+  },
+  {
+    "word": "JOIST",
+    "tries": 5
+  },
+  {
+    "word": "JUDGE",
+    "tries": 5
+  },
+  {
+    "word": "JUICY",
+    "tries": 5
+  },
+  {
+    "word": "JUMPY",
+    "tries": 5
+  },
+  {
+    "word": "JUROR",
+    "tries": 5
+  },
+  {
+    "word": "KINKY",
+    "tries": 5
+  },
+  {
+    "word": "KITTY",
+    "tries": 5
+  },
+  {
+    "word": "KNACK",
+    "tries": 5
+  },
+  {
+    "word": "KNEAD",
+    "tries": 5
+  },
+  {
+    "word": "KNEED",
+    "tries": 5
+  },
+  {
+    "word": "KNEEL",
+    "tries": 5
+  },
+  {
+    "word": "KNIFE",
+    "tries": 5
+  },
+  {
+    "word": "KNOLL",
+    "tries": 5
+  },
+  {
+    "word": "KRILL",
+    "tries": 5
+  },
+  {
+    "word": "LANKY",
+    "tries": 5
+  },
+  {
+    "word": "LAPSE",
+    "tries": 5
+  },
+  {
+    "word": "LEANT",
+    "tries": 5
+  },
+  {
+    "word": "LEASE",
+    "tries": 5
+  },
+  {
+    "word": "LEASH",
+    "tries": 5
+  },
+  {
+    "word": "LEERY",
+    "tries": 5
+  },
+  {
+    "word": "LEMUR",
+    "tries": 5
+  },
+  {
+    "word": "LIEGE",
+    "tries": 5
+  },
+  {
+    "word": "LINEN",
+    "tries": 5
+  },
+  {
+    "word": "LINER",
+    "tries": 5
+  },
+  {
+    "word": "LIVER",
+    "tries": 5
+  },
+  {
+    "word": "LIVID",
+    "tries": 5
+  },
+  {
+    "word": "LOFTY",
+    "tries": 5
+  },
+  {
+    "word": "LOSER",
+    "tries": 5
+  },
+  {
+    "word": "LYING",
+    "tries": 5
+  },
+  {
+    "word": "MADAM",
+    "tries": 5
+  },
+  {
+    "word": "MAGMA",
+    "tries": 5
+  },
+  {
+    "word": "MAMMA",
+    "tries": 5
+  },
+  {
+    "word": "MAMMY",
+    "tries": 5
+  },
+  {
+    "word": "MANGY",
+    "tries": 5
+  },
+  {
+    "word": "MANIA",
+    "tries": 5
+  },
+  {
+    "word": "MANOR",
+    "tries": 5
+  },
+  {
+    "word": "MASSE",
+    "tries": 5
+  },
+  {
+    "word": "MATEY",
+    "tries": 5
+  },
+  {
+    "word": "MEALY",
+    "tries": 5
+  },
+  {
+    "word": "MERGE",
+    "tries": 5
+  },
+  {
+    "word": "MERRY",
+    "tries": 5
+  },
+  {
+    "word": "MIDGE",
+    "tries": 5
+  },
+  {
+    "word": "MIGHT",
+    "tries": 5
+  },
+  {
+    "word": "MILKY",
+    "tries": 5
+  },
+  {
+    "word": "MINIM",
+    "tries": 5
+  },
+  {
+    "word": "MINOR",
+    "tries": 5
+  },
+  {
+    "word": "MOLAR",
+    "tries": 5
+  },
+  {
+    "word": "MOOSE",
+    "tries": 5
+  },
+  {
+    "word": "MORON",
+    "tries": 5
+  },
+  {
+    "word": "MOURN",
+    "tries": 5
+  },
+  {
+    "word": "MURKY",
+    "tries": 5
+  },
+  {
+    "word": "MUSTY",
+    "tries": 5
+  },
+  {
+    "word": "NASAL",
+    "tries": 5
+  },
+  {
+    "word": "NATAL",
+    "tries": 5
+  },
+  {
+    "word": "NAVEL",
+    "tries": 5
+  },
+  {
+    "word": "NEEDY",
+    "tries": 5
+  },
+  {
+    "word": "NERVE",
+    "tries": 5
+  },
+  {
+    "word": "NUDGE",
+    "tries": 5
+  },
+  {
+    "word": "NYMPH",
+    "tries": 5
+  },
+  {
+    "word": "OPINE",
+    "tries": 5
+  },
+  {
+    "word": "OUTGO",
+    "tries": 5
+  },
+  {
+    "word": "OVARY",
+    "tries": 5
+  },
+  {
+    "word": "OVOID",
+    "tries": 5
+  },
+  {
+    "word": "PARER",
+    "tries": 5
+  },
+  {
+    "word": "PARKA",
+    "tries": 5
+  },
+  {
+    "word": "PARRY",
+    "tries": 5
+  },
+  {
+    "word": "PATCH",
+    "tries": 5
+  },
+  {
+    "word": "PEDAL",
+    "tries": 5
+  },
+  {
+    "word": "PENAL",
+    "tries": 5
+  },
+  {
+    "word": "PENCE",
+    "tries": 5
+  },
+  {
+    "word": "PENNY",
+    "tries": 5
+  },
+  {
+    "word": "PERIL",
+    "tries": 5
+  },
+  {
+    "word": "PERKY",
+    "tries": 5
+  },
+  {
+    "word": "PETTY",
+    "tries": 5
+  },
+  {
+    "word": "PICKY",
+    "tries": 5
+  },
+  {
+    "word": "PIGGY",
+    "tries": 5
+  },
+  {
+    "word": "PIPER",
+    "tries": 5
+  },
+  {
+    "word": "PITHY",
+    "tries": 5
+  },
+  {
+    "word": "PLANK",
+    "tries": 5
+  },
+  {
+    "word": "PLEAD",
+    "tries": 5
+  },
+  {
+    "word": "PLEAT",
+    "tries": 5
+  },
+  {
+    "word": "PLIED",
+    "tries": 5
+  },
+  {
+    "word": "PLUNK",
+    "tries": 5
+  },
+  {
+    "word": "POISE",
+    "tries": 5
+  },
+  {
+    "word": "POLYP",
+    "tries": 5
+  },
+  {
+    "word": "POSSE",
+    "tries": 5
+  },
+  {
+    "word": "PREEN",
+    "tries": 5
+  },
+  {
+    "word": "PRIED",
+    "tries": 5
+  },
+  {
+    "word": "PRIMO",
+    "tries": 5
+  },
+  {
+    "word": "PRISM",
+    "tries": 5
+  },
+  {
+    "word": "PRIZE",
+    "tries": 5
+  },
+  {
+    "word": "PROWL",
+    "tries": 5
+  },
+  {
+    "word": "PUPPY",
+    "tries": 5
+  },
+  {
+    "word": "PURER",
+    "tries": 5
+  },
+  {
+    "word": "PYGMY",
+    "tries": 5
+  },
+  {
+    "word": "QUACK",
+    "tries": 5
+  },
+  {
+    "word": "QUASI",
+    "tries": 5
+  },
+  {
+    "word": "QUEER",
+    "tries": 5
+  },
+  {
+    "word": "QUIRK",
+    "tries": 5
+  },
+  {
+    "word": "RACER",
+    "tries": 5
+  },
+  {
+    "word": "RAJAH",
+    "tries": 5
+  },
+  {
+    "word": "RAMEN",
+    "tries": 5
+  },
+  {
+    "word": "RANDY",
+    "tries": 5
+  },
+  {
+    "word": "RATTY",
+    "tries": 5
+  },
+  {
+    "word": "RAZOR",
+    "tries": 5
+  },
+  {
+    "word": "REBAR",
+    "tries": 5
+  },
+  {
+    "word": "RELAY",
+    "tries": 5
+  },
+  {
+    "word": "RELIC",
+    "tries": 5
+  },
+  {
+    "word": "RHINO",
+    "tries": 5
+  },
+  {
+    "word": "RIGID",
+    "tries": 5
+  },
+  {
+    "word": "RIGOR",
+    "tries": 5
+  },
+  {
+    "word": "RINSE",
+    "tries": 5
+  },
+  {
+    "word": "RISER",
+    "tries": 5
+  },
+  {
+    "word": "RISKY",
+    "tries": 5
+  },
+  {
+    "word": "RIVAL",
+    "tries": 5
+  },
+  {
+    "word": "ROGER",
+    "tries": 5
+  },
+  {
+    "word": "ROOMY",
+    "tries": 5
+  },
+  {
+    "word": "ROUND",
+    "tries": 5
+  },
+  {
+    "word": "ROUSE",
+    "tries": 5
+  },
+  {
+    "word": "ROVER",
+    "tries": 5
+  },
+  {
+    "word": "ROWER",
+    "tries": 5
+  },
+  {
+    "word": "RUDDY",
+    "tries": 5
+  },
+  {
+    "word": "RUMOR",
+    "tries": 5
+  },
+  {
+    "word": "RUPEE",
+    "tries": 5
+  },
+  {
+    "word": "SALLY",
+    "tries": 5
+  },
+  {
+    "word": "SALSA",
+    "tries": 5
+  },
+  {
+    "word": "SALVE",
+    "tries": 5
+  },
+  {
+    "word": "SANDY",
+    "tries": 5
+  },
+  {
+    "word": "SANER",
+    "tries": 5
+  },
+  {
+    "word": "SAVOR",
+    "tries": 5
+  },
+  {
+    "word": "SAVOY",
+    "tries": 5
+  },
+  {
+    "word": "SCALY",
+    "tries": 5
+  },
+  {
+    "word": "SCAMP",
+    "tries": 5
+  },
+  {
+    "word": "SCANT",
+    "tries": 5
+  },
+  {
+    "word": "SCARY",
+    "tries": 5
+  },
+  {
+    "word": "SCENT",
+    "tries": 5
+  },
+  {
+    "word": "SCOFF",
+    "tries": 5
+  },
+  {
+    "word": "SCORN",
+    "tries": 5
+  },
+  {
+    "word": "SCRUM",
+    "tries": 5
+  },
+  {
+    "word": "SEDAN",
+    "tries": 5
+  },
+  {
+    "word": "SEEDY",
+    "tries": 5
+  },
+  {
+    "word": "SEMEN",
+    "tries": 5
+  },
+  {
+    "word": "SERIF",
+    "tries": 5
+  },
+  {
+    "word": "SEVEN",
+    "tries": 5
+  },
+  {
+    "word": "SEWER",
+    "tries": 5
+  },
+  {
+    "word": "SHADE",
+    "tries": 5
+  },
+  {
+    "word": "SHAKY",
+    "tries": 5
+  },
+  {
+    "word": "SHANK",
+    "tries": 5
+  },
+  {
+    "word": "SHARD",
+    "tries": 5
+  },
+  {
+    "word": "SHARK",
+    "tries": 5
+  },
+  {
+    "word": "SHEER",
+    "tries": 5
+  },
+  {
+    "word": "SHOVE",
+    "tries": 5
+  },
+  {
+    "word": "SIEGE",
+    "tries": 5
+  },
+  {
+    "word": "SILKY",
+    "tries": 5
+  },
+  {
+    "word": "SINGE",
+    "tries": 5
+  },
+  {
+    "word": "SISSY",
+    "tries": 5
+  },
+  {
+    "word": "SKIER",
+    "tries": 5
+  },
+  {
+    "word": "SKIFF",
+    "tries": 5
+  },
+  {
+    "word": "SKULK",
+    "tries": 5
+  },
+  {
+    "word": "SLEEK",
+    "tries": 5
+  },
+  {
+    "word": "SLEET",
+    "tries": 5
+  },
+  {
+    "word": "SLIME",
+    "tries": 5
+  },
+  {
+    "word": "SLING",
+    "tries": 5
+  },
+  {
+    "word": "SLINK",
+    "tries": 5
+  },
+  {
+    "word": "SLOOP",
+    "tries": 5
+  },
+  {
+    "word": "SLUNG",
+    "tries": 5
+  },
+  {
+    "word": "SLUSH",
+    "tries": 5
+  },
+  {
+    "word": "SMELL",
+    "tries": 5
+  },
+  {
+    "word": "SMELT",
+    "tries": 5
+  },
+  {
+    "word": "SMITE",
+    "tries": 5
+  },
+  {
+    "word": "SNAKE",
+    "tries": 5
+  },
+  {
+    "word": "SNAKY",
+    "tries": 5
+  },
+  {
+    "word": "SNARE",
+    "tries": 5
+  },
+  {
+    "word": "SNEAK",
+    "tries": 5
+  },
+  {
+    "word": "SNEER",
+    "tries": 5
+  },
+  {
+    "word": "SNIDE",
+    "tries": 5
+  },
+  {
+    "word": "SNIFF",
+    "tries": 5
+  },
+  {
+    "word": "SPADE",
+    "tries": 5
+  },
+  {
+    "word": "SPARK",
+    "tries": 5
+  },
+  {
+    "word": "SPASM",
+    "tries": 5
+  },
+  {
+    "word": "SPAWN",
+    "tries": 5
+  },
+  {
+    "word": "SPEAK",
+    "tries": 5
+  },
+  {
+    "word": "SPEED",
+    "tries": 5
+  },
+  {
+    "word": "SPELT",
+    "tries": 5
+  },
+  {
+    "word": "SPEND",
+    "tries": 5
+  },
+  {
+    "word": "SPERM",
+    "tries": 5
+  },
+  {
+    "word": "SPICE",
+    "tries": 5
+  },
+  {
+    "word": "SPICY",
+    "tries": 5
+  },
+  {
+    "word": "SPIKY",
+    "tries": 5
+  },
+  {
+    "word": "SPILL",
+    "tries": 5
+  },
+  {
+    "word": "SPINE",
+    "tries": 5
+  },
+  {
+    "word": "SPOOF",
+    "tries": 5
+  },
+  {
+    "word": "SPORE",
+    "tries": 5
+  },
+  {
+    "word": "SPOUT",
+    "tries": 5
+  },
+  {
+    "word": "SPREE",
+    "tries": 5
+  },
+  {
+    "word": "SPRIG",
+    "tries": 5
+  },
+  {
+    "word": "SPUNK",
+    "tries": 5
+  },
+  {
+    "word": "SPURN",
+    "tries": 5
+  },
+  {
+    "word": "STACK",
+    "tries": 5
+  },
+  {
+    "word": "STAID",
+    "tries": 5
+  },
+  {
+    "word": "STAIN",
+    "tries": 5
+  },
+  {
+    "word": "STANK",
+    "tries": 5
+  },
+  {
+    "word": "STARE",
+    "tries": 5
+  },
+  {
+    "word": "STEAK",
+    "tries": 5
+  },
+  {
+    "word": "STEED",
+    "tries": 5
+  },
+  {
+    "word": "STIFF",
+    "tries": 5
+  },
+  {
+    "word": "STINK",
+    "tries": 5
+  },
+  {
+    "word": "STOLE",
+    "tries": 5
+  },
+  {
+    "word": "STONY",
+    "tries": 5
+  },
+  {
+    "word": "STOOL",
+    "tries": 5
+  },
+  {
+    "word": "STORK",
+    "tries": 5
+  },
+  {
+    "word": "STRAY",
+    "tries": 5
+  },
+  {
+    "word": "STUMP",
+    "tries": 5
+  },
+  {
+    "word": "STUNK",
+    "tries": 5
+  },
+  {
+    "word": "SUAVE",
+    "tries": 5
+  },
+  {
+    "word": "SULLY",
+    "tries": 5
+  },
+  {
+    "word": "SWAMP",
+    "tries": 5
+  },
+  {
+    "word": "SWARM",
+    "tries": 5
+  },
+  {
+    "word": "SWASH",
+    "tries": 5
+  },
+  {
+    "word": "SWEAR",
+    "tries": 5
+  },
+  {
+    "word": "SWEPT",
+    "tries": 5
+  },
+  {
+    "word": "SWILL",
+    "tries": 5
+  },
+  {
+    "word": "SWOON",
+    "tries": 5
+  },
+  {
+    "word": "SWORE",
+    "tries": 5
+  },
+  {
+    "word": "SWUNG",
+    "tries": 5
+  },
+  {
+    "word": "TACIT",
+    "tries": 5
+  },
+  {
+    "word": "TAFFY",
+    "tries": 5
+  },
+  {
+    "word": "TAKER",
+    "tries": 5
+  },
+  {
+    "word": "TAPIR",
+    "tries": 5
+  },
+  {
+    "word": "TAUNT",
+    "tries": 5
+  },
+  {
+    "word": "TEPEE",
+    "tries": 5
+  },
+  {
+    "word": "TIDAL",
+    "tries": 5
+  },
+  {
+    "word": "TITAN",
+    "tries": 5
+  },
+  {
+    "word": "TONIC",
+    "tries": 5
+  },
+  {
+    "word": "TRAIL",
+    "tries": 5
+  },
+  {
+    "word": "TRAIT",
+    "tries": 5
+  },
+  {
+    "word": "TRAMP",
+    "tries": 5
+  },
+  {
+    "word": "TREAD",
+    "tries": 5
+  },
+  {
+    "word": "TRIAD",
+    "tries": 5
+  },
+  {
+    "word": "TRITE",
+    "tries": 5
+  },
+  {
+    "word": "TROPE",
+    "tries": 5
+  },
+  {
+    "word": "TRUCE",
+    "tries": 5
+  },
+  {
+    "word": "TRUMP",
+    "tries": 5
+  },
+  {
+    "word": "TRUNK",
+    "tries": 5
+  },
+  {
+    "word": "TWINE",
+    "tries": 5
+  },
+  {
+    "word": "ULCER",
+    "tries": 5
+  },
+  {
+    "word": "UNFED",
+    "tries": 5
+  },
+  {
+    "word": "USURP",
+    "tries": 5
+  },
+  {
+    "word": "VALVE",
+    "tries": 5
+  },
+  {
+    "word": "VAPOR",
+    "tries": 5
+  },
+  {
+    "word": "VEGAN",
+    "tries": 5
+  },
+  {
+    "word": "VERGE",
+    "tries": 5
+  },
+  {
+    "word": "VERSE",
+    "tries": 5
+  },
+  {
+    "word": "VIGIL",
+    "tries": 5
+  },
+  {
+    "word": "VIPER",
+    "tries": 5
+  },
+  {
+    "word": "WAFER",
+    "tries": 5
+  },
+  {
+    "word": "WAIST",
+    "tries": 5
+  },
+  {
+    "word": "WAIVE",
+    "tries": 5
+  },
+  {
+    "word": "WALTZ",
+    "tries": 5
+  },
+  {
+    "word": "WAXEN",
+    "tries": 5
+  },
+  {
+    "word": "WEARY",
+    "tries": 5
+  },
+  {
+    "word": "WEAVE",
+    "tries": 5
+  },
+  {
+    "word": "WHACK",
+    "tries": 5
+  },
+  {
+    "word": "WHALE",
+    "tries": 5
+  },
+  {
+    "word": "WHARF",
+    "tries": 5
+  },
+  {
+    "word": "WHIFF",
+    "tries": 5
+  },
+  {
+    "word": "WIMPY",
+    "tries": 5
+  },
+  {
+    "word": "WITCH",
+    "tries": 5
+  },
+  {
+    "word": "WOKEN",
+    "tries": 5
+  },
+  {
+    "word": "WOODY",
+    "tries": 5
+  },
+  {
+    "word": "WOOLY",
+    "tries": 5
+  },
+  {
+    "word": "WOOZY",
+    "tries": 5
+  },
+  {
+    "word": "WRACK",
+    "tries": 5
+  },
+  {
+    "word": "WREAK",
+    "tries": 5
+  },
+  {
+    "word": "YEARN",
+    "tries": 5
+  },
+  {
+    "word": "YIELD",
+    "tries": 5
+  },
+  {
+    "word": "ZEBRA",
+    "tries": 5
+  },
+  {
+    "word": "ZONAL",
+    "tries": 5
+  },
+  {
+    "word": "ALLAY",
+    "tries": 6
+  },
+  {
+    "word": "BANAL",
+    "tries": 6
+  },
+  {
+    "word": "BEVEL",
+    "tries": 6
+  },
+  {
+    "word": "BLARE",
+    "tries": 6
+  },
+  {
+    "word": "BLUER",
+    "tries": 6
+  },
+  {
+    "word": "BUSHY",
+    "tries": 6
+  },
+  {
+    "word": "CADDY",
+    "tries": 6
+  },
+  {
+    "word": "CANNY",
+    "tries": 6
+  },
+  {
+    "word": "CATCH",
+    "tries": 6
+  },
+  {
+    "word": "CLINK",
+    "tries": 6
+  },
+  {
+    "word": "CONIC",
+    "tries": 6
+  },
+  {
+    "word": "CRASH",
+    "tries": 6
+  },
+  {
+    "word": "CRAZE",
+    "tries": 6
+  },
+  {
+    "word": "CREAK",
+    "tries": 6
+  },
+  {
+    "word": "CROCK",
+    "tries": 6
+  },
+  {
+    "word": "DADDY",
+    "tries": 6
+  },
+  {
+    "word": "DANDY",
+    "tries": 6
+  },
+  {
+    "word": "DECAL",
+    "tries": 6
+  },
+  {
+    "word": "DEMUR",
+    "tries": 6
+  },
+  {
+    "word": "DIMLY",
+    "tries": 6
+  },
+  {
+    "word": "DROWN",
+    "tries": 6
+  },
+  {
+    "word": "EATER",
+    "tries": 6
+  },
+  {
+    "word": "EIGHT",
+    "tries": 6
+  },
+  {
+    "word": "ELIDE",
+    "tries": 6
+  },
+  {
+    "word": "EYING",
+    "tries": 6
+  },
+  {
+    "word": "FARCE",
+    "tries": 6
+  },
+  {
+    "word": "FECAL",
+    "tries": 6
+  },
+  {
+    "word": "FEMME",
+    "tries": 6
+  },
+  {
+    "word": "FILER",
+    "tries": 6
+  },
+  {
+    "word": "FILMY",
+    "tries": 6
+  },
+  {
+    "word": "FILTH",
+    "tries": 6
+  },
+  {
+    "word": "FLAKE",
+    "tries": 6
+  },
+  {
+    "word": "FLAKY",
+    "tries": 6
+  },
+  {
+    "word": "FLANK",
+    "tries": 6
+  },
+  {
+    "word": "FLIER",
+    "tries": 6
+  },
+  {
+    "word": "FLING",
+    "tries": 6
+  },
+  {
+    "word": "FOIST",
+    "tries": 6
+  },
+  {
+    "word": "FREER",
+    "tries": 6
+  },
+  {
+    "word": "FRILL",
+    "tries": 6
+  },
+  {
+    "word": "FRISK",
+    "tries": 6
+  },
+  {
+    "word": "FROZE",
+    "tries": 6
+  },
+  {
+    "word": "FUROR",
+    "tries": 6
+  },
+  {
+    "word": "FURRY",
+    "tries": 6
+  },
+  {
+    "word": "GASSY",
+    "tries": 6
+  },
+  {
+    "word": "GIPSY",
+    "tries": 6
+  },
+  {
+    "word": "GIVER",
+    "tries": 6
+  },
+  {
+    "word": "GLARE",
+    "tries": 6
+  },
+  {
+    "word": "GLAZE",
+    "tries": 6
+  },
+  {
+    "word": "GOLLY",
+    "tries": 6
+  },
+  {
+    "word": "GONER",
+    "tries": 6
+  },
+  {
+    "word": "GRAVY",
+    "tries": 6
+  },
+  {
+    "word": "GRAZE",
+    "tries": 6
+  },
+  {
+    "word": "GUPPY",
+    "tries": 6
+  },
+  {
+    "word": "GUSTY",
+    "tries": 6
+  },
+  {
+    "word": "HALVE",
+    "tries": 6
+  },
+  {
+    "word": "HASTE",
+    "tries": 6
+  },
+  {
+    "word": "HEAVE",
+    "tries": 6
+  },
+  {
+    "word": "HITCH",
+    "tries": 6
+  },
+  {
+    "word": "HOMER",
+    "tries": 6
+  },
+  {
+    "word": "HUNKY",
+    "tries": 6
+  },
+  {
+    "word": "IRATE",
+    "tries": 6
+  },
+  {
+    "word": "JAUNT",
+    "tries": 6
+  },
+  {
+    "word": "JAZZY",
+    "tries": 6
+  },
+  {
+    "word": "JERKY",
+    "tries": 6
+  },
+  {
+    "word": "JIFFY",
+    "tries": 6
+  },
+  {
+    "word": "KNAVE",
+    "tries": 6
+  },
+  {
+    "word": "LADLE",
+    "tries": 6
+  },
+  {
+    "word": "LEAFY",
+    "tries": 6
+  },
+  {
+    "word": "LIKEN",
+    "tries": 6
+  },
+  {
+    "word": "LIPID",
+    "tries": 6
+  },
+  {
+    "word": "MAFIA",
+    "tries": 6
+  },
+  {
+    "word": "MANGE",
+    "tries": 6
+  },
+  {
+    "word": "MINER",
+    "tries": 6
+  },
+  {
+    "word": "MINTY",
+    "tries": 6
+  },
+  {
+    "word": "MISSY",
+    "tries": 6
+  },
+  {
+    "word": "MOODY",
+    "tries": 6
+  },
+  {
+    "word": "MORPH",
+    "tries": 6
+  },
+  {
+    "word": "MOVER",
+    "tries": 6
+  },
+  {
+    "word": "NANNY",
+    "tries": 6
+  },
+  {
+    "word": "NERDY",
+    "tries": 6
+  },
+  {
+    "word": "NINNY",
+    "tries": 6
+  },
+  {
+    "word": "NINTH",
+    "tries": 6
+  },
+  {
+    "word": "PANSY",
+    "tries": 6
+  },
+  {
+    "word": "PASTY",
+    "tries": 6
+  },
+  {
+    "word": "PENNE",
+    "tries": 6
+  },
+  {
+    "word": "PESKY",
+    "tries": 6
+  },
+  {
+    "word": "PETAL",
+    "tries": 6
+  },
+  {
+    "word": "PINEY",
+    "tries": 6
+  },
+  {
+    "word": "PINKY",
+    "tries": 6
+  },
+  {
+    "word": "POUCH",
+    "tries": 6
+  },
+  {
+    "word": "POUND",
+    "tries": 6
+  },
+  {
+    "word": "PRANK",
+    "tries": 6
+  },
+  {
+    "word": "PUDGY",
+    "tries": 6
+  },
+  {
+    "word": "PUREE",
+    "tries": 6
+  },
+  {
+    "word": "PURGE",
+    "tries": 6
+  },
+  {
+    "word": "QUAIL",
+    "tries": 6
+  },
+  {
+    "word": "RARER",
+    "tries": 6
+  },
+  {
+    "word": "REEDY",
+    "tries": 6
+  },
+  {
+    "word": "RELAX",
+    "tries": 6
+  },
+  {
+    "word": "RIPER",
+    "tries": 6
+  },
+  {
+    "word": "RISEN",
+    "tries": 6
+  },
+  {
+    "word": "RUDER",
+    "tries": 6
+  },
+  {
+    "word": "SAVVY",
+    "tries": 6
+  },
+  {
+    "word": "SCALD",
+    "tries": 6
+  },
+  {
+    "word": "SCARF",
+    "tries": 6
+  },
+  {
+    "word": "SCOLD",
+    "tries": 6
+  },
+  {
+    "word": "SEIZE",
+    "tries": 6
+  },
+  {
+    "word": "SEVER",
+    "tries": 6
+  },
+  {
+    "word": "SHAKE",
+    "tries": 6
+  },
+  {
+    "word": "SHALE",
+    "tries": 6
+  },
+  {
+    "word": "SHEAR",
+    "tries": 6
+  },
+  {
+    "word": "SHEEN",
+    "tries": 6
+  },
+  {
+    "word": "SIEVE",
+    "tries": 6
+  },
+  {
+    "word": "SKIMP",
+    "tries": 6
+  },
+  {
+    "word": "SLEPT",
+    "tries": 6
+  },
+  {
+    "word": "SLIMY",
+    "tries": 6
+  },
+  {
+    "word": "SLUNK",
+    "tries": 6
+  },
+  {
+    "word": "SNIPE",
+    "tries": 6
+  },
+  {
+    "word": "SNOUT",
+    "tries": 6
+  },
+  {
+    "word": "SOGGY",
+    "tries": 6
+  },
+  {
+    "word": "SOWER",
+    "tries": 6
+  },
+  {
+    "word": "SPIKE",
+    "tries": 6
+  },
+  {
+    "word": "SPINY",
+    "tries": 6
+  },
+  {
+    "word": "SPOOK",
+    "tries": 6
+  },
+  {
+    "word": "STALE",
+    "tries": 6
+  },
+  {
+    "word": "STAMP",
+    "tries": 6
+  },
+  {
+    "word": "STARK",
+    "tries": 6
+  },
+  {
+    "word": "STEAD",
+    "tries": 6
+  },
+  {
+    "word": "STING",
+    "tries": 6
+  },
+  {
+    "word": "STOKE",
+    "tries": 6
+  },
+  {
+    "word": "STOMP",
+    "tries": 6
+  },
+  {
+    "word": "STOOP",
+    "tries": 6
+  },
+  {
+    "word": "STUNG",
+    "tries": 6
+  },
+  {
+    "word": "SULKY",
+    "tries": 6
+  },
+  {
+    "word": "TAINT",
+    "tries": 6
+  },
+  {
+    "word": "TAMER",
+    "tries": 6
+  },
+  {
+    "word": "TANGY",
+    "tries": 6
+  },
+  {
+    "word": "TATTY",
+    "tries": 6
+  },
+  {
+    "word": "TRAWL",
+    "tries": 6
+  },
+  {
+    "word": "TRIPE",
+    "tries": 6
+  },
+  {
+    "word": "TRUER",
+    "tries": 6
+  },
+  {
+    "word": "VERVE",
+    "tries": 6
+  },
+  {
+    "word": "VISOR",
+    "tries": 6
+  },
+  {
+    "word": "WACKY",
+    "tries": 6
+  },
+  {
+    "word": "WAGER",
+    "tries": 6
+  },
+  {
+    "word": "WHINY",
+    "tries": 6
+  },
+  {
+    "word": "WISPY",
+    "tries": 6
+  },
+  {
+    "word": "WITTY",
+    "tries": 6
+  },
+  {
+    "word": "CATTY",
+    "tries": 7
+  },
+  {
+    "word": "COWER",
+    "tries": 7
+  },
+  {
+    "word": "CRASS",
+    "tries": 7
+  },
+  {
+    "word": "DAUNT",
+    "tries": 7
+  },
+  {
+    "word": "DILLY",
+    "tries": 7
+  },
+  {
+    "word": "DITCH",
+    "tries": 7
+  },
+  {
+    "word": "DITTY",
+    "tries": 7
+  },
+  {
+    "word": "EKING",
+    "tries": 7
+  },
+  {
+    "word": "FANNY",
+    "tries": 7
+  },
+  {
+    "word": "FINER",
+    "tries": 7
+  },
+  {
+    "word": "FIZZY",
+    "tries": 7
+  },
+  {
+    "word": "FOYER",
+    "tries": 7
+  },
+  {
+    "word": "FROWN",
+    "tries": 7
+  },
+  {
+    "word": "GAWKY",
+    "tries": 7
+  },
+  {
+    "word": "GAYER",
+    "tries": 7
+  },
+  {
+    "word": "GAZER",
+    "tries": 7
+  },
+  {
+    "word": "GLADE",
+    "tries": 7
+  },
+  {
+    "word": "GOODY",
+    "tries": 7
+  },
+  {
+    "word": "HATCH",
+    "tries": 7
+  },
+  {
+    "word": "HATER",
+    "tries": 7
+  },
+  {
+    "word": "HOUND",
+    "tries": 7
+  },
+  {
+    "word": "HOVER",
+    "tries": 7
+  },
+  {
+    "word": "LATCH",
+    "tries": 7
+  },
+  {
+    "word": "LEAKY",
+    "tries": 7
+  },
+  {
+    "word": "MISER",
+    "tries": 7
+  },
+  {
+    "word": "MOUND",
+    "tries": 7
+  },
+  {
+    "word": "PLIER",
+    "tries": 7
+  },
+  {
+    "word": "RIPEN",
+    "tries": 7
+  },
+  {
+    "word": "SASSY",
+    "tries": 7
+  },
+  {
+    "word": "SCOWL",
+    "tries": 7
+  },
+  {
+    "word": "SHAVE",
+    "tries": 7
+  },
+  {
+    "word": "SIREN",
+    "tries": 7
+  },
+  {
+    "word": "STAIR",
+    "tries": 7
+  },
+  {
+    "word": "STALK",
+    "tries": 7
+  },
+  {
+    "word": "STALL",
+    "tries": 7
+  },
+  {
+    "word": "STASH",
+    "tries": 7
+  },
+  {
+    "word": "STAVE",
+    "tries": 7
+  },
+  {
+    "word": "TARDY",
+    "tries": 7
+  },
+  {
+    "word": "TIGHT",
+    "tries": 7
+  },
+  {
+    "word": "VAUNT",
+    "tries": 7
+  },
+  {
+    "word": "VIGOR",
+    "tries": 7
+  },
+  {
+    "word": "VOUCH",
+    "tries": 7
+  },
+  {
+    "word": "WAVER",
+    "tries": 7
+  },
+  {
+    "word": "WIGHT",
+    "tries": 7
+  }
+]

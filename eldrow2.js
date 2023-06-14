@@ -45,7 +45,7 @@ async function main$(_opts) {
       reorderedGuesses.push(guess);
     }
   }
-  console.log(reorderedGuesses.sort((a,b) => a.order - b.order));
+  console.log(reorderedGuesses.sort((a,b) => (a.order || 0) - (b.order || 0)));
 }
 
 module.exports = { main$ };

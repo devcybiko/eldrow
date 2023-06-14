@@ -1,5 +1,3 @@
-    var La = [
-]
 aback
 abase
 abate
