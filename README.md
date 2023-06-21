@@ -1,5 +1,5 @@
 # ELDROW - The Wordle Solver
-<!-- gitComment(README file) -->
+<!-- gitComment(README file [1687316048322]) -->
 ## Command
 `USAGE: eldrow.js --help --omitfile=omit.txt --omit=WORD --wordfile=five-letter-words.txt guess1=BGYBG guess2=BGYBG...`
 
