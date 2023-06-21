@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * gitComment(wordle Solver using frequency of occurance of words in English corpus)
+ * gitComment(wordle Solver using frequency of occurance of words in English corpus [1687315357566])
  * solve wordle
  **/
 
