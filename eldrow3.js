@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 /**
+ * gitComment(wordle Solver using frequency of occurance of words in English corpus)
  * solve wordle
  **/
 
@@ -20,7 +21,7 @@ function log() {
 async function main$(_opts) {
   let opts = gprocs.args("--test,--wordfile=five-letter-words-by-freq-of-occurrance.csv", "");
   log(opts);
-  let dictionary = gfiles.readList("wordle-word-list-sorted.txt");
+  let dictionary = gfiles.readList(opts.wordfile);
   dictionary.forEach((value, index, array) => array[index] = value.toUpperCase().trim());
   freq = {};
   let lines = gfiles.readList(opts.wordfile)
