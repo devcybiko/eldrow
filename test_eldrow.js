@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * gitComment(This is a program to test a Wordle algorithm against all known words)
+ * gitComment(This is a program to test a Wordle algorithm against all known words [1687316048322])
  * wordle stats: https://photutorial.com/wordle-statistics
  * 
 Attempt	Success rate
