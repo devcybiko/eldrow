@@ -1,1 +1,3 @@
+# gitComment(files to ignore)
 node_modules/
+*.jnk

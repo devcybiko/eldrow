@@ -1,4 +1,5 @@
 class Histogram {
+  // gitComment(calculate the frequency of letters in each word)
   // a histogram of letters for 5-letter words
   // each element of letterHistos is the count of the number of times that letter appears in the word list
   constructor(words) {

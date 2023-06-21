@@ -1,3 +1,4 @@
+// gitComment(A Dictionary Class)
 const glstools = require("glstools");
 const gfiles = glstools.files;
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * solve wordle
+ * basic algorithm uses frequency of occurance of letters
  **/
 
 const glstools = require("glstools");
